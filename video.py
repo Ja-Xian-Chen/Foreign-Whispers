@@ -13,7 +13,7 @@ for url in links:
     stream.download(videos)
 
     caption = yt.captions.get_by_language_code('en')
-    filename = title.replace("\"", "").replace(":", "").replace(" ", "")+".txt"
+    filename = title.replace(" ", "")+".txt"
     writeFile = open(f"{captions}\\{filename}", "w+")
     writeFile.write(caption.xml_captions)
     writeFile.close()
