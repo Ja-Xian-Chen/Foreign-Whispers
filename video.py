@@ -3,19 +3,20 @@ from pytube import YouTube
 file = open('links.txt','r')
 links = file.readlines()
 
-videos = "videos"
-captions = "captions"
+videosPath = "data/videos/"
+captionsPath = "data/captions/"
 
 for url in links:
     yt = YouTube(url)
-    title = yt.title
+    vidFilename = yt.title.replace(' ', '_')
     stream = yt.streams.get_by_itag(18)
-    stream.download(videos)
+    stream.download(videosPath, vidFilename)
 
-    caption = yt.captions.get_by_language_code('en')
-    filename = title.replace(" ", "")+".txt"
-    writeFile = open(f"{captions}\\{filename}", "w+")
-    writeFile.write(caption.xml_captions)
-    writeFile.close()
+    ccFilename = vidFilename + ".txt"
+    captions = yt.captions['a.en']
+    with open(f"{captionsPath}{ccFilename}", 'w+') as wFile:
+        wFile.write(captions.xml_captions)
     
-    print("Downloaded:", title)
+    print("Downloaded:", vidFilename)
+
+file.close()
