@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="1360" d="5680" w="1"><s ac="255">60</s><s t="400" ac="255"> minutes</s><s t="799" ac="255"> rewind</s></p>
+<p t="4630" d="2410" w="1" a="1">
+</p>
+<p t="4640" d="4080" w="1"><s ac="255">next</s><s t="240" ac="255"> subject</s><s t="880" ac="255"> baby</s><s t="1280" ac="255"> boomers</s><s t="1840" ac="255"> let&#39;s</s><s t="2080" ac="255"> begin</s></p>
+<p t="7030" d="1690" w="1" a="1">
+</p>
+<p t="7040" d="3760" w="1"><s ac="255">with</s><s t="160" ac="255"> a</s><s t="239" ac="255"> trivia</s><s t="719" ac="255"> question</s></p>
+<p t="8710" d="2090" w="1" a="1">
+</p>
+<p t="8720" d="3999" w="1"><s ac="255">who</s><s t="240" ac="255"> is</s><s t="400" ac="255"> the</s><s t="480" ac="255"> most</s><s t="799" ac="255"> quoted</s><s t="1200" ac="255"> living</s><s t="1520" ac="255"> american</s></p>
+<p t="10790" d="1929" w="1" a="1">
+</p>
+<p t="10800" d="5600" w="1"><s ac="255">in</s><s t="160" ac="255"> the</s><s t="240" ac="255"> penguin</s><s t="640" ac="255"> dictionary</s><s t="1280" ac="255"> of</s><s t="1440" ac="255"> humorous</s></p>
+<p t="12709" d="3691" w="1" a="1">
+</p>
+<p t="12719" d="5601" w="1"><s ac="255">quotations</s><s t="1201" ac="255"> woody</s><s t="1601" ac="255"> allen</s><s t="2401" ac="255"> steve</s><s t="2800" ac="255"> martin</s></p>
+<p t="16390" d="1930" w="1" a="1">
+</p>
+<p t="16400" d="4719" w="1"><s ac="255">johnny</s><s t="400" ac="255"> carson</s></p>
+<p t="18310" d="2809" w="1" a="1">
+</p>
+<p t="18320" d="4480" w="1"><s ac="255">wrong</s><s t="640" ac="255"> here&#39;s</s><s t="959" ac="255"> a</s><s t="1039" ac="255"> clue</s><s t="1760" ac="255"> his</s><s t="2080" ac="255"> last</s><s t="2320" ac="255"> two</s><s t="2480" ac="255"> books</s></p>
+<p t="21109" d="1691" w="1" a="1">
+</p>
+<p t="21119" d="3121" w="1"><s ac="255">made</s><s t="160" ac="255"> it</s><s t="320" ac="255"> to</s><s t="401" ac="255"> the</s><s t="481" ac="255"> top</s><s t="721" ac="255"> of</s><s t="801" ac="255"> the</s><s t="881" ac="255"> new</s><s t="1041" ac="255"> york</s><s t="1361" ac="255"> times</s></p>
+<p t="22790" d="1450" w="1" a="1">
+</p>
+<p t="22800" d="3200" w="1"><s ac="255">bestseller</s><s t="559" ac="255"> list</s></p>
+<p t="24230" d="1770" w="1" a="1">
+</p>
+<p t="24240" d="4640" w="1"><s ac="255">still</s><s t="320" ac="255"> don&#39;t</s><s t="560" ac="255"> know</s></p>
+<p t="25990" d="2890" w="1" a="1">
+</p>
+<p t="26000" d="4240" w="1"><s ac="255">the</s><s t="240" ac="255"> answer</s><s t="640" ac="255"> is</s><s t="880" ac="255"> pj</s><s t="1359" ac="255"> o&#39;rourke</s><s t="2240" ac="255"> you</s><s t="2400" ac="255"> may</s><s t="2560" ac="255"> never</s></p>
+<p t="28870" d="1370" w="1" a="1">
+</p>
+<p t="28880" d="4240" w="1"><s ac="255">have</s><s t="80" ac="255"> heard</s><s t="319" ac="255"> of</s><s t="399" ac="255"> him</s><s t="559" ac="255"> but</s><s t="719" ac="255"> if</s><s t="880" ac="255"> you&#39;re</s><s t="1040" ac="255"> in</s><s t="1200" ac="255"> your</s></p>
+<p t="30230" d="2890" w="1" a="1">
+</p>
+<p t="30240" d="4880" w="1"><s ac="255">30s</s><s t="480" ac="255"> or</s><s t="560" ac="255"> 40s</s><s t="1039" ac="255"> or</s><s t="1199" ac="255"> early</s><s t="1439" ac="255"> 50s</s><s t="2319" ac="255"> believe</s><s t="2640" ac="255"> me</s><s t="2800" ac="255"> you</s></p>
+<p t="33110" d="2010" w="1" a="1">
+</p>
+<p t="33120" d="4320" w="1"><s ac="255">know</s><s t="240" ac="255"> him</s><s t="800" ac="255"> he&#39;s</s><s t="1040" ac="255"> the</s><s t="1119" ac="255"> guy</s><s t="1439" ac="255"> on</s><s t="1520" ac="255"> the</s><s t="1599" ac="255"> leading</s></p>
+<p t="35110" d="2330" w="1" a="1">
+</p>
+<p t="35120" d="4240" w="1"><s ac="255">edge</s><s t="240" ac="255"> of</s><s t="320" ac="255"> your</s><s t="560" ac="255"> generational</s><s t="1360" ac="255"> curve</s><s t="2080" ac="255"> in</s></p>
+<p t="37430" d="1930" w="1" a="1">
+</p>
+<p t="37440" d="3680" w="1"><s ac="255">college</s><s t="400" ac="255"> he</s><s t="560" ac="255"> was</s><s t="720" ac="255"> a</s><s t="799" ac="255"> hippie</s><s t="1439" ac="255"> and</s><s t="1600" ac="255"> while</s><s t="1760" ac="255"> you</s></p>
+<p t="39350" d="1770" w="1" a="1">
+</p>
+<p t="39360" d="3440" w="1"><s ac="255">were</s><s t="160" ac="255"> giggling</s><s t="560" ac="255"> at</s><s t="640" ac="255"> the</s><s t="719" ac="255"> national</s><s t="1120" ac="255"> lampoon</s><s t="1600" ac="255"> he</s></p>
+<p t="41110" d="1690" w="1" a="1">
+</p>
+<p t="41120" d="2959" w="1"><s ac="255">was</s><s t="160" ac="255"> the</s><s t="240" ac="255"> editor-in-chief</s></p>
+<p t="42790" d="1289" w="1" a="1">
+</p>
+<p t="42800" d="3439" w="1"><s ac="255">now</s><s t="160" ac="255"> that</s><s t="320" ac="255"> you&#39;re</s><s t="480" ac="255"> getting</s><s t="800" ac="255"> older</s><s t="1120" ac="255"> and</s></p>
+<p t="44069" d="2170" w="1" a="1">
+</p>
+<p t="44079" d="3681" w="1"><s ac="255">becoming</s><s t="401" ac="255"> more</s><s t="640" ac="255"> conservative</s><s t="1681" ac="255"> guess</s><s t="1921" ac="255"> who&#39;s</s></p>
+<p t="46229" d="1531" w="1" a="1">
+</p>
+<p t="46239" d="3521" w="1"><s ac="255">become</s><s t="320" ac="255"> the</s><s t="480" ac="255"> right</s><s t="721" ac="255"> wing&#39;s</s><s t="1121" ac="255"> favorite</s></p>
+<p t="47750" d="2010" w="1" a="1">
+</p>
+<p t="47760" d="4799" w="1"><s ac="255">political</s><s t="560" ac="255"> satirist</s></p>
+<p t="49750" d="2809" w="1" a="1">
+</p>
+<p t="49760" d="4400" w="1"><s ac="255">i</s><s t="400" ac="255"> am</s><s t="639" ac="255"> frankly</s><s t="1040" ac="255"> nostalgic</s><s t="1680" ac="255"> for</s><s t="1840" ac="255"> the</s><s t="2000" ac="255"> 1980s</s></p>
+<p t="52549" d="1611" w="1" a="1">
+</p>
+<p t="52559" d="5881" w="1"><s ac="255">when</s><s t="241" ac="255"> sleeping</s><s t="561" ac="255"> with</s><s t="801" ac="255"> the</s><s t="961" ac="255"> president</s><s t="1361" ac="255"> meant</s></p>
+<p t="54150" d="4290" w="1" a="1">
+</p>
+<p t="54160" d="4280" w="1"><s ac="255">that</s><s t="79" ac="255"> you&#39;d</s><s t="320" ac="255"> attended</s><s t="800" ac="255"> a</s><s t="879" ac="255"> cabinet</s><s t="1280" ac="255"> meeting</s></p>
+<p t="58549" w="1" a="1">
+</p>
+<p t="58559" d="3281" w="1"><s ac="255">if</s><s t="160" ac="255"> you</s><s t="241" ac="255"> want</s><s t="401" ac="255"> to</s><s t="480" ac="255"> know</s><s t="640" ac="255"> why</s><s t="961" ac="255"> political</s></p>
+<p t="60069" d="1771" w="1" a="1">
+</p>
+<p t="60079" d="3761" w="1"><s ac="255">incumbents</s><s t="640" ac="255"> are</s><s t="800" ac="255"> in</s><s t="881" ac="255"> trouble</s><s t="1201" ac="255"> this</s><s t="1361" ac="255"> year</s></p>
+<p t="61830" d="2010" w="1" a="1">
+</p>
+<p t="61840" d="4959" w="1"><s ac="255">spend</s><s t="320" ac="255"> some</s><s t="480" ac="255"> time</s><s t="800" ac="255"> on</s><s t="879" ac="255"> the</s><s t="1039" ac="255"> road</s><s t="1280" ac="255"> with</s><s t="1519" ac="255"> pj</s></p>
+<p t="63830" d="2969" w="1" a="1">
+</p>
+<p t="63840" d="4639" w="1"><s ac="255">o&#39;rourke</s><s t="959" ac="255"> his</s><s t="1200" ac="255"> suspicious</s><s t="1920" ac="255"> cynical</s><s t="2400" ac="255"> takes</s><s t="2720" ac="255"> on</s></p>
+<p t="66789" d="1690" w="1" a="1">
+</p>
+<p t="66799" d="3521" w="1"><s ac="255">government</s><s t="401" ac="255"> find</s><s t="721" ac="255"> a</s><s t="801" ac="255"> friendly</s><s t="1201" ac="255"> audience</s></p>
+<p t="68469" d="1851" w="1" a="1">
+</p>
+<p t="68479" d="4241" w="1"><s ac="255">among</s><s t="320" ac="255"> small</s><s t="640" ac="255"> businessmen</s></p>
+<p t="70310" d="2410" w="1" a="1">
+</p>
+<p t="70320" d="4799" w="1"><s ac="255">and</s><s t="240" ac="255"> is</s><s t="400" ac="255"> smart</s><s t="799" ac="255"> often</s><s t="1200" ac="255"> smart</s><s t="1600" ac="255"> alecky</s><s t="2080" ac="255"> view</s><s t="2320" ac="255"> of</s></p>
+<p t="72710" d="2409" w="1" a="1">
+</p>
+<p t="72720" d="5120" w="1"><s ac="255">the</s><s t="160" ac="255"> world</s><s t="800" ac="255"> has</s><s t="1040" ac="255"> struck</s><s t="1360" ac="255"> a</s><s t="1520" ac="255"> chord</s><s t="1840" ac="255"> among</s><s t="2160" ac="255"> his</s></p>
+<p t="75109" d="2731" w="1" a="1">
+</p>
+<p t="75119" d="5040" w="1"><s ac="255">fellow</s><s t="401" ac="255"> jaded</s><s t="801" ac="255"> baby</s><s t="1201" ac="255"> boomers</s><s t="1921" ac="255"> who</s><s t="2161" ac="255"> crowd</s><s t="2481" ac="255"> into</s></p>
+<p t="77830" d="2329" w="1" a="1">
+</p>
+<p t="77840" d="4319" w="1"><s ac="255">bookstores</s><s t="800" ac="255"> for</s><s t="959" ac="255"> his</s><s t="1120" ac="255"> readings</s><s t="1520" ac="255"> i</s><s t="1840" ac="255"> find</s><s t="2080" ac="255"> your</s></p>
+<p t="80149" d="2010" w="1" a="1">
+</p>
+<p t="80159" d="4161" w="1"><s ac="255">political</s><s t="481" ac="255"> observation</s><s t="1041" ac="255"> so</s><s t="1280" ac="255"> is</s><s t="1441" ac="255"> too</s><s t="1761" ac="255"> and</s><s t="1921" ac="255"> have</s></p>
+<p t="82149" d="2171" w="1" a="1">
+</p>
+<p t="82159" d="5041" w="1"><s ac="255">made</s><s t="320" ac="255"> his</s><s t="481" ac="255"> books</s><s t="721" ac="255"> like</s><s t="960" ac="255"> parliament</s><s t="1441" ac="255"> of</s></p>
+<p t="84310" d="2890" w="1" a="1">
+</p>
+<p t="84320" d="4640" w="1"><s ac="255">and</s><s t="159" ac="255"> give</s><s t="400" ac="255"> war</s><s t="640" ac="255"> a</s><s t="799" ac="255"> chance</s><s t="1439" ac="255"> best</s><s t="1760" ac="255"> sellers</s><s t="2560" ac="255"> i&#39;m</s><s t="2799" ac="255"> a</s></p>
+<p t="87190" d="1770" w="1" a="1">
+</p>
+<p t="87200" d="2879" w="1"><s ac="255">liberal</s><s t="400" ac="255"> and</s><s t="480" ac="255"> i</s><s t="1040" ac="255"> probably</s><s t="1360" ac="255"> should</s><s t="1520" ac="255"> hate</s></p>
+<p t="88950" d="1129" w="1" a="1">
+</p>
+<p t="88960" d="2640" w="1"><s ac="255">everything</s><s t="320" ac="255"> you&#39;re</s><s t="479" ac="255"> right</s><s t="640" ac="255"> and</s><s t="720" ac="255"> maybe</s><s t="960" ac="255"> it&#39;s</s></p>
+<p t="90069" d="1531" w="1" a="1">
+</p>
+<p t="90079" d="3680" w="1"><s ac="255">because</s><s t="241" ac="255"> i&#39;m</s><s t="400" ac="255"> an</s><s t="561" ac="255"> aging</s><s t="801" ac="255"> liberal</s><s t="1121" ac="255"> on</s><s t="1201" ac="255"> his</s><s t="1360" ac="255"> way</s></p>
+<p t="91590" d="2169" w="1" a="1">
+</p>
+<p t="91600" d="3140" w="1"><s ac="255">to</s><s t="80" ac="255"> becoming</s><s t="400" ac="255"> a</s><s t="559" ac="255"> conservative</s><s t="1280" ac="255"> but</s><s t="1519" ac="255"> i</s><s t="1760" ac="255"> i</s><s t="2000" ac="255"> find</s></p>
+<p t="93749" d="991" w="1" a="1">
+</p>
+<p t="93759" d="3201" w="1"><s ac="255">you&#39;ve</s><s t="161" ac="255"> been</s><s t="400" ac="255"> mugged</s></p>
+<p t="94730" d="2230" w="1" a="1">
+</p>
+<p t="94740" d="4140" w="1">[Laughter]</p>
+<p t="96950" d="1930" w="1" a="1">
+</p>
+<p t="96960" d="4000" w="1"><s ac="255">like</s><s t="240" ac="255"> many</s><s t="560" ac="255"> in</s><s t="720" ac="255"> his</s><s t="880" ac="255"> audiences</s><s t="1519" ac="255"> he</s><s t="1600" ac="255"> used</s><s t="1839" ac="255"> to</s></p>
+<p t="98870" d="2090" w="1" a="1">
+</p>
+<p t="98880" d="4160" w="1"><s ac="255">wear</s><s t="239" ac="255"> his</s><s t="400" ac="255"> hair</s><s t="720" ac="255"> long</s><s t="1120" ac="255"> smoke</s><s t="1520" ac="255"> dope</s><s t="1919" ac="255"> and</s></p>
+<p t="100950" d="2090" w="1" a="1">
+</p>
+<p t="100960" d="3839" w="1"><s ac="255">believe</s><s t="320" ac="255"> in</s><s t="479" ac="255"> free</s><s t="720" ac="255"> sex</s></p>
+<p t="103030" d="1769" w="1" a="1">
+</p>
+<p t="103040" d="3520" w="1"><s ac="255">but</s><s t="160" ac="255"> as</s><s t="320" ac="255"> he&#39;s</s><s t="480" ac="255"> gotten</s><s t="880" ac="255"> older</s><s t="1280" ac="255"> and</s><s t="1439" ac="255"> more</s></p>
+<p t="104789" d="1771" w="1" a="1">
+</p>
+<p t="104799" d="4481" w="1"><s ac="255">prosperous</s><s t="561" ac="255"> he&#39;s</s><s t="881" ac="255"> become</s><s t="1280" ac="255"> less</s><s t="1521" ac="255"> of</s><s t="1680" ac="255"> a</s></p>
+<p t="106550" d="2730" w="1" a="1">
+</p>
+<p t="106560" d="4960" w="1"><s ac="255">libertine</s><s t="879" ac="255"> and</s><s t="1120" ac="255"> more</s><s t="1360" ac="255"> of</s><s t="1440" ac="255"> a</s><s t="1519" ac="255"> libertarian</s></p>
+<p t="109270" d="2250" w="1" a="1">
+</p>
+<p t="109280" d="4799" w="1"><s ac="255">which</s><s t="240" ac="255"> means</s><s t="479" ac="255"> he</s><s t="720" ac="255"> harbors</s><s t="1199" ac="255"> a</s><s t="1360" ac="255"> deep</s><s t="1680" ac="255"> suspicion</s></p>
+<p t="111510" d="2569" w="1" a="1">
+</p>
+<p t="111520" d="4480" w="1"><s ac="255">of</s><s t="160" ac="255"> government</s><s t="879" ac="255"> at</s><s t="1120" ac="255"> all</s><s t="1360" ac="255"> levels</s><s t="2160" ac="255"> we&#39;ve</s><s t="2320" ac="255"> got</s></p>
+<p t="114069" d="1931" w="1" a="1">
+</p>
+<p t="114079" d="3201" w="1"><s ac="255">two</s><s t="161" ac="255"> political</s><s t="561" ac="255"> parties</s><s t="1040" ac="255"> in</s><s t="1201" ac="255"> this</s><s t="1360" ac="255"> country</s><s t="1761" ac="255"> um</s></p>
+<p t="115990" d="1290" w="1" a="1">
+</p>
+<p t="116000" d="3040" w="1"><s ac="255">we&#39;ve</s><s t="159" ac="255"> got</s><s t="320" ac="255"> the</s><s t="399" ac="255"> democrats</s><s t="960" ac="255"> they&#39;re</s><s t="1200" ac="255"> the</s></p>
+<p t="117270" d="1770" w="1" a="1">
+</p>
+<p t="117280" d="3280" w="1"><s ac="255">party</s><s t="240" ac="255"> of</s><s t="320" ac="255"> government</s><s t="799" ac="255"> activism</s><s t="1280" ac="255"> the</s><s t="1439" ac="255"> party</s></p>
+<p t="119030" d="1530" w="1" a="1">
+</p>
+<p t="119040" d="3679" w="1"><s ac="255">that</s><s t="160" ac="255"> says</s><s t="399" ac="255"> that</s><s t="560" ac="255"> government</s><s t="960" ac="255"> can</s><s t="1119" ac="255"> make</s><s t="1280" ac="255"> you</s></p>
+<p t="120550" d="2169" w="1" a="1">
+</p>
+<p t="120560" d="4239" w="1"><s ac="255">richer</s><s t="480" ac="255"> smarter</s><s t="1040" ac="255"> taller</s><s t="1680" ac="255"> take</s><s t="1839" ac="255"> a</s><s t="1919" ac="255"> dozen</s></p>
+<p t="122709" d="2090" w="1" a="1">
+</p>
+<p t="122719" d="3360" w="1"><s ac="255">strokes</s><s t="400" ac="255"> off</s><s t="561" ac="255"> your</s><s t="641" ac="255"> golf</s><s t="961" ac="255"> game</s><s t="1201" ac="255"> you</s><s t="1281" ac="255"> know</s></p>
+<p t="124789" d="1290" w="1" a="1">
+</p>
+<p t="124799" d="2640" w="1"><s ac="255">and</s><s t="161" ac="255"> there</s><s t="320" ac="255"> are</s><s t="401" ac="255"> the</s><s t="481" ac="255"> republicans</s><s t="1041" ac="255"> they&#39;re</s></p>
+<p t="126069" d="1370" w="1" a="1">
+</p>
+<p t="126079" d="2880" w="1"><s ac="255">the</s><s t="80" ac="255"> party</s><s t="320" ac="255"> that</s><s t="481" ac="255"> says</s><s t="640" ac="255"> government</s><s t="1040" ac="255"> doesn&#39;t</s></p>
+<p t="127429" d="1530" w="1" a="1">
+</p>
+<p t="127439" d="3600" w="1"><s ac="255">work</s><s t="320" ac="255"> and</s><s t="401" ac="255"> then</s><s t="561" ac="255"> they</s><s t="641" ac="255"> get</s><s t="800" ac="255"> elected</s><s t="1201" ac="255"> and</s><s t="1281" ac="255"> prove</s></p>
+<p t="128949" d="2090" w="1" a="1">
+</p>
+<p t="128959" d="2080" w="1"><s ac="255">it</s></p>
+<p t="131670" w="1" a="1">
+</p>
+<p t="131680" d="5199" w="1"><s ac="255">o&#39;rourke</s><s t="480" ac="255"> was</s><s t="720" ac="255"> born</s><s t="960" ac="255"> in</s><s t="1240" ac="255"> 1947</s><s t="2320" ac="255"> the</s><s t="2480" ac="255"> height</s><s t="2720" ac="255"> of</s></p>
+<p t="134470" d="2409" w="1" a="1">
+</p>
+<p t="134480" d="4960" w="1"><s ac="255">the</s><s t="160" ac="255"> baby</s><s t="560" ac="255"> boom</s><s t="1119" ac="255"> he</s><s t="1280" ac="255"> grew</s><s t="1600" ac="255"> up</s><s t="1759" ac="255"> in</s><s t="1920" ac="255"> suburban</s></p>
+<p t="136869" d="2571" w="1" a="1">
+</p>
+<p t="136879" d="4801" w="1"><s ac="255">toledo</s><s t="561" ac="255"> ohio</s><s t="1360" ac="255"> his</s><s t="1601" ac="255"> father</s><s t="1921" ac="255"> was</s><s t="2080" ac="255"> a</s><s t="2241" ac="255"> buick</s></p>
+<p t="139430" d="2250" w="1" a="1">
+</p>
+<p t="139440" d="4799" w="1"><s ac="255">dealer</s><s t="640" ac="255"> it</s><s t="720" ac="255"> was</s><s t="960" ac="255"> a</s><s t="1120" ac="255"> typical</s><s t="1600" ac="255"> conservative</s></p>
+<p t="141670" d="2569" w="1" a="1">
+</p>
+<p t="141680" d="5440" w="1"><s ac="255">midwestern</s><s t="639" ac="255"> childhood</s><s t="1760" ac="255"> and</s><s t="2000" ac="255"> like</s><s t="2240" ac="255"> many</s><s t="2480" ac="255"> of</s></p>
+<p t="144229" d="2891" w="1" a="1">
+</p>
+<p t="144239" d="4321" w="1"><s ac="255">his</s><s t="241" ac="255"> generation</s><s t="1201" ac="255"> in</s><s t="1441" ac="255"> college</s><s t="2000" ac="255"> he</s><s t="2241" ac="255"> underwent</s><s t="2720" ac="255"> a</s></p>
+<p t="147110" d="1450" w="1" a="1">
+</p>
+<p t="147120" d="3920" w="1"><s ac="255">temporary</s><s t="640" ac="255"> conversion</s><s t="1199" ac="255"> to</s><s t="1360" ac="255"> the</s></p>
+<p t="148550" d="2490" w="1" a="1">
+</p>
+<p t="148560" d="4800" w="1"><s ac="255">counterculture</s><s t="1039" ac="255"> he</s><s t="1200" ac="255"> says</s><s t="1440" ac="255"> now</s><s t="2080" ac="255"> because</s><s t="2399" ac="255"> he</s></p>
+<p t="151030" d="2330" w="1" a="1">
+</p>
+<p t="151040" d="4000" w="1"><s ac="255">thought</s><s t="240" ac="255"> it</s><s t="320" ac="255"> would</s><s t="559" ac="255"> improve</s><s t="800" ac="255"> his</s><s t="960" ac="255"> social</s><s t="1360" ac="255"> life</s></p>
+<p t="153350" d="1690" w="1" a="1">
+</p>
+<p t="153360" d="3120" w="1"><s ac="255">you</s><s t="159" ac="255"> were</s><s t="239" ac="255"> a</s><s t="320" ac="255"> hippie</s><s t="720" ac="255"> you</s><s t="879" ac="255"> were</s><s t="1120" ac="255"> a</s><s t="1360" ac="255"> child</s><s t="1599" ac="255"> of</s></p>
+<p t="155030" d="1450" w="1" a="1">
+</p>
+<p t="155040" d="4080" w="1"><s ac="255">the</s><s t="160" ac="255"> 60s</s></p>
+<p t="156470" d="2650" w="1" a="1">
+</p>
+<p t="156480" d="2640" w="1"><s ac="255">yeah</s><s t="479" ac="255"> yeah</s></p>
+<p t="159430" w="1" a="1">
+</p>
+<p t="159440" d="4400" w="1"><s ac="255">when</s><s t="240" ac="255"> it</s><s t="400" ac="255"> came</s><s t="640" ac="255"> to</s><s t="879" ac="255"> um</s><s t="1600" ac="255"> letting</s><s t="1920" ac="255"> go</s><s t="2159" ac="255"> of</s></p>
+<p t="161750" d="2090" w="1" a="1">
+</p>
+<p t="161760" d="5119" w="1"><s ac="255">bourgeois</s><s t="479" ac="255"> proprieties</s><s t="1199" ac="255"> i</s></p>
+<p t="163830" d="3049" w="1" a="1">
+</p>
+<p t="163840" d="5280" w="1"><s ac="255">let</s><s t="240" ac="255"> go</s><s t="399" ac="255"> with</s><s t="560" ac="255"> both</s><s t="800" ac="255"> hands</s></p>
+<p t="166869" d="2251" w="1" a="1">
+</p>
+<p t="166879" d="4161" w="1"><s ac="255">it&#39;s</s><s t="161" ac="255"> definitely</s><s t="561" ac="255"> up</s><s t="640" ac="255"> to</s><s t="801" ac="255"> my</s><s t="961" ac="255"> neck</s><s t="1201" ac="255"> in</s><s t="1281" ac="255"> that</s></p>
+<p t="169110" d="1930" w="1" a="1">
+</p>
+<p t="169120" d="2960" w="1"><s ac="255">you</s><s t="160" ac="255"> tried</s><s t="560" ac="255"> all</s><s t="720" ac="255"> of</s><s t="880" ac="255"> the</s><s t="1280" ac="255"> aspects</s><s t="1759" ac="255"> of</s><s t="1839" ac="255"> the</s></p>
+<p t="171030" d="1050" w="1" a="1">
+</p>
+<p t="171040" d="3279" w="1"><s ac="255">lifestyle</s></p>
+<p t="172070" d="2249" w="1" a="1">
+</p>
+<p t="172080" d="3760" w="1"><s ac="255">um</s><s t="560" ac="255"> lots</s><s t="799" ac="255"> of</s><s t="879" ac="255"> drugs</s><s t="1280" ac="255"> lots</s><s t="1519" ac="255"> of</s><s t="1600" ac="255"> screaming</s><s t="2000" ac="255"> about</s></p>
+<p t="174309" d="1531" w="1" a="1">
+</p>
+<p t="174319" d="2640" w="1"><s ac="255">capitalism</s><s t="560" ac="255"> you</s><s t="640" ac="255"> know</s><s t="801" ac="255"> lots</s><s t="961" ac="255"> of</s><s t="1041" ac="255"> protesting</s></p>
+<p t="175830" d="1129" w="1" a="1">
+</p>
+<p t="175840" d="2399" w="1"><s ac="255">against</s><s t="160" ac="255"> the</s><s t="240" ac="255"> war</s><s t="399" ac="255"> in</s><s t="479" ac="255"> vietnam</s><s t="880" ac="255"> what</s><s t="960" ac="255"> you</s></p>
+<p t="176949" d="1290" w="1" a="1">
+</p>
+<p t="176959" d="2401" w="1"><s ac="255">think</s><s t="161" ac="255"> about</s><s t="321" ac="255"> was</s><s t="481" ac="255"> very</s><s t="640" ac="255"> self-serving</s><s t="1121" ac="255"> they</s></p>
+<p t="178229" d="1131" w="1" a="1">
+</p>
+<p t="178239" d="2640" w="1"><s ac="255">were</s><s t="80" ac="255"> trying</s><s t="241" ac="255"> to</s><s t="321" ac="255"> send</s><s t="561" ac="255"> me</s><s t="720" ac="255"> to</s><s t="801" ac="255"> the</s><s t="881" ac="255"> war</s><s t="1041" ac="255"> of</s></p>
+<p t="179350" d="1529" w="1" a="1">
+</p>
+<p t="179360" d="2480" w="1"><s ac="255">vietnam</s><s t="480" ac="255"> you</s><s t="560" ac="255"> know</s><s t="720" ac="255"> so</s><s t="959" ac="255"> of</s><s t="1040" ac="255"> course</s><s t="1280" ac="255"> i</s><s t="1360" ac="255"> was</s></p>
+<p t="180869" d="971" w="1" a="1">
+</p>
+<p t="180879" d="3121" w="1"><s ac="255">against</s><s t="321" ac="255"> it</s></p>
+<p t="181830" d="2170" w="1" a="1">
+</p>
+<p t="181840" d="4319" w="1"><s ac="255">but</s><s t="319" ac="255"> sex</s><s t="640" ac="255"> drugs</s><s t="1039" ac="255"> and</s><s t="1200" ac="255"> rock</s><s t="1440" ac="255"> and</s><s t="1520" ac="255"> roll</s><s t="1840" ac="255"> didn&#39;t</s></p>
+<p t="183990" d="2169" w="1" a="1">
+</p>
+<p t="184000" d="4239" w="1"><s ac="255">stop</s><s t="319" ac="255"> o&#39;rourke</s><s t="879" ac="255"> from</s><s t="1120" ac="255"> earning</s><s t="1519" ac="255"> a</s><s t="1599" ac="255"> degree</s></p>
+<p t="186149" d="2090" w="1" a="1">
+</p>
+<p t="186159" d="4080" w="1"><s ac="255">winning</s><s t="321" ac="255"> a</s><s t="481" ac="255"> scholarship</s><s t="1041" ac="255"> to</s><s t="1281" ac="255"> graduate</s><s t="1681" ac="255"> school</s></p>
+<p t="188229" d="2010" w="1" a="1">
+</p>
+<p t="188239" d="4000" w="1"><s ac="255">at</s><s t="161" ac="255"> johns</s><s t="481" ac="255"> hopkins</s><s t="1201" ac="255"> and</s><s t="1441" ac="255"> starting</s><s t="1841" ac="255"> an</s></p>
+<p t="190229" d="2010" w="1" a="1">
+</p>
+<p t="190239" d="3601" w="1"><s ac="255">underground</s><s t="481" ac="255"> newspaper</s><s t="1121" ac="255"> in</s><s t="1280" ac="255"> baltimore</s></p>
+<p t="192229" d="1611" w="1" a="1">
+</p>
+<p t="192239" d="3601" w="1"><s ac="255">called</s><s t="561" ac="255"> harry</s></p>
+<p t="193830" d="2010" w="1" a="1">
+</p>
+<p t="193840" d="4319" w="1"><s ac="255">when</s><s t="240" ac="255"> he</s><s t="399" ac="255"> realized</s><s t="880" ac="255"> there</s><s t="1039" ac="255"> was</s><s t="1280" ac="255"> no</s><s t="1440" ac="255"> future</s><s t="1920" ac="255"> in</s></p>
+<p t="195830" d="2329" w="1" a="1">
+</p>
+<p t="195840" d="4960" w="1"><s ac="255">the</s><s t="80" ac="255"> revolution</s><s t="1039" ac="255"> he</s><s t="1200" ac="255"> headed</s><s t="1600" ac="255"> off</s><s t="1679" ac="255"> to</s><s t="1840" ac="255"> new</s><s t="2000" ac="255"> york</s></p>
+<p t="198149" d="2651" w="1" a="1">
+</p>
+<p t="198159" d="4961" w="1"><s ac="255">city</s><s t="401" ac="255"> and</s><s t="481" ac="255"> the</s><s t="641" ac="255"> national</s><s t="1121" ac="255"> lampoon</s><s t="2241" ac="255"> where</s><s t="2401" ac="255"> he</s></p>
+<p t="200790" d="2330" w="1" a="1">
+</p>
+<p t="200800" d="4079" w="1"><s ac="255">quickly</s><s t="320" ac="255"> discovered</s><s t="880" ac="255"> that</s><s t="1040" ac="255"> subversive</s><s t="1680" ac="255"> humor</s></p>
+<p t="203110" d="1769" w="1" a="1">
+</p>
+<p t="203120" d="3679" w="1"><s ac="255">fetched</s><s t="320" ac="255"> a</s><s t="479" ac="255"> far</s><s t="720" ac="255"> better</s><s t="1039" ac="255"> paycheck</s><s t="1520" ac="255"> than</s></p>
+<p t="204869" d="1930" w="1" a="1">
+</p>
+<p t="204879" d="4561" w="1"><s ac="255">subversive</s><s t="640" ac="255"> politics</s></p>
+<p t="206789" d="2651" w="1" a="1">
+</p>
+<p t="206799" d="5201" w="1"><s ac="255">by</s><s t="160" ac="255"> the</s><s t="321" ac="255"> time</s><s t="561" ac="255"> he</s><s t="720" ac="255"> was</s><s t="961" ac="255"> 31</s><s t="1921" ac="255"> o&#39;rourke</s><s t="2401" ac="255"> was</s></p>
+<p t="209430" d="2570" w="1" a="1">
+</p>
+<p t="209440" d="4719" w="1"><s ac="255">editor-in-chief</s><s t="879" ac="255"> of</s><s t="960" ac="255"> the</s><s t="1120" ac="255"> lampoon</s><s t="2079" ac="255"> running</s><s t="2400" ac="255"> a</s></p>
+<p t="211990" d="2169" w="1" a="1">
+</p>
+<p t="212000" d="5040" w="1"><s ac="255">multi-million</s><s t="720" ac="255"> dollar</s><s t="1120" ac="255"> enterprise</s><s t="1760" ac="255"> turning</s></p>
+<p t="214149" d="2891" w="1" a="1">
+</p>
+<p t="214159" d="5761" w="1"><s ac="255">out</s><s t="160" ac="255"> a</s><s t="241" ac="255"> slick</s><s t="961" ac="255"> glossy</s><s t="1440" ac="255"> monthly</s><s t="1841" ac="255"> collection</s><s t="2640" ac="255"> of</s></p>
+<p t="217030" d="2890" w="1" a="1">
+</p>
+<p t="217040" d="4640" w="1"><s ac="255">sophomore</s><s t="720" ac="255"> humor</s><s t="1119" ac="255"> about</s><s t="1520" ac="255"> breasts</s><s t="2240" ac="255"> buttocks</s></p>
+<p t="219910" d="1770" w="1" a="1">
+</p>
+<p t="219920" d="3520" w="1"><s ac="255">and</s><s t="239" ac="255"> ethnic</s><s t="640" ac="255"> attributes</s></p>
+<p t="221670" d="1770" w="1" a="1">
+</p>
+<p t="221680" d="2880" w="1"><s ac="255">read</s><s t="160" ac="255"> me</s><s t="320" ac="255"> about</s><s t="479" ac="255"> the</s><s t="639" ac="255"> australia</s><s t="1119" ac="255"> australians</s></p>
+<p t="223430" d="1130" w="1" a="1">
+</p>
+<p t="223440" d="3040" w="1"><s ac="255">yes</s></p>
+<p t="224550" d="1930" w="1" a="1">
+</p>
+<p t="224560" d="4319" w="1"><s ac="255">racial</s><s t="319" ac="255"> characteristics</s><s t="1039" ac="255"> violently</s><s t="1599" ac="255"> loud</s></p>
+<p t="226470" d="2409" w="1" a="1">
+</p>
+<p t="226480" d="4640" w="1"><s ac="255">alcoholic</s><s t="560" ac="255"> rough</s><s t="880" ac="255"> necks</s><s t="1440" ac="255"> whose</s><s t="1759" ac="255"> idea</s><s t="2000" ac="255"> of</s><s t="2160" ac="255"> fun</s></p>
+<p t="228869" d="2251" w="1" a="1">
+</p>
+<p t="228879" d="4080" w="1"><s ac="255">is</s><s t="161" ac="255"> to</s><s t="321" ac="255"> throw</s><s t="561" ac="255"> up</s><s t="720" ac="255"> on</s><s t="801" ac="255"> your</s><s t="1121" ac="255"> car</s></p>
+<p t="231110" d="1849" w="1" a="1">
+</p>
+<p t="231120" d="4399" w="1"><s ac="255">never</s><s t="240" ac="255"> go</s><s t="320" ac="255"> to</s><s t="479" ac="255"> australia</s><s t="880" ac="255"> again</s></p>
+<p t="232949" d="2570" w="1" a="1">
+</p>
+<p t="232959" d="4161" w="1"><s ac="255">you</s><s t="161" ac="255"> couldn&#39;t</s><s t="401" ac="255"> write</s><s t="560" ac="255"> this</s><s t="721" ac="255"> anymore</s><s t="1601" ac="255"> nah</s></p>
+<p t="235509" d="1611" w="1" a="1">
+</p>
+<p t="235519" d="4401" w="1"><s ac="255">i&#39;m</s><s t="401" ac="255"> all</s><s t="561" ac="255"> grown</s><s t="881" ac="255"> up</s></p>
+<p t="237110" d="2810" w="1" a="1">
+</p>
+<p t="237120" d="4560" w="1"><s ac="255">the</s><s t="240" ac="255"> complete</s><s t="800" ac="255"> freedom</s><s t="1679" ac="255"> from</s><s t="2000" ac="255"> ever</s><s t="2319" ac="255"> worrying</s></p>
+<p t="239910" d="1770" w="1" a="1">
+</p>
+<p t="239920" d="3280" w="1"><s ac="255">about</s><s t="319" ac="255"> offending</s><s t="879" ac="255"> anybody</s><s t="1280" ac="255"> i</s><s t="1360" ac="255"> think</s><s t="1519" ac="255"> that&#39;s</s></p>
+<p t="241670" d="1530" w="1" a="1">
+</p>
+<p t="241680" d="3279" w="1"><s ac="255">probably</s><s t="479" ac="255"> the</s><s t="639" ac="255"> nicest</s><s t="1040" ac="255"> thing</s><s t="1199" ac="255"> about</s><s t="1360" ac="255"> the</s></p>
+<p t="243190" d="1769" w="1" a="1">
+</p>
+<p t="243200" d="4160" w="1"><s ac="255">national</s><s t="319" ac="255"> lampoon</s><s t="800" ac="255"> because</s></p>
+<p t="244949" d="2411" w="1" a="1">
+</p>
+<p t="244959" d="4961" w="1"><s ac="255">if</s><s t="161" ac="255"> it</s><s t="321" ac="255"> ever</s><s t="560" ac="255"> crept</s><s t="961" ac="255"> into</s><s t="1280" ac="255"> your</s><s t="1521" ac="255"> mind</s><s t="2241" ac="255"> that</s></p>
+<p t="247350" d="2570" w="1" a="1">
+</p>
+<p t="247360" d="4400" w="1"><s ac="255">this</s><s t="320" ac="255"> might</s><s t="560" ac="255"> offend</s><s t="959" ac="255"> somebody</s><s t="1680" ac="255"> the</s><s t="2079" ac="255"> natural</s></p>
+<p t="249910" d="1850" w="1" a="1">
+</p>
+<p t="249920" d="4800" w="1"><s ac="255">and</s><s t="160" ac="255"> immediate</s><s t="640" ac="255"> response</s><s t="1200" ac="255"> as</s><s t="1360" ac="255"> a</s><s t="1519" ac="255"> trained</s></p>
+<p t="251750" d="2970" w="1" a="1">
+</p>
+<p t="251760" d="4960" w="1"><s ac="255">lampooner</s><s t="640" ac="255"> was</s><s t="1119" ac="255"> yes</s><s t="2160" ac="255"> that&#39;s</s></p>
+<p t="254710" d="2010" w="1" a="1">
+</p>
+<p t="254720" d="4400" w="1"><s ac="255">a</s><s t="239" ac="255"> fabulous</s><s t="879" ac="255"> idea</s></p>
+<p t="256710" d="2410" w="1" a="1">
+</p>
+<p t="256720" d="4320" w="1"><s ac="255">let&#39;s</s><s t="239" ac="255"> do</s><s t="479" ac="255"> two</s><s t="720" ac="255"> of</s><s t="799" ac="255"> them</s></p>
+<p t="259110" d="1930" w="1" a="1">
+</p>
+<p t="259120" d="4400" w="1"><s ac="255">everything</s><s t="320" ac="255"> was</s><s t="480" ac="255"> a</s><s t="639" ac="255"> target</s><s t="1359" ac="255"> everything</s><s t="1679" ac="255"> was</s><s t="1839" ac="255"> a</s></p>
+<p t="261030" d="2490" w="1" a="1">
+</p>
+<p t="261040" d="3840" w="1"><s ac="255">target</s><s t="400" ac="255"> wow</s><s t="640" ac="255"> we</s><s t="800" ac="255"> had</s><s t="1360" ac="255"> it</s><s t="1439" ac="255"> was</s><s t="1760" ac="255"> so</s><s t="1920" ac="255"> much</s><s t="2159" ac="255"> fun</s><s t="2400" ac="255"> at</s></p>
+<p t="263510" d="1370" w="1" a="1">
+</p>
+<p t="263520" d="4560" w="1"><s ac="255">the</s><s t="160" ac="255"> national</s><s t="399" ac="255"> lampoon</s><s t="880" ac="255"> because</s><s t="1040" ac="255"> it</s><s t="1119" ac="255"> was</s></p>
+<p t="264870" d="3210" w="1" a="1">
+</p>
+<p t="264880" d="4640" w="1"><s ac="255">truly</s><s t="960" ac="255"> an</s><s t="1200" ac="255"> adolescent&#39;s</s><s t="2000" ac="255"> dream</s><s t="2720" ac="255"> so</s><s t="2879" ac="255"> then</s><s t="3039" ac="255"> you</s></p>
+<p t="268070" d="1450" w="1" a="1">
+</p>
+<p t="268080" d="3520" w="1"><s ac="255">went</s><s t="160" ac="255"> to</s><s t="240" ac="255"> work</s><s t="399" ac="255"> for</s><s t="559" ac="255"> rolling</s><s t="800" ac="255"> stone</s><s t="1200" ac="255"> then</s><s t="1360" ac="255"> i</s></p>
+<p t="269510" d="2090" w="1" a="1">
+</p>
+<p t="269520" d="4239" w="1"><s ac="255">went</s><s t="80" ac="255"> to</s><s t="160" ac="255"> work</s><s t="320" ac="255"> for</s><s t="480" ac="255"> rolling</s><s t="959" ac="255"> stone</s><s t="1440" ac="255"> right</s><s t="1920" ac="255"> i</s></p>
+<p t="271590" d="2169" w="1" a="1">
+</p>
+<p t="271600" d="5920" w="1"><s ac="255">moved</s><s t="319" ac="255"> right</s><s t="640" ac="255"> up</s><s t="720" ac="255"> the</s><s t="960" ac="255"> uh</s><s t="1280" ac="255"> a</s><s t="1440" ac="255"> stairway</s><s t="2000" ac="255"> of</s></p>
+<p t="273749" d="3771" w="1" a="1">
+</p>
+<p t="273759" d="5841" w="1"><s ac="255">respectability</s><s t="1201" ac="255"> to</s><s t="1681" ac="255"> a</s><s t="2160" ac="255"> really</s><s t="2641" ac="255"> solid</s><s t="3201" ac="255"> uh</s><s t="3521" ac="255"> old</s></p>
+<p t="277510" d="2090" w="1" a="1">
+</p>
+<p t="277520" d="3360" w="1"><s ac="255">respectable</s><s t="640" ac="255"> middle</s><s t="880" ac="255"> class</s></p>
+<p t="279590" d="1290" w="1" a="1">
+</p>
+<p t="279600" d="4319" w="1"><s ac="255">institution</s></p>
+<p t="280870" d="3049" w="1" a="1">
+</p>
+<p t="280880" d="5120" w="1"><s ac="255">rolling</s><s t="240" ac="255"> stone</s><s t="1200" ac="255"> that</s><s t="1440" ac="255"> was</s><s t="1680" ac="255"> 13</s><s t="2160" ac="255"> years</s><s t="2480" ac="255"> ago</s><s t="2879" ac="255"> and</s></p>
+<p t="283909" d="2091" w="1" a="1">
+</p>
+<p t="283919" d="4081" w="1"><s ac="255">he&#39;s</s><s t="241" ac="255"> still</s><s t="641" ac="255"> there</s><s t="1280" ac="255"> using</s><s t="1601" ac="255"> the</s><s t="1761" ac="255"> same</s></p>
+<p t="285990" d="2010" w="1" a="1">
+</p>
+<p t="286000" d="4240" w="1"><s ac="255">subversive</s><s t="639" ac="255"> sense</s><s t="960" ac="255"> of</s><s t="1040" ac="255"> humor</s><s t="1360" ac="255"> he</s><s t="1600" ac="255"> developed</s></p>
+<p t="287990" d="2250" w="1" a="1">
+</p>
+<p t="288000" d="3520" w="1"><s ac="255">at</s><s t="80" ac="255"> the</s><s t="240" ac="255"> lampoon</s><s t="1040" ac="255"> to</s><s t="1199" ac="255"> report</s><s t="1600" ac="255"> on</s><s t="1759" ac="255"> serious</s></p>
+<p t="290230" d="1290" w="1" a="1">
+</p>
+<p t="290240" d="2959" w="1"><s ac="255">events</s></p>
+<p t="291510" d="1689" w="1" a="1">
+</p>
+<p t="291520" d="4480" w="1"><s ac="255">he&#39;s</s><s t="320" ac="255"> become</s><s t="560" ac="255"> the</s><s t="720" ac="255"> rock</s><s t="1040" ac="255"> magazine&#39;s</s></p>
+<p t="293189" d="2811" w="1" a="1">
+</p>
+<p t="293199" d="5201" w="1"><s ac="255">reactionary</s><s t="1121" ac="255"> combining</s><s t="1601" ac="255"> the</s><s t="1761" ac="255"> literary</s><s t="2401" ac="255"> flair</s></p>
+<p t="295990" d="2410" w="1" a="1">
+</p>
+<p t="296000" d="4800" w="1"><s ac="255">of</s><s t="80" ac="255"> hunter</s><s t="400" ac="255"> thompson</s><s t="1040" ac="255"> with</s><s t="1280" ac="255"> the</s><s t="1440" ac="255"> ideology</s><s t="2240" ac="255"> and</s></p>
+<p t="298390" d="2410" w="1" a="1">
+</p>
+<p t="298400" d="4400" w="1"><s ac="255">haberdashery</s><s t="799" ac="255"> of</s><s t="960" ac="255"> george</s><s t="1359" ac="255"> will</s></p>
+<p t="300790" d="2010" w="1" a="1">
+</p>
+<p t="300800" d="4239" w="1"><s ac="255">he</s><s t="160" ac="255"> holds</s><s t="480" ac="255"> the</s><s t="720" ac="255"> impressive</s><s t="1200" ac="255"> title</s><s t="1679" ac="255"> foreign</s></p>
+<p t="302790" d="2249" w="1" a="1">
+</p>
+<p t="302800" d="4640" w="1"><s ac="255">affairs</s><s t="480" ac="255"> desk</s><s t="880" ac="255"> chief</s><s t="1360" ac="255"> which</s><s t="1600" ac="255"> he</s><s t="1760" ac="255"> says</s><s t="2000" ac="255"> looks</s></p>
+<p t="305029" d="2411" w="1" a="1">
+</p>
+<p t="305039" d="4720" w="1"><s ac="255">great</s><s t="321" ac="255"> on</s><s t="401" ac="255"> the</s><s t="481" ac="255"> masthead</s><s t="1600" ac="255"> but</s><s t="1761" ac="255"> there</s><s t="2000" ac="255"> is</s><s t="2160" ac="255"> no</s></p>
+<p t="307430" d="2329" w="1" a="1">
+</p>
+<p t="307440" d="5599" w="1"><s ac="255">foreign</s><s t="319" ac="255"> affairs</s><s t="720" ac="255"> desk</s><s t="1039" ac="255"> at</s><s t="1120" ac="255"> rolling</s><s t="1440" ac="255"> stone</s><s t="2160" ac="255"> in</s></p>
+<p t="309749" d="3290" w="1" a="1">
+</p>
+<p t="309759" d="4961" w="1"><s ac="255">o&#39;rourke</s><s t="561" ac="255"> never</s><s t="880" ac="255"> goes</s><s t="1121" ac="255"> to</s><s t="1201" ac="255"> the</s><s t="1361" ac="255"> office</s></p>
+<p t="313029" d="1691" w="1" a="1">
+</p>
+<p t="313039" d="3361" w="1"><s ac="255">most</s><s t="241" ac="255"> of</s><s t="321" ac="255"> the</s><s t="481" ac="255"> time</s><s t="720" ac="255"> he</s><s t="880" ac="255"> operates</s><s t="1361" ac="255"> out</s><s t="1440" ac="255"> of</s><s t="1521" ac="255"> the</s></p>
+<p t="314710" d="1690" w="1" a="1">
+</p>
+<p t="314720" d="3919" w="1"><s ac="255">trunk</s><s t="240" ac="255"> of</s><s t="400" ac="255"> a</s><s t="560" ac="255"> rental</s><s t="880" ac="255"> car</s><s t="1199" ac="255"> in</s><s t="1360" ac="255"> some</s></p>
+<p t="316390" d="2249" w="1" a="1">
+</p>
+<p t="316400" d="4480" w="1"><s ac="255">god-forsaken</s><s t="880" ac="255"> part</s><s t="1120" ac="255"> of</s><s t="1200" ac="255"> the</s><s t="1359" ac="255"> world</s><s t="1840" ac="255"> nursing</s></p>
+<p t="318629" d="2251" w="1" a="1">
+</p>
+<p t="318639" d="4721" w="1"><s ac="255">an</s><s t="161" ac="255"> inherently</s><s t="801" ac="255"> weak</s><s t="1041" ac="255"> constitution</s><s t="2000" ac="255"> with</s></p>
+<p t="320870" d="2490" w="1" a="1">
+</p>
+<p t="320880" d="3759" w="1"><s ac="255">bottles</s><s t="400" ac="255"> of</s><s t="560" ac="255"> pepto-bismol</s></p>
+<p t="323350" d="1289" w="1" a="1">
+</p>
+<p t="323360" d="3520" w="1"><s ac="255">we</s><s t="160" ac="255"> caught</s><s t="399" ac="255"> up</s><s t="559" ac="255"> with</s><s t="800" ac="255"> him</s><s t="960" ac="255"> in</s><s t="1119" ac="255"> his</s></p>
+<p t="324629" d="2251" w="1" a="1">
+</p>
+<p t="324639" d="4400" w="1"><s ac="255">ever-present</s><s t="641" ac="255"> cigar</s><s t="1120" ac="255"> last</s><s t="1441" ac="255"> summer</s><s t="2081" ac="255"> in</s></p>
+<p t="326870" d="2169" w="1" a="1">
+</p>
+<p t="326880" d="4240" w="1"><s ac="255">southern</s><s t="319" ac="255"> mexico</s><s t="1200" ac="255"> where</s><s t="1440" ac="255"> he</s><s t="1599" ac="255"> was</s><s t="1759" ac="255"> covering</s></p>
+<p t="329029" d="2091" w="1" a="1">
+</p>
+<p t="329039" d="3521" w="1"><s ac="255">that</s><s t="160" ac="255"> country&#39;s</s><s t="641" ac="255"> national</s><s t="1121" ac="255"> election</s></p>
+<p t="331110" d="1450" w="1" a="1">
+</p>
+<p t="331120" d="3600" w="1"><s ac="255">okay</s><s t="240" ac="255"> they&#39;ve</s><s t="400" ac="255"> got</s><s t="560" ac="255"> one</s><s t="799" ac="255"> political</s><s t="1200" ac="255"> party</s></p>
+<p t="332550" d="2170" w="1" a="1">
+</p>
+<p t="332560" d="4000" w="1"><s ac="255">that</s><s t="240" ac="255"> steals</s><s t="800" ac="255"> every</s><s t="1120" ac="255"> election</s></p>
+<p t="334710" d="1850" w="1" a="1">
+</p>
+<p t="334720" d="3360" w="1"><s ac="255">we&#39;ve</s><s t="240" ac="255"> got</s><s t="640" ac="255"> two</s><s t="880" ac="255"> political</s><s t="1280" ac="255"> parties</s><s t="1680" ac="255"> that</s></p>
+<p t="336550" d="1530" w="1" a="1">
+</p>
+<p t="336560" d="3440" w="1"><s ac="255">steal</s><s t="320" ac="255"> every</s><s t="639" ac="255"> election</s><s t="960" ac="255"> how</s><s t="1120" ac="255"> does</s><s t="1280" ac="255"> that</s><s t="1359" ac="255"> make</s></p>
+<p t="338070" d="1930" w="1" a="1">
+</p>
+<p t="338080" d="3600" w="1"><s ac="255">us</s><s t="160" ac="255"> twice</s><s t="399" ac="255"> as</s><s t="480" ac="255"> good</s><s t="640" ac="255"> or</s><s t="720" ac="255"> twice</s><s t="959" ac="255"> as</s><s t="1119" ac="255"> bad</s></p>
+<p t="339990" d="1690" w="1" a="1">
+</p>
+<p t="340000" d="4240" w="1"><s ac="255">it</s><s t="80" ac="255"> definitely</s><s t="400" ac="255"> makes</s><s t="639" ac="255"> us</s><s t="720" ac="255"> similar</s></p>
+<p t="341670" d="2570" w="1" a="1">
+</p>
+<p t="341680" d="5359" w="1"><s ac="255">o&#39;rourke&#39;s</s><s t="560" ac="255"> first</s><s t="880" ac="255"> rule</s><s t="1200" ac="255"> of</s><s t="1280" ac="255"> journalism</s><s t="2239" ac="255"> stay</s></p>
+<p t="344230" d="2809" w="1" a="1">
+</p>
+<p t="344240" d="6239" w="1"><s ac="255">away</s><s t="239" ac="255"> from</s><s t="560" ac="255"> people</s><s t="880" ac="255"> in</s><s t="1120" ac="255"> power</s><s t="1840" ac="255"> the</s><s t="2000" ac="255"> reason</s><s t="2560" ac="255"> is</s></p>
+<p t="347029" d="3450" w="1" a="1">
+</p>
+<p t="347039" d="5681" w="1"><s ac="255">fundamentally</s><s t="961" ac="255"> that</s><s t="1361" ac="255"> they</s><s t="1600" ac="255"> lie</s><s t="2241" ac="255"> they</s><s t="2481" ac="255"> lie</s></p>
+<p t="350469" d="2251" w="1" a="1">
+</p>
+<p t="350479" d="4401" w="1"><s ac="255">a</s><s t="241" ac="255"> highly</s><s t="720" ac="255"> placed</s><s t="1121" ac="255"> government</s><s t="1601" ac="255"> official</s><s t="2081" ac="255"> did</s></p>
+<p t="352710" d="2170" w="1" a="1">
+</p>
+<p t="352720" d="3840" w="1"><s ac="255">not</s><s t="240" ac="255"> get</s><s t="479" ac="255"> to</s><s t="640" ac="255"> be</s><s t="800" ac="255"> in</s><s t="960" ac="255"> a</s><s t="1199" ac="255"> position</s><s t="1600" ac="255"> of</s><s t="1680" ac="255"> power</s><s t="2000" ac="255"> and</s></p>
+<p t="354870" d="1690" w="1" a="1">
+</p>
+<p t="354880" d="4480" w="1"><s ac="255">importance</s><s t="480" ac="255"> by</s><s t="640" ac="255"> being</s><s t="879" ac="255"> stupid</s><s t="1280" ac="255"> enough</s><s t="1599" ac="255"> to</s></p>
+<p t="356550" d="2810" w="1" a="1">
+</p>
+<p t="356560" d="5120" w="1"><s ac="255">tell</s><s t="160" ac="255"> the</s><s t="320" ac="255"> truth</s><s t="560" ac="255"> to</s><s t="720" ac="255"> newspaper</s><s t="1199" ac="255"> reporters</s></p>
+<p t="359350" d="2330" w="1" a="1">
+</p>
+<p t="359360" d="4880" w="1"><s ac="255">instead</s><s t="559" ac="255"> o&#39;rourke</s><s t="959" ac="255"> relies</s><s t="1360" ac="255"> on</s><s t="1600" ac="255"> observation</s></p>
+<p t="361670" d="2570" w="1" a="1">
+</p>
+<p t="361680" d="3600" w="1"><s ac="255">and</s><s t="160" ac="255"> attitude</s><s t="1200" ac="255"> he</s><s t="1440" ac="255"> is</s><s t="1519" ac="255"> the</s><s t="1680" ac="255"> star</s><s t="2000" ac="255"> of</s><s t="2160" ac="255"> his</s><s t="2320" ac="255"> own</s></p>
+<p t="364230" d="1050" w="1" a="1">
+</p>
+<p t="364240" d="3200" w="1"><s ac="255">stories</s></p>
+<p t="365270" d="2170" w="1" a="1">
+</p>
+<p t="365280" d="4400" w="1"><s ac="255">the</s><s t="80" ac="255"> misadventures</s><s t="960" ac="255"> of</s><s t="1039" ac="255"> an</s><s t="1280" ac="255"> innocent</s><s t="1680" ac="255"> abroad</s></p>
+<p t="367430" d="2250" w="1" a="1">
+</p>
+<p t="367440" d="4479" w="1"><s ac="255">in</s><s t="240" ac="255"> strange</s><s t="720" ac="255"> lands</s><s t="1280" ac="255"> foreign</s><s t="1599" ac="255"> correspondent</s></p>
+<p t="369670" d="2249" w="1" a="1">
+</p>
+<p t="369680" d="4799" w="1"><s ac="255">loses</s><s t="400" ac="255"> his</s><s t="560" ac="255"> patience</s></p>
+<p t="371909" d="2570" w="1" a="1">
+</p>
+<p t="371919" d="4881" w="1"><s ac="255">and</s><s t="241" ac="255"> his</s><s t="321" ac="255"> wallet</s></p>
+<p t="374469" d="2331" w="1" a="1">
+</p>
+<p t="374479" d="4560" w="1"><s ac="255">what</s><s t="241" ac="255"> he</s><s t="401" ac="255"> does</s><s t="641" ac="255"> he</s><s t="801" ac="255"> says</s><s t="1361" ac="255"> is</s><s t="1601" ac="255"> take</s><s t="1840" ac="255"> a</s><s t="1921" ac="255"> very</s></p>
+<p t="376790" d="2249" w="1" a="1">
+</p>
+<p t="376800" d="5360" w="1"><s ac="255">conventional</s><s t="880" ac="255"> middle-aged</s><s t="1600" ac="255"> midwestern</s></p>
+<p t="379029" d="3131" w="1" a="1">
+</p>
+<p t="379039" d="5401" w="1"><s ac="255">sensibility</s><s t="1121" ac="255"> to</s><s t="1280" ac="255"> some</s><s t="1600" ac="255"> very</s><s t="1921" ac="255"> peculiar</s><s t="2481" ac="255"> places</s></p>
+<p t="382150" d="2290" w="1" a="1">
+</p>
+<p t="382160" d="4479" w="1"><s ac="255">on</s><s t="159" ac="255"> the</s><s t="319" ac="255"> fall</s><s t="640" ac="255"> of</s><s t="720" ac="255"> communism</s><s t="1599" ac="255"> a</s><s t="1840" ac="255"> huge</s></p>
+<p t="384430" d="2209" w="1" a="1">
+</p>
+<p t="384440" d="4440" w="1"><s ac="255">totalitarian</s><s t="1000" ac="255"> system</s><s t="1400" ac="255"> has</s><s t="1560" ac="255"> been</s><s t="1800" ac="255"> brought</s><s t="2039" ac="255"> to</s></p>
+<p t="386629" d="2251" w="1" a="1">
+</p>
+<p t="386639" d="4081" w="1"><s ac="255">its</s><s t="241" ac="255"> knees</s><s t="881" ac="255"> because</s><s t="1201" ac="255"> nobody</s><s t="1601" ac="255"> wants</s><s t="1840" ac="255"> to</s><s t="2000" ac="255"> wear</s></p>
+<p t="388870" d="1850" w="1" a="1">
+</p>
+<p t="388880" d="4240" w="1"><s ac="255">bulgarian</s><s t="720" ac="255"> shoes</s></p>
+<p t="390710" d="2410" w="1" a="1">
+</p>
+<p t="390720" d="5280" w="1"><s ac="255">from</s><s t="160" ac="255"> the</s><s t="319" ac="255"> gulf</s><s t="640" ac="255"> war</s><s t="1280" ac="255"> not</s><s t="1520" ac="255"> only</s><s t="1840" ac="255"> is</s><s t="2000" ac="255"> this</s><s t="2240" ac="255"> the</s></p>
+<p t="393110" d="2890" w="1" a="1">
+</p>
+<p t="393120" d="6160" w="1"><s ac="255">first</s><s t="400" ac="255"> live</s><s t="720" ac="255"> televised</s><s t="1359" ac="255"> war</s><s t="2079" ac="255"> it&#39;s</s><s t="2320" ac="255"> also</s><s t="2720" ac="255"> the</s></p>
+<p t="395990" d="3290" w="1" a="1">
+</p>
+<p t="396000" d="5199" w="1"><s ac="255">first</s><s t="319" ac="255"> war</s><s t="560" ac="255"> covered</s><s t="880" ac="255"> by</s><s t="1120" ac="255"> sober</s><s t="1520" ac="255"> journalists</s></p>
+<p t="399270" d="1929" w="1" a="1">
+</p>
+<p t="399280" d="4560" w="1"><s ac="255">when</s><s t="160" ac="255"> he&#39;s</s><s t="400" ac="255"> home</s><s t="639" ac="255"> pj</s><s t="1120" ac="255"> o&#39;rourke</s><s t="1520" ac="255"> leads</s><s t="1840" ac="255"> a</s></p>
+<p t="401189" d="2651" w="1" a="1">
+</p>
+<p t="401199" d="5361" w="1"><s ac="255">disciplined</s><s t="720" ac="255"> life</s><s t="1120" ac="255"> writing</s><s t="1440" ac="255"> a</s><s t="1521" ac="255"> steady</s><s t="2000" ac="255"> 1000</s></p>
+<p t="403830" d="2730" w="1" a="1">
+</p>
+<p t="403840" d="5440" w="1"><s ac="255">words</s><s t="400" ac="255"> a</s><s t="479" ac="255"> day</s><s t="1199" ac="255"> he</s><s t="1440" ac="255"> cultivates</s><s t="2000" ac="255"> the</s><s t="2160" ac="255"> literary</s></p>
+<p t="406550" d="2730" w="1" a="1">
+</p>
+<p t="406560" d="5440" w="1"><s ac="255">persona</s><s t="560" ac="255"> of</s><s t="720" ac="255"> a</s><s t="800" ac="255"> cigar-smoking</s><s t="1840" ac="255"> hard-drinking</s></p>
+<p t="409270" d="2730" w="1" a="1">
+</p>
+<p t="409280" d="4960" w="1"><s ac="255">fast</s><s t="319" ac="255"> driving</s><s t="880" ac="255"> womanizing</s><s t="1639" ac="255"> martini-guzzling</s></p>
+<p t="411990" d="2250" w="1" a="1">
+</p>
+<p t="412000" d="4639" w="1"><s ac="255">slob</s><s t="560" ac="255"> cocktail</s><s t="1039" ac="255"> time</s></p>
+<p t="414230" d="2409" w="1" a="1">
+</p>
+<p t="414240" d="4160" w="1"><s ac="255">but</s><s t="239" ac="255"> in</s><s t="399" ac="255"> fact</s><s t="1040" ac="255"> he</s><s t="1280" ac="255"> lives</s><s t="1600" ac="255"> in</s><s t="1679" ac="255"> a</s><s t="1760" ac="255"> new</s><s t="1920" ac="255"> hampshire</s></p>
+<p t="416629" d="1771" w="1" a="1">
+</p>
+<p t="416639" d="4241" w="1"><s ac="255">farmhouse</s><s t="481" ac="255"> that</s><s t="721" ac="255"> could</s><s t="960" ac="255"> have</s><s t="1041" ac="255"> been</s><s t="1201" ac="255"> decorated</s></p>
+<p t="418390" d="2490" w="1" a="1">
+</p>
+<p t="418400" d="5199" w="1"><s ac="255">by</s><s t="239" ac="255"> martha</s><s t="639" ac="255"> stewart</s><s t="1359" ac="255"> and</s><s t="1519" ac="255"> his</s><s t="1760" ac="255"> life</s><s t="2000" ac="255"> there</s><s t="2239" ac="255"> is</s></p>
+<p t="420870" d="2729" w="1" a="1">
+</p>
+<p t="420880" d="5039" w="1"><s ac="255">almost</s><s t="319" ac="255"> bucolic</s><s t="1280" ac="255"> more</s><s t="1520" ac="255"> barbecues</s><s t="2159" ac="255"> than</s><s t="2480" ac="255"> bar</s></p>
+<p t="423589" d="2330" w="1" a="1">
+</p>
+<p t="423599" d="4401" w="1"><s ac="255">room</s><s t="320" ac="255"> brawls</s><s t="961" ac="255"> you</s><s t="1121" ac="255"> never</s><s t="1361" ac="255"> go</s><s t="1521" ac="255"> away</s><s t="1841" ac="255"> hungry</s><s t="2160" ac="255"> and</s></p>
+<p t="425909" d="2091" w="1" a="1">
+</p>
+<p t="425919" d="3840" w="1"><s ac="255">you</s><s t="81" ac="255"> never</s><s t="321" ac="255"> go</s><s t="481" ac="255"> away</s></p>
+<p t="427990" d="1769" w="1" a="1">
+</p>
+<p t="428000" d="4479" w="1"><s ac="255">that</s><s t="319" ac="255"> persona</s><s t="800" ac="255"> which</s><s t="960" ac="255"> was</s><s t="1039" ac="255"> sort</s><s t="1199" ac="255"> of</s><s t="1280" ac="255"> developed</s></p>
+<p t="429749" d="2730" w="1" a="1">
+</p>
+<p t="429759" d="5361" w="1"><s ac="255">at</s><s t="81" ac="255"> the</s><s t="241" ac="255"> national</s><s t="641" ac="255"> lampoon</s><s t="1280" ac="255"> was</s></p>
+<p t="432469" d="2651" w="1" a="1">
+</p>
+<p t="432479" d="4560" w="1"><s ac="255">when</s><s t="241" ac="255"> i</s><s t="321" ac="255"> was</s><s t="641" ac="255"> 30</s><s t="1120" ac="255"> it</s><s t="1280" ac="255"> was</s><s t="1440" ac="255"> an</s><s t="1601" ac="255"> exaggeration</s><s t="2481" ac="255"> now</s></p>
+<p t="435110" d="1929" w="1" a="1">
+</p>
+<p t="435120" d="4560" w="1"><s ac="255">that</s><s t="240" ac="255"> i&#39;m</s><s t="400" ac="255"> 47</s><s t="960" ac="255"> it</s><s t="1120" ac="255"> is</s><s t="1199" ac="255"> what</s><s t="1359" ac="255"> we</s><s t="1519" ac="255"> technically</s></p>
+<p t="437029" d="2651" w="1" a="1">
+</p>
+<p t="437039" d="4720" w="1"><s ac="255">call</s><s t="321" ac="255"> a</s><s t="560" ac="255"> lie</s></p>
+<p t="439670" d="2089" w="1" a="1">
+</p>
+<p t="439680" d="3680" w="1"><s ac="255">i</s><s t="79" ac="255"> do</s><s t="320" ac="255"> drink</s><s t="799" ac="255"> but</s><s t="1040" ac="255"> uh</s><s t="1280" ac="255"> that&#39;s</s><s t="1600" ac="255"> probably</s><s t="1840" ac="255"> about</s></p>
+<p t="441749" d="1611" w="1" a="1">
+</p>
+<p t="441759" d="3201" w="1"><s ac="255">the</s><s t="321" ac="255"> about</s><s t="481" ac="255"> the</s><s t="641" ac="255"> end</s><s t="801" ac="255"> of</s><s t="880" ac="255"> it</s><s t="1201" ac="255"> what&#39;s</s><s t="1440" ac="255"> the</s></p>
+<p t="443350" d="1610" w="1" a="1">
+</p>
+<p t="443360" d="3279" w="1"><s ac="255">difference</s><s t="320" ac="255"> between</s><s t="720" ac="255"> your</s><s t="880" ac="255"> persona</s><s t="1440" ac="255"> and</s><s t="1520" ac="255"> the</s></p>
+<p t="444950" d="1689" w="1" a="1">
+</p>
+<p t="444960" d="3280" w="1"><s ac="255">real</s><s t="160" ac="255"> pj</s><s t="560" ac="255"> or</s></p>
+<p t="446629" d="1611" w="1" a="1">
+</p>
+<p t="446639" d="3521" w="1"><s ac="255">uh</s><s t="161" ac="255"> the</s><s t="241" ac="255"> person</s><s t="560" ac="255"> is</s><s t="721" ac="255"> louder</s><s t="960" ac="255"> and</s><s t="1041" ac="255"> dumber</s><s t="1441" ac="255"> you</s></p>
+<p t="448230" d="1930" w="1" a="1">
+</p>
+<p t="448240" d="4640" w="1"><s ac="255">know</s><s t="79" ac="255"> this</s><s t="239" ac="255"> is</s><s t="399" ac="255"> basically</s><s t="880" ac="255"> because</s><s t="1040" ac="255"> i i</s><s t="1600" ac="255"> use</s></p>
+<p t="450150" d="2730" w="1" a="1">
+</p>
+<p t="450160" d="4720" w="1"><s ac="255">myself</s><s t="720" ac="255"> as</s><s t="960" ac="255"> a</s><s t="1039" ac="255"> clown</s><s t="1520" ac="255"> figure</s><s t="1920" ac="255"> in</s><s t="2000" ac="255"> the</s><s t="2080" ac="255"> work</s></p>
+<p t="452870" d="2010" w="1" a="1">
+</p>
+<p t="452880" d="3520" w="1"><s ac="255">it&#39;s</s><s t="240" ac="255"> nice</s><s t="480" ac="255"> to</s><s t="560" ac="255"> have</s><s t="719" ac="255"> somebody</s><s t="1280" ac="255"> in</s><s t="1439" ac="255"> the</s><s t="1599" ac="255"> story</s></p>
+<p t="454870" d="1530" w="1" a="1">
+</p>
+<p t="454880" d="3039" w="1"><s ac="255">that</s><s t="159" ac="255"> you</s><s t="319" ac="255"> know</s><s t="560" ac="255"> is</s><s t="640" ac="255"> not</s><s t="800" ac="255"> going</s><s t="879" ac="255"> to</s><s t="1039" ac="255"> sue</s><s t="1280" ac="255"> you</s></p>
+<p t="456390" d="1529" w="1" a="1">
+</p>
+<p t="456400" d="2880" w="1"><s ac="255">that</s><s t="160" ac="255"> you</s><s t="320" ac="255"> can</s><s t="400" ac="255"> say</s><s t="720" ac="255"> absolutely</s><s t="1199" ac="255"> anything</s></p>
+<p t="457909" d="1371" w="1" a="1">
+</p>
+<p t="457919" d="3601" w="1"><s ac="255">about</s><s t="241" ac="255"> you</s><s t="321" ac="255"> can</s><s t="481" ac="255"> make</s><s t="560" ac="255"> them</s><s t="641" ac="255"> do</s><s t="801" ac="255"> any</s><s t="961" ac="255"> foolish</s></p>
+<p t="459270" d="2250" w="1" a="1">
+</p>
+<p t="459280" d="5440" w="1"><s ac="255">thing</s><s t="639" ac="255"> and</s><s t="800" ac="255"> have</s><s t="960" ac="255"> any</s><s t="1199" ac="255"> ridiculous</s><s t="1680" ac="255"> opinion</s></p>
+<p t="461510" d="3210" w="1" a="1">
+</p>
+<p t="461520" d="5040" w="1"><s ac="255">and</s><s t="160" ac="255"> they</s><s t="320" ac="255"> will</s><s t="560" ac="255"> never</s><s t="880" ac="255"> ever</s><s t="1119" ac="255"> sue</s><s t="1360" ac="255"> you</s></p>
+<p t="464710" d="1850" w="1" a="1">
+</p>
+<p t="464720" d="4240" w="1"><s ac="255">if</s><s t="80" ac="255"> you&#39;ve</s><s t="240" ac="255"> got</s><s t="400" ac="255"> a</s><s t="560" ac="255"> great</s><s t="1039" ac="255"> funny</s><s t="1360" ac="255"> line</s><s t="1599" ac="255"> that&#39;s</s></p>
+<p t="466550" d="2410" w="1" a="1">
+</p>
+<p t="466560" d="4880" w="1"><s ac="255">coming</s><s t="479" ac="255"> just</s><s t="720" ac="255"> popped</s><s t="1039" ac="255"> into</s><s t="1280" ac="255"> your</s><s t="1440" ac="255"> head</s><s t="2160" ac="255"> it&#39;s</s></p>
+<p t="468950" d="2490" w="1" a="1">
+</p>
+<p t="468960" d="4639" w="1"><s ac="255">not</s><s t="239" ac="255"> quite</s><s t="639" ac="255"> right</s><s t="1200" ac="255"> but</s><s t="1359" ac="255"> it&#39;s</s><s t="1600" ac="255"> a</s><s t="1679" ac="255"> great</s><s t="1919" ac="255"> laugh</s></p>
+<p t="471430" d="2169" w="1" a="1">
+</p>
+<p t="471440" d="4560" w="1"><s ac="255">what</s><s t="159" ac="255"> do</s><s t="240" ac="255"> you</s><s t="319" ac="255"> do</s><s t="800" ac="255"> you</s><s t="1120" ac="255"> use</s><s t="1439" ac="255"> it</s></p>
+<p t="473589" d="2411" w="1" a="1">
+</p>
+<p t="473599" d="5600" w="1"><s ac="255">i</s><s t="241" ac="255"> use</s><s t="481" ac="255"> it</s><s t="641" ac="255"> of</s><s t="720" ac="255"> course</s><s t="961" ac="255"> because</s><s t="1201" ac="255"> that&#39;s</s><s t="1521" ac="255"> a</s><s t="1921" ac="255"> the</s></p>
+<p t="475990" d="3209" w="1" a="1">
+</p>
+<p t="476000" d="4879" w="1"><s ac="255">rule</s><s t="479" ac="255"> one</s><s t="879" ac="255"> is</s><s t="1039" ac="255"> to</s><s t="1199" ac="255"> entertain</s><s t="2319" ac="255"> and</s><s t="2479" ac="255"> if</s><s t="2639" ac="255"> the</s><s t="2960" ac="255"> line</s></p>
+<p t="479189" d="1690" w="1" a="1">
+</p>
+<p t="479199" d="3120" w="1"><s ac="255">is</s><s t="161" ac="255"> off</s><s t="321" ac="255"> the</s><s t="481" ac="255"> mark</s><s t="801" ac="255"> then</s><s t="1041" ac="255"> i&#39;ll</s><s t="1120" ac="255"> use</s><s t="1361" ac="255"> the</s><s t="1440" ac="255"> next</s></p>
+<p t="480869" d="1450" w="1" a="1">
+</p>
+<p t="480879" d="3440" w="1"><s ac="255">sentence</s><s t="320" ac="255"> to</s><s t="401" ac="255"> explain</s><s t="720" ac="255"> well</s><s t="880" ac="255"> it&#39;s</s><s t="961" ac="255"> not</s><s t="1201" ac="255"> really</s></p>
+<p t="482309" d="2010" w="1" a="1">
+</p>
+<p t="482319" d="4320" w="1"><s ac="255">quite</s><s t="320" ac="255"> true</s><s t="720" ac="255"> you</s><s t="880" ac="255"> know</s><s t="1121" ac="255"> you</s><s t="1201" ac="255"> can</s><s t="1361" ac="255"> always</s><s t="1681" ac="255"> back</s></p>
+<p t="484309" d="2330" w="1" a="1">
+</p>
+<p t="484319" d="3521" w="1"><s ac="255">off</s><s t="241" ac="255"> a</s><s t="320" ac="255"> joke</s><s t="641" ac="255"> you</s><s t="720" ac="255"> know</s></p>
+<p t="486629" d="1211" w="1" a="1">
+</p>
+<p t="486639" d="2481" w="1"><s ac="255">that&#39;s</s><s t="240" ac="255"> the</s><s t="321" ac="255"> nice</s><s t="481" ac="255"> thing</s><s t="641" ac="255"> about</s><s t="881" ac="255"> jokes</s></p>
+<p t="487830" d="1290" w="1" a="1">
+</p>
+<p t="487840" d="3199" w="1"><s ac="255">incidentally</s><s t="400" ac="255"> you</s><s t="479" ac="255"> can&#39;t</s><s t="720" ac="255"> back</s><s t="960" ac="255"> off</s><s t="1199" ac="255"> a</s></p>
+<p t="489110" d="1929" w="1" a="1">
+</p>
+<p t="489120" d="5280" w="1"><s ac="255">serious</s><s t="320" ac="255"> statement</s><s t="1040" ac="255"> the</s><s t="1280" ac="255"> story</s><s t="1680" ac="255"> will</s></p>
+<p t="491029" d="3371" w="1" a="1">
+</p>
+<p t="491039" d="3361" w="1"><s ac="255">continue</s><s t="720" ac="255"> after</s><s t="1041" ac="255"> this</s></p>
+<p t="495670" w="1" a="1">
+</p>
+<p t="495680" d="3199" w="1"><s ac="255">in</s><s t="160" ac="255"> his</s><s t="320" ac="255"> latest</s><s t="720" ac="255"> book</s><s t="1040" ac="255"> all</s><s t="1280" ac="255"> the</s><s t="1440" ac="255"> trouble</s><s t="1760" ac="255"> in</s></p>
+<p t="497589" d="1290" w="1" a="1">
+</p>
+<p t="497599" d="3521" w="1"><s ac="255">the</s><s t="81" ac="255"> world</s><s t="481" ac="255"> he</s><s t="641" ac="255"> goes</s><s t="961" ac="255"> after</s></p>
+<p t="498869" d="2251" w="1" a="1">
+</p>
+<p t="498879" d="4241" w="1"><s ac="255">environmentalists</s><s t="961" ac="255"> population</s><s t="1681" ac="255"> planners</s></p>
+<p t="501110" d="2010" w="1" a="1">
+</p>
+<p t="501120" d="4639" w="1"><s ac="255">and</s><s t="240" ac="255"> others</s><s t="560" ac="255"> whom</s><s t="799" ac="255"> he</s><s t="960" ac="255"> calls</s><s t="1280" ac="255"> professional</s></p>
+<p t="503110" d="2649" w="1" a="1">
+</p>
+<p t="503120" d="4919" w="1"><s ac="255">warriors</s><s t="560" ac="255"> and</s><s t="720" ac="255"> whiners</s><s t="1680" ac="255"> among</s><s t="2079" ac="255"> other</s><s t="2320" ac="255"> things</s></p>
+<p t="505749" d="2290" w="1" a="1">
+</p>
+<p t="505759" d="4880" w="1"><s ac="255">he</s><s t="241" ac="255"> hates</s><s t="481" ac="255"> repressed</s><s t="1041" ac="255"> memory</s><s t="1440" ac="255"> syndrome</s></p>
+<p t="508029" d="2610" w="1" a="1">
+</p>
+<p t="508039" d="3801" w="1"><s ac="255">multiculturalism</s><s t="1241" ac="255"> berkeley</s><s t="1641" ac="255"> california</s><s t="2361" ac="255"> and</s></p>
+<p t="510629" d="1211" w="1" a="1">
+</p>
+<p t="510639" d="3441" w="1"><s ac="255">al</s><s t="240" ac="255"> gore</s></p>
+<p t="511830" d="2250" w="1" a="1">
+</p>
+<p t="511840" d="4960" w="1"><s ac="255">he&#39;s</s><s t="240" ac="255"> willing</s><s t="559" ac="255"> to</s><s t="720" ac="255"> offend</s><s t="1119" ac="255"> almost</s><s t="1600" ac="255"> everyone</s></p>
+<p t="514070" d="2730" w="1" a="1">
+</p>
+<p t="514080" d="5120" w="1"><s ac="255">even</s><s t="319" ac="255"> advocates</s><s t="879" ac="255"> for</s><s t="1040" ac="255"> the</s><s t="1120" ac="255"> handicap</s><s t="2160" ac="255"> he</s><s t="2399" ac="255"> calls</s></p>
+<p t="516790" d="2410" w="1" a="1">
+</p>
+<p t="516800" d="4320" w="1"><s ac="255">them</s><s t="239" ac="255"> compassion</s><s t="960" ac="255"> fascists</s><s t="1840" ac="255"> and</s><s t="2000" ac="255"> he</s><s t="2159" ac="255"> says</s></p>
+<p t="519190" d="1930" w="1" a="1">
+</p>
+<p t="519200" d="3920" w="1"><s ac="255">they&#39;ve</s><s t="240" ac="255"> been</s><s t="480" ac="255"> at</s><s t="639" ac="255"> work</s><s t="959" ac="255"> building</s><s t="1360" ac="255"> a</s><s t="1519" ac="255"> ramp</s><s t="1759" ac="255"> at</s></p>
+<p t="521110" d="2010" w="1" a="1">
+</p>
+<p t="521120" d="4320" w="1"><s ac="255">the</s><s t="80" ac="255"> post</s><s t="479" ac="255"> office</s><s t="1039" ac="255"> in</s><s t="1200" ac="255"> peterborough</s><s t="1760" ac="255"> new</s></p>
+<p t="523110" d="2330" w="1" a="1">
+</p>
+<p t="523120" d="3839" w="1"><s ac="255">hampshire</s><s t="880" ac="255"> this</s></p>
+<p t="525430" d="1529" w="1" a="1">
+</p>
+<p t="525440" d="3360" w="1"><s ac="255">wheelchair</s><s t="480" ac="255"> ramp</s><s t="800" ac="255"> in</s><s t="880" ac="255"> front</s><s t="1040" ac="255"> of</s><s t="1120" ac="255"> the</s><s t="1200" ac="255"> post</s></p>
+<p t="526949" d="1851" w="1" a="1">
+</p>
+<p t="526959" d="4560" w="1"><s ac="255">office</s><s t="721" ac="255"> this</s><s t="961" ac="255"> was</s><s t="1121" ac="255"> required</s><s t="1521" ac="255"> by</s><s t="1681" ac="255"> the</s></p>
+<p t="528790" d="2729" w="1" a="1">
+</p>
+<p t="528800" d="5280" w="1"><s ac="255">americans</s><s t="400" ac="255"> with</s><s t="560" ac="255"> disabilities</s><s t="1200" ac="255"> act</s><s t="1920" ac="255"> and</s><s t="2479" ac="255"> this</s></p>
+<p t="531509" d="2571" w="1" a="1">
+</p>
+<p t="531519" d="4000" w="1"><s ac="255">is</s><s t="161" ac="255"> a</s><s t="641" ac="255"> long</s><s t="880" ac="255"> and</s><s t="1041" ac="255"> fairly</s><s t="1361" ac="255"> steep</s><s t="1681" ac="255"> and</s><s t="2241" ac="255"> fairly</s></p>
+<p t="534070" d="1449" w="1" a="1">
+</p>
+<p t="534080" d="3439" w="1"><s ac="255">narrow</s><s t="400" ac="255"> ramp</s></p>
+<p t="535509" d="2010" w="1" a="1">
+</p>
+<p t="535519" d="4320" w="1"><s ac="255">i</s><s t="161" ac="255"> think</s><s t="320" ac="255"> basically</s><s t="721" ac="255"> you&#39;d</s><s t="961" ac="255"> have</s><s t="1041" ac="255"> to</s><s t="1201" ac="255"> be</s><s t="1681" ac="255"> a</s></p>
+<p t="537509" d="2330" w="1" a="1">
+</p>
+<p t="537519" d="4401" w="1"><s ac="255">special</s><s t="401" ac="255"> olympics</s><s t="1121" ac="255"> athlete</s><s t="1681" ac="255"> to</s><s t="1921" ac="255"> get</s><s t="2161" ac="255"> your</s></p>
+<p t="539829" d="2091" w="1" a="1">
+</p>
+<p t="539839" d="4000" w="1"><s ac="255">wheelchair</s><s t="881" ac="255"> up</s><s t="1041" ac="255"> this</s><s t="1201" ac="255"> thing</s></p>
+<p t="541910" d="1929" w="1" a="1">
+</p>
+<p t="541920" d="4400" w="1"><s ac="255">o&#39;rourke</s><s t="479" ac="255"> says</s><s t="640" ac="255"> there&#39;s</s><s t="880" ac="255"> a</s><s t="960" ac="255"> more</s><s t="1200" ac="255"> convenient</s></p>
+<p t="543829" d="2491" w="1" a="1">
+</p>
+<p t="543839" d="4721" w="1"><s ac="255">ramp</s><s t="321" ac="255"> at</s><s t="401" ac="255"> the</s><s t="560" ac="255"> post</s><s t="881" ac="255"> office&#39;s</s><s t="1361" ac="255"> back</s><s t="1680" ac="255"> door</s><s t="2241" ac="255"> it&#39;s</s></p>
+<p t="546310" d="2250" w="1" a="1">
+</p>
+<p t="546320" d="4320" w="1"><s ac="255">been</s><s t="160" ac="255"> there</s><s t="400" ac="255"> since</s><s t="639" ac="255"> the</s><s t="800" ac="255"> 1930s</s><s t="1920" ac="255"> and</s><s t="2079" ac="255"> has</s></p>
+<p t="548550" d="2090" w="1" a="1">
+</p>
+<p t="548560" d="3680" w="1"><s ac="255">worked</s><s t="240" ac="255"> just</s><s t="480" ac="255"> fine</s><s t="1200" ac="255"> but</s><s t="1440" ac="255"> according</s><s t="1839" ac="255"> to</s><s t="2000" ac="255"> the</s></p>
+<p t="550630" d="1610" w="1" a="1">
+</p>
+<p t="550640" d="3440" w="1"><s ac="255">americans</s><s t="400" ac="255"> with</s><s t="480" ac="255"> disabilities</s><s t="1040" ac="255"> act</s><s t="1280" ac="255"> that&#39;s</s></p>
+<p t="552230" d="1850" w="1" a="1">
+</p>
+<p t="552240" d="4080" w="1"><s ac="255">not</s><s t="240" ac="255"> good</s><s t="400" ac="255"> enough</s><s t="800" ac="255"> because</s><s t="1039" ac="255"> that</s><s t="1360" ac="255"> treats</s></p>
+<p t="554070" d="2250" w="1" a="1">
+</p>
+<p t="554080" d="3840" w="1"><s ac="255">people</s><s t="319" ac="255"> with</s><s t="480" ac="255"> disabilities</s><s t="1360" ac="255"> differently</s></p>
+<p t="556310" d="1610" w="1" a="1">
+</p>
+<p t="556320" d="3519" w="1"><s ac="255">than</s><s t="240" ac="255"> the</s><s t="320" ac="255"> rest</s><s t="560" ac="255"> of</s><s t="639" ac="255"> us</s><s t="880" ac="255"> are</s><s t="959" ac="255"> treated</s><s t="1360" ac="255"> and</s><s t="1440" ac="255"> so</s></p>
+<p t="557910" d="1929" w="1" a="1">
+</p>
+<p t="557920" d="3440" w="1"><s ac="255">there</s><s t="160" ac="255"> has</s><s t="400" ac="255"> to</s><s t="479" ac="255"> be</s><s t="560" ac="255"> a</s><s t="640" ac="255"> ramp</s><s t="960" ac="255"> in</s><s t="1039" ac="255"> the</s><s t="1120" ac="255"> front</s><s t="1760" ac="255"> and</s></p>
+<p t="559829" d="1531" w="1" a="1">
+</p>
+<p t="559839" d="2801" w="1"><s ac="255">the</s><s t="161" ac="255"> only</s><s t="321" ac="255"> thing</s><s t="481" ac="255"> it&#39;s</s><s t="641" ac="255"> used</s><s t="881" ac="255"> for</s><s t="1041" ac="255"> is</s><s t="1201" ac="255"> kids</s><s t="1440" ac="255"> on</s></p>
+<p t="561350" d="1290" w="1" a="1">
+</p>
+<p t="561360" d="3280" w="1"><s ac="255">skateboards</s></p>
+<p t="562630" d="2010" w="1" a="1">
+</p>
+<p t="562640" d="2879" w="1"><s ac="255">the</s><s t="160" ac="255"> advocates</s><s t="639" ac="255"> would</s><s t="800" ac="255"> seem</s><s t="1040" ac="255"> to</s><s t="1120" ac="255"> have</s><s t="1360" ac="255"> the</s><s t="1520" ac="255"> law</s></p>
+<p t="564630" d="889" w="1" a="1">
+</p>
+<p t="564640" d="3440" w="1"><s ac="255">and</s></p>
+<p t="565509" d="2571" w="1" a="1">
+</p>
+<p t="565519" d="4320" w="1"><s ac="255">some</s><s t="161" ac="255"> would</s><s t="320" ac="255"> argue</s><s t="641" ac="255"> logic</s><s t="1041" ac="255"> on</s><s t="1201" ac="255"> their</s><s t="1440" ac="255"> side</s><s t="2241" ac="255"> oh</s></p>
+<p t="568070" d="1769" w="1" a="1">
+</p>
+<p t="568080" d="3680" w="1"><s ac="255">you</s><s t="80" ac="255"> can</s><s t="240" ac="255"> have</s><s t="400" ac="255"> logic</s><s t="800" ac="255"> on</s><s t="879" ac="255"> your</s><s t="1040" ac="255"> side</s><s t="1520" ac="255"> no</s></p>
+<p t="569829" d="1931" w="1" a="1">
+</p>
+<p t="569839" d="3761" w="1"><s ac="255">problem</s><s t="641" ac="255"> what</s><s t="881" ac="255"> i&#39;m</s><s t="1041" ac="255"> saying</s><s t="1281" ac="255"> is</s><s t="1440" ac="255"> they</s><s t="1601" ac="255"> don&#39;t</s></p>
+<p t="571750" d="1850" w="1" a="1">
+</p>
+<p t="571760" d="4079" w="1"><s ac="255">have</s><s t="240" ac="255"> common</s><s t="639" ac="255"> sense</s><s t="960" ac="255"> on</s><s t="1120" ac="255"> their</s><s t="1280" ac="255"> side</s><s t="1600" ac="255"> and</s><s t="1759" ac="255"> a</s></p>
+<p t="573590" d="2249" w="1" a="1">
+</p>
+<p t="573600" d="4400" w="1"><s ac="255">lot</s><s t="320" ac="255"> of</s><s t="480" ac="255"> human</s><s t="799" ac="255"> life</s><s t="1200" ac="255"> should</s><s t="1440" ac="255"> be</s><s t="1600" ac="255"> guided</s><s t="1919" ac="255"> most</s></p>
+<p t="575829" d="2171" w="1" a="1">
+</p>
+<p t="575839" d="4721" w="1"><s ac="255">of</s><s t="81" ac="255"> human</s><s t="401" ac="255"> life</s><s t="721" ac="255"> should</s><s t="881" ac="255"> be</s><s t="1041" ac="255"> guided</s><s t="1440" ac="255"> by</s><s t="1680" ac="255"> common</s></p>
+<p t="577990" d="2570" w="1" a="1">
+</p>
+<p t="578000" d="4560" w="1"><s ac="255">sense</s><s t="320" ac="255"> and</s><s t="560" ac="255"> not</s><s t="800" ac="255"> by</s><s t="1040" ac="255"> legal</s><s t="1360" ac="255"> quibbling</s></p>
+<p t="580550" d="2010" w="1" a="1">
+</p>
+<p t="580560" d="5200" w="1"><s ac="255">that</s><s t="240" ac="255"> seems</s><s t="480" ac="255"> like</s><s t="640" ac="255"> a</s><s t="719" ac="255"> really</s><s t="1040" ac="255"> hard</s><s t="1360" ac="255"> approach</s><s t="1839" ac="255"> i</s></p>
+<p t="582550" d="3210" w="1" a="1">
+</p>
+<p t="582560" d="4959" w="1"><s ac="255">mean</s><s t="480" ac="255"> to</s><s t="640" ac="255"> go</s><s t="959" ac="255"> after</s><s t="1360" ac="255"> the</s><s t="1839" ac="255"> disabilities</s><s t="2560" ac="255"> act</s></p>
+<p t="585750" d="1769" w="1" a="1">
+</p>
+<p t="585760" d="3519" w="1"><s ac="255">american</s><s t="400" ac="255"> disabilities</s><s t="1040" ac="255"> act</s><s t="1280" ac="255"> i</s><s t="1360" ac="255"> mean</s><s t="1519" ac="255"> that</s></p>
+<p t="587509" d="1770" w="1" a="1">
+</p>
+<p t="587519" d="4241" w="1"><s ac="255">seems</s><s t="161" ac="255"> like</s><s t="320" ac="255"> such</s><s t="561" ac="255"> a</s><s t="721" ac="255"> heartless</s></p>
+<p t="589269" d="2491" w="1" a="1">
+</p>
+<p t="589279" d="5761" w="1"><s ac="255">position</s><s t="961" ac="255"> totally</s><s t="1281" ac="255"> devoid</s><s t="1601" ac="255"> of</s><s t="1680" ac="255"> humanity</s><s t="2321" ac="255"> how</s></p>
+<p t="591750" d="3290" w="1" a="1">
+</p>
+<p t="591760" d="5360" w="1"><s ac="255">could</s><s t="400" ac="255"> anybody</s><s t="1199" ac="255"> possibly</s><s t="2160" ac="255"> be</s><s t="2400" ac="255"> against</s><s t="3040" ac="255"> good</s></p>
+<p t="595030" d="2090" w="1" a="1">
+</p>
+<p t="595040" d="4000" w="1"><s ac="255">things</s><s t="400" ac="255"> for</s><s t="640" ac="255"> the</s><s t="799" ac="255"> disabled</s><s t="1600" ac="255"> how</s><s t="1760" ac="255"> could</s></p>
+<p t="597110" d="1930" w="1" a="1">
+</p>
+<p t="597120" d="4399" w="1"><s ac="255">anybody</s><s t="560" ac="255"> take</s><s t="719" ac="255"> such</s><s t="960" ac="255"> a</s><s t="1120" ac="255"> rotten</s><s t="1520" ac="255"> awful</s></p>
+<p t="599030" d="2489" w="1" a="1">
+</p>
+<p t="599040" d="5359" w="1"><s ac="255">position</s><s t="479" ac="255"> as</s><s t="640" ac="255"> that</s><s t="880" ac="255"> well</s><s t="1440" ac="255"> i</s><s t="1680" ac="255"> can</s><s t="2000" ac="255"> and</s><s t="2160" ac="255"> it&#39;s</s><s t="2320" ac="255"> for</s></p>
+<p t="601509" d="2890" w="1" a="1">
+</p>
+<p t="601519" d="5361" w="1"><s ac="255">this</s><s t="241" ac="255"> reason</s><s t="961" ac="255"> is</s><s t="1201" ac="255"> that</s><s t="1841" ac="255"> the the</s><s t="2401" ac="255"> purpose</s><s t="2801" ac="255"> of</s></p>
+<p t="604389" d="2491" w="1" a="1">
+</p>
+<p t="604399" d="4241" w="1"><s ac="255">this</s><s t="321" ac="255"> law</s><s t="560" ac="255"> was</s><s t="721" ac="255"> to</s><s t="880" ac="255"> make</s><s t="1120" ac="255"> george</s><s t="1601" ac="255"> bush</s><s t="2081" ac="255"> feel</s></p>
+<p t="606870" d="1770" w="1" a="1">
+</p>
+<p t="606880" d="2959" w="1"><s ac="255">good</s><s t="320" ac="255"> and</s><s t="480" ac="255"> to</s><s t="560" ac="255"> make</s><s t="800" ac="255"> congress</s><s t="1280" ac="255"> people</s><s t="1519" ac="255"> feel</s></p>
+<p t="608630" d="1209" w="1" a="1">
+</p>
+<p t="608640" d="3040" w="1"><s ac="255">good</s><s t="160" ac="255"> and</s><s t="240" ac="255"> to</s><s t="319" ac="255"> a</s><s t="400" ac="255"> certain</s><s t="639" ac="255"> extent</s><s t="879" ac="255"> i</s><s t="960" ac="255"> suppose</s></p>
+<p t="609829" d="1851" w="1" a="1">
+</p>
+<p t="609839" d="3281" w="1"><s ac="255">make</s><s t="161" ac="255"> voters</s><s t="481" ac="255"> feel</s><s t="721" ac="255"> good</s><s t="1041" ac="255"> this</s><s t="1281" ac="255"> ramp</s><s t="1601" ac="255"> doesn&#39;t</s></p>
+<p t="611670" d="1450" w="1" a="1">
+</p>
+<p t="611680" d="3279" w="1"><s ac="255">helping</s><s t="320" ac="255"> anybody</s><s t="640" ac="255"> with</s><s t="800" ac="255"> disabilities</s><s t="1279" ac="255"> there</s></p>
+<p t="613110" d="1849" w="1" a="1">
+</p>
+<p t="613120" d="4000" w="1"><s ac="255">already</s><s t="399" ac="255"> was</s><s t="640" ac="255"> a</s><s t="719" ac="255"> ramp</s><s t="1360" ac="255"> nobody</s><s t="1680" ac="255"> with</s></p>
+<p t="614949" d="2171" w="1" a="1">
+</p>
+<p t="614959" d="3841" w="1"><s ac="255">disabilities</s><s t="560" ac="255"> is</s><s t="721" ac="255"> using</s><s t="1041" ac="255"> this</s><s t="1281" ac="255"> ramp</s><s t="1841" ac="255"> this</s></p>
+<p t="617110" d="1690" w="1" a="1">
+</p>
+<p t="617120" d="3839" w="1"><s ac="255">ramp</s><s t="399" ac="255"> is</s><s t="560" ac="255"> there&#39;s</s><s t="880" ac="255"> a</s><s t="1040" ac="255"> hundred</s><s t="1360" ac="255"> thousand</s></p>
+<p t="618790" d="2169" w="1" a="1">
+</p>
+<p t="618800" d="5279" w="1"><s ac="255">dollar</s><s t="479" ac="255"> monument</s><s t="1279" ac="255"> to</s></p>
+<p t="620949" d="3130" w="1" a="1">
+</p>
+<p t="620959" d="5201" w="1"><s ac="255">patting</s><s t="401" ac="255"> oneself</s><s t="1120" ac="255"> upon</s><s t="1521" ac="255"> the</s><s t="1681" ac="255"> back</s></p>
+<p t="624069" d="2091" w="1" a="1">
+</p>
+<p t="624079" d="4481" w="1"><s ac="255">some</s><s t="241" ac="255"> of</s><s t="401" ac="255"> his</s><s t="561" ac="255"> friends</s><s t="961" ac="255"> say</s><s t="1200" ac="255"> o&#39;rourke</s><s t="1841" ac="255"> is</s><s t="2000" ac="255"> a</s></p>
+<p t="626150" d="2410" w="1" a="1">
+</p>
+<p t="626160" d="5280" w="1"><s ac="255">lot</s><s t="239" ac="255"> more</s><s t="560" ac="255"> sophisticated</s><s t="1280" ac="255"> than</s><s t="1520" ac="255"> he</s><s t="1600" ac="255"> lets</s><s t="1919" ac="255"> on</s></p>
+<p t="628550" d="2890" w="1" a="1">
+</p>
+<p t="628560" d="5760" w="1"><s ac="255">that</s><s t="160" ac="255"> he</s><s t="320" ac="255"> writes</s><s t="640" ac="255"> for</s><s t="880" ac="255"> effect</s><s t="1519" ac="255"> and</s><s t="1760" ac="255"> for</s><s t="2000" ac="255"> sales</s></p>
+<p t="631430" d="2890" w="1" a="1">
+</p>
+<p t="631440" d="5760" w="1"><s ac="255">you</s><s t="240" ac="255"> really</s><s t="480" ac="255"> believe</s><s t="800" ac="255"> everything</s><s t="1040" ac="255"> you</s><s t="1200" ac="255"> write</s></p>
+<p t="634310" d="2890" w="1" a="1">
+</p>
+<p t="634320" d="4560" w="1"><s ac="255">oh</s><s t="480" ac="255"> good</s><s t="800" ac="255"> question</s></p>
+<p t="637190" d="1690" w="1" a="1">
+</p>
+<p t="637200" d="3600" w="1"><s ac="255">of</s><s t="79" ac="255"> course</s><s t="400" ac="255"> not</s><s t="800" ac="255"> you</s><s t="879" ac="255"> know</s></p>
+<p t="638870" d="1930" w="1" a="1">
+</p>
+<p t="638880" d="3920" w="1"><s ac="255">but</s><s t="240" ac="255"> uh</s><s t="480" ac="255"> i</s><s t="639" ac="255"> think</s><s t="880" ac="255"> that</s><s t="1040" ac="255"> there&#39;s</s><s t="1600" ac="255"> you</s><s t="1680" ac="255"> know</s></p>
+<p t="640790" d="2010" w="1" a="1">
+</p>
+<p t="640800" d="3760" w="1"><s ac="255">there</s><s t="240" ac="255"> there&#39;s</s><s t="640" ac="255"> some</s><s t="880" ac="255"> root</s><s t="1200" ac="255"> cause</s><s t="1440" ac="255"> some</s><s t="1680" ac="255"> seed</s></p>
+<p t="642790" d="1770" w="1" a="1">
+</p>
+<p t="642800" d="3920" w="1"><s ac="255">some</s><s t="240" ac="255"> kernel</s><s t="640" ac="255"> in</s><s t="800" ac="255"> there</s><s t="1039" ac="255"> of</s><s t="1200" ac="255"> some</s><s t="1440" ac="255"> of</s></p>
+<p t="644550" d="2170" w="1" a="1">
+</p>
+<p t="644560" d="4160" w="1"><s ac="255">something</s><s t="320" ac="255"> that</s><s t="480" ac="255"> i</s><s t="640" ac="255"> believe</s><s t="959" ac="255"> you</s><s t="1040" ac="255"> know</s><s t="1519" ac="255"> uh</s><s t="2000" ac="255"> i&#39;m</s></p>
+<p t="646710" d="2010" w="1" a="1">
+</p>
+<p t="646720" d="4000" w="1"><s ac="255">a</s><s t="80" ac="255"> humorous</s><s t="480" ac="255"> do</s><s t="640" ac="255"> i</s><s t="799" ac="255"> exaggerate</s><s t="1280" ac="255"> for</s><s t="1440" ac="255"> a</s><s t="1600" ac="255"> fact</s><s t="1840" ac="255"> of</s></p>
+<p t="648710" d="2010" w="1" a="1">
+</p>
+<p t="648720" d="3119" w="1"><s ac="255">course</s><s t="239" ac="255"> i</s><s t="320" ac="255"> exaggerate</s><s t="799" ac="255"> for</s><s t="960" ac="255"> a</s><s t="1040" ac="255"> fact</s><s t="1760" ac="255"> some</s></p>
+<p t="650710" d="1129" w="1" a="1">
+</p>
+<p t="650720" d="3440" w="1"><s ac="255">people</s><s t="239" ac="255"> have</s><s t="320" ac="255"> said</s><s t="559" ac="255"> and</s><s t="640" ac="255"> i</s><s t="720" ac="255"> know</s><s t="880" ac="255"> you&#39;ve</s></p>
+<p t="651829" d="2331" w="1" a="1">
+</p>
+<p t="651839" d="3601" w="1"><s ac="255">probably</s><s t="560" ac="255"> read</s><s t="801" ac="255"> it</s><s t="1041" ac="255"> you</s><s t="1201" ac="255"> know</s><s t="1440" ac="255"> pj</s><s t="1841" ac="255"> is</s><s t="2000" ac="255"> very</s></p>
+<p t="654150" d="1290" w="1" a="1">
+</p>
+<p t="654160" d="2480" w="1"><s ac="255">calculated</s></p>
+<p t="655430" d="1210" w="1" a="1">
+</p>
+<p t="655440" d="3519" w="1"><s ac="255">um</s></p>
+<p t="656630" d="2329" w="1" a="1">
+</p>
+<p t="656640" d="4720" w="1"><s ac="255">go</s><s t="160" ac="255"> back</s><s t="480" ac="255"> and</s><s t="560" ac="255"> look</s><s t="800" ac="255"> at</s><s t="879" ac="255"> him</s><s t="1040" ac="255"> when</s><s t="1120" ac="255"> he</s><s t="1280" ac="255"> was</s></p>
+<p t="658949" d="2411" w="1" a="1">
+</p>
+<p t="658959" d="4320" w="1"><s ac="255">writing</s><s t="320" ac="255"> for</s><s t="560" ac="255"> harry</s><s t="1041" ac="255"> and</s><s t="1201" ac="255"> he</s><s t="1281" ac="255"> was</s><s t="1440" ac="255"> a</s><s t="1521" ac="255"> hippie</s></p>
+<p t="661350" d="1929" w="1" a="1">
+</p>
+<p t="661360" d="3599" w="1"><s ac="255">then</s><s t="159" ac="255"> he</s><s t="320" ac="255"> turns</s><s t="640" ac="255"> up</s><s t="719" ac="255"> at</s><s t="800" ac="255"> the</s><s t="960" ac="255"> national</s><s t="1280" ac="255"> lampoon</s></p>
+<p t="663269" d="1690" w="1" a="1">
+</p>
+<p t="663279" d="3921" w="1"><s ac="255">as</s><s t="161" ac="255"> an</s><s t="321" ac="255"> editor</s><s t="721" ac="255"> then</s><s t="881" ac="255"> he</s><s t="961" ac="255"> goes</s><s t="1201" ac="255"> to</s><s t="1281" ac="255"> work</s><s t="1521" ac="255"> for</s></p>
+<p t="664949" d="2251" w="1" a="1">
+</p>
+<p t="664959" d="4560" w="1"><s ac="255">rolling</s><s t="481" ac="255"> stone</s><s t="961" ac="255"> a</s><s t="1281" ac="255"> politically</s><s t="1841" ac="255"> liberal</s></p>
+<p t="667190" d="2329" w="1" a="1">
+</p>
+<p t="667200" d="4879" w="1"><s ac="255">publication</s><s t="1120" ac="255"> and</s><s t="1360" ac="255"> now</s><s t="1520" ac="255"> when</s><s t="1680" ac="255"> it&#39;s</s><s t="1920" ac="255"> become</s></p>
+<p t="669509" d="2570" w="1" a="1">
+</p>
+<p t="669519" d="5760" w="1"><s ac="255">fashionable</s><s t="641" ac="255"> to</s><s t="801" ac="255"> be</s><s t="1041" ac="255"> conservative</s><s t="1841" ac="255"> and</s><s t="2320" ac="255"> right</s></p>
+<p t="672069" d="3210" w="1" a="1">
+</p>
+<p t="672079" d="5361" w="1"><s ac="255">wing</s><s t="401" ac="255"> what</s><s t="561" ac="255"> you&#39;re</s><s t="801" ac="255"> doing</s><s t="1121" ac="255"> is</s><s t="1601" ac="255"> becoming</s><s t="2161" ac="255"> a</s></p>
+<p t="675269" d="2171" w="1" a="1">
+</p>
+<p t="675279" d="3761" w="1"><s ac="255">conservative</s><s t="641" ac="255"> commentator</s><s t="1680" ac="255"> that</s><s t="1921" ac="255"> really</s></p>
+<p t="677430" d="1610" w="1" a="1">
+</p>
+<p t="677440" d="3120" w="1"><s ac="255">you&#39;re</s><s t="160" ac="255"> an</s><s t="320" ac="255"> opportunist</s></p>
+<p t="679030" d="1530" w="1" a="1">
+</p>
+<p t="679040" d="3760" w="1"><s ac="255">definitely</s><s t="720" ac="255"> you</s><s t="880" ac="255"> know</s><s t="960" ac="255"> there&#39;s</s><s t="1120" ac="255"> no</s><s t="1280" ac="255"> doubt</s></p>
+<p t="680550" d="2250" w="1" a="1">
+</p>
+<p t="680560" d="5040" w="1"><s ac="255">about</s><s t="160" ac="255"> that</s><s t="480" ac="255"> i</s><s t="800" ac="255"> am</s><s t="1040" ac="255"> i&#39;m</s><s t="1440" ac="255"> very</s><s t="1680" ac="255"> ambitious</s></p>
+<p t="682790" d="2810" w="1" a="1">
+</p>
+<p t="682800" d="4000" w="1"><s ac="255">person</s><s t="800" ac="255"> and</s><s t="1200" ac="255"> um</s><s t="1920" ac="255"> i</s><s t="2000" ac="255"> was</s><s t="2159" ac="255"> a</s><s t="2240" ac="255"> hippie</s><s t="2560" ac="255"> when</s><s t="2640" ac="255"> it</s><s t="2719" ac="255"> was</s></p>
+<p t="685590" d="1210" w="1" a="1">
+</p>
+<p t="685600" d="3760" w="1"><s ac="255">fun</s><s t="160" ac="255"> to</s><s t="239" ac="255"> be</s><s t="320" ac="255"> hippie</s><s t="560" ac="255"> it</s><s t="640" ac="255"> would</s><s t="799" ac="255"> have</s><s t="880" ac="255"> been</s><s t="1040" ac="255"> very</s></p>
+<p t="686790" d="2570" w="1" a="1">
+</p>
+<p t="686800" d="5200" w="1"><s ac="255">stupid</s><s t="320" ac="255"> to</s><s t="400" ac="255"> have</s><s t="479" ac="255"> been</s><s t="560" ac="255"> a</s><s t="640" ac="255"> hippie</s><s t="880" ac="255"> in</s><s t="960" ac="255"> the</s><s t="1039" ac="255"> 50s</s></p>
+<p t="689350" d="2650" w="1" a="1">
+</p>
+<p t="689360" d="4560" w="1"><s ac="255">and</s><s t="159" ac="255"> even</s><s t="400" ac="255"> stupider</s><s t="800" ac="255"> to</s><s t="960" ac="255"> be</s><s t="1039" ac="255"> one</s><s t="1200" ac="255"> in</s><s t="1280" ac="255"> the</s><s t="1360" ac="255"> 80s</s></p>
+<p t="691990" d="1930" w="1" a="1">
+</p>
+<p t="692000" d="3839" w="1"><s ac="255">but</s><s t="560" ac="255"> the</s><s t="720" ac="255"> end</s><s t="880" ac="255"> of</s><s t="959" ac="255"> the</s><s t="1040" ac="255"> 60s</s><s t="1440" ac="255"> beginning</s><s t="1760" ac="255"> of</s><s t="1839" ac="255"> the</s></p>
+<p t="693910" d="1929" w="1" a="1">
+</p>
+<p t="693920" d="3840" w="1"><s ac="255">70s</s><s t="400" ac="255"> it</s><s t="479" ac="255"> was</s><s t="560" ac="255"> a</s><s t="640" ac="255"> great</s><s t="800" ac="255"> time</s><s t="960" ac="255"> to</s><s t="1039" ac="255"> be</s><s t="1120" ac="255"> a</s><s t="1200" ac="255"> hippie</s></p>
+<p t="695829" d="1931" w="1" a="1">
+</p>
+<p t="695839" d="5601" w="1"><s ac="255">but</s><s t="161" ac="255"> definitely</s><s t="721" ac="255"> i&#39;m</s><s t="961" ac="255"> not</s><s t="1120" ac="255"> an</s><s t="1361" ac="255"> artist</s><s t="1841" ac="255"> you</s></p>
+<p t="697750" d="3690" w="1" a="1">
+</p>
+<p t="697760" d="6160" w="1"><s ac="255">know</s><s t="240" ac="255"> i</s><s t="480" ac="255"> i&#39;m</s><s t="960" ac="255"> a</s><s t="1040" ac="255"> journalist</s><s t="1680" ac="255"> and</s><s t="2480" ac="255"> i</s><s t="2720" ac="255"> like</s><s t="2960" ac="255"> to</s></p>
+<p t="701430" d="2490" w="1" a="1">
+</p>
+<p t="701440" d="4639" w="1"><s ac="255">get</s><s t="240" ac="255"> stuff</s><s t="560" ac="255"> published</s><s t="1120" ac="255"> i</s><s t="1200" ac="255"> like</s><s t="1360" ac="255"> to</s><s t="1519" ac="255"> make</s><s t="1680" ac="255"> money</s></p>
+<p t="703910" d="2169" w="1" a="1">
+</p>
+<p t="703920" d="4080" w="1"><s ac="255">and</s><s t="240" ac="255"> i</s><s t="479" ac="255"> like</s><s t="720" ac="255"> to</s></p>
+<p t="706069" d="1931" w="1" a="1">
+</p>
+<p t="706079" d="3601" w="1"><s ac="255">get</s><s t="161" ac="255"> a lot</s><s t="320" ac="255"> of</s><s t="401" ac="255"> readers</s><s t="721" ac="255"> if</s><s t="880" ac="255"> i</s><s t="961" ac="255"> possibly</s><s t="1440" ac="255"> can</s></p>
+<p t="707990" d="1690" w="1" a="1">
+</p>
+<p t="708000" d="3519" w="1"><s ac="255">and</s><s t="320" ac="255"> so</s></p>
+<p t="709670" d="1849" w="1" a="1">
+</p>
+<p t="709680" d="3520" w="1"><s ac="255">have</s><s t="240" ac="255"> i</s><s t="399" ac="255"> changed</s><s t="800" ac="255"> with</s><s t="880" ac="255"> the</s><s t="1040" ac="255"> times</s><s t="1360" ac="255"> well</s><s t="1599" ac="255"> god</s></p>
+<p t="711509" d="1691" w="1" a="1">
+</p>
+<p t="711519" d="5320" w="1"><s ac="255">what</s><s t="161" ac="255"> a</s><s t="241" ac="255"> strange</s><s t="641" ac="255"> person</s><s t="961" ac="255"> i</s><s t="1041" ac="255"> would</s><s t="1201" ac="255"> be</s><s t="1361" ac="255"> if</s><s t="1521" ac="255"> i</s></p>
+<p t="713190" d="3649" w="1" a="1">
+</p>
+<p t="713200" d="3639" w="1"><s ac="255">hadn&#39;t</s><s t="560" ac="255"> you</s><s t="639" ac="255"> know</s></p>
+</body>
+</timedtext>
