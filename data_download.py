@@ -11,14 +11,14 @@ captionsPath = "data/source/captions/"
 for url in links:
     yt = YouTube(url)
     filename = yt.title.replace(' ', '_')
-
+    # downlaod video
     vidFilename = filename + ".mp4"
     stream = yt.streams.get_by_itag(18)
     stream.download(videosPath, vidFilename)
-
+    # convert video to audio
     audioFilename = filename + ".mp3"
     mp4_to_mp3(videosPath + vidFilename, audioPath + audioFilename)
-
+    # download captions
     ccFilename = filename + ".txt"
     captions = yt.captions['a.en']
     with open(f"{captionsPath}{ccFilename}", 'w+') as wFile:
