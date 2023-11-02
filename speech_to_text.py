@@ -2,8 +2,8 @@
 # pip install -U openai-whisper
 
 import whisper
-import json
 import os
+import csv
 
 audioPath = "data/source/audio/"
 transcriptsPath = "data/target/transcripts/"
@@ -20,19 +20,20 @@ for fileEntry in os.listdir(dir):
     if os.path.isfile(audioFilePath):
         print("-" * 25)
         print(f"Whisper is transcribing: {audioFilename}")
-        result = model.transcribe(audioFilePath)
+        result = model.transcribe(audioFilePath,fp16=False)
+        # creates csv file
+        csv_filename = f"{os.path.splitext(audioFilename)[0]}.csv"
+        csv_path = os.path.join(transcriptsPath, csv_filename)
         
-        transcript = {
-            "text": result["text"],
-            "segments": result["segments"]
-        }
+        with open(csv_path, 'w', newline='') as csv_file:
+            csv_writer = csv.writer(csv_file)
+            csv_writer.writerow(["Start Time", "End Time", "Text"])
 
-        transcriptFilename, _ = os.path.splitext(audioFilename)
-        transcriptFilename = transcriptFilename + "_transcript.json"
+            for segment in result["segments"]:
+                start_time = segment["start"]
+                end_time = segment["end"]
+                text = segment["text"]
 
-        transcriptPath = transcriptsPath + transcriptFilename
-
-        with open(transcriptPath, "w") as jsonFile:
-            json.dump(transcript, jsonFile, ensure_ascii=False, indent=4)
-
+                # Write the data to the CSV file
+                csv_writer.writerow([start_time, end_time, text])
         print("transcript saved.")
