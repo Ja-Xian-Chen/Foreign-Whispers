@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
-def translate_text(text, target_language="fr"):
+def translate_text(text, target_language="es"):
     model_name = "t5-base"
     tokenizer = T5Tokenizer.from_pretrained(model_name)
     model = T5ForConditionalGeneration.from_pretrained(model_name)
@@ -30,6 +30,6 @@ def translate(input_folder, output_folder, target_language="es"):
 
 input_folder = "data/target/transcripts"
 output_folder = "data/target/translated"
-target_language = "fr"
+target_language = "de"
 
 translate(input_folder, output_folder, target_language)
