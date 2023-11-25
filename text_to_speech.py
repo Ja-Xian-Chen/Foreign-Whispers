@@ -1,27 +1,28 @@
 import os
 import pandas as pd
 import torch
+import torchaudio
 from TTS.api import TTS
 
-def text_to_speech(input_folder, speech_folder, target_language="de"):
-    # Load TTS model
+def process_csv_files(input_folder, output_folder):
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    tts = TTS("tts_models/multilingual/multi-dataset/xtts_v2").to(device)
+    tts = TTS(model_name="tts_models/de/thorsten/tacotron2-DDC").to(device)    
+    os.makedirs(output_folder, exist_ok=True)
 
     for file_name in os.listdir(input_folder):
         if file_name.endswith(".csv"):
-            input_path = os.path.join(input_folder, file_name)
-            
-            df = pd.read_csv(input_path)
+            csv_path = os.path.join(input_folder, file_name)
+            df = pd.read_csv(csv_path)
 
-            # Perform TTS for each translated text
-            for index, row in df.iterrows():
-                translated_text = row["translated_text"]
-                output_audio_path = os.path.join(speech_folder, f"{file_name}_{index}.wav")
-                tts.tts_to_file(text=translated_text, language=target_language, filename=output_audio_path)
+            # Create subfolder for each CSV file
+            subfolder_name = os.path.splitext(file_name)[0]
+            subfolder_path = os.path.join(output_folder, subfolder_name)
+            os.makedirs(subfolder_path, exist_ok=True)
+
+            print(f"Processing CSV file: {file_name}")
+
+
 
 input_folder = "data/target/translated"
-speech_folder = "data/target/speech"
-target_language = "de"
-
-text_to_speech(input_folder, speech_folder, target_language)
+output_folder = "data/target/speech"
+process_csv_files(input_folder, output_folder)
