@@ -30,6 +30,6 @@ def translate(input_folder, output_folder, target_language="es"):
 
 input_folder = "data/target/transcripts"
 output_folder = "data/target/translated"
-target_language = "de"
+target_language = "German"
 
 translate(input_folder, output_folder, target_language)
