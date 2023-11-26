@@ -3,8 +3,6 @@ import pandas as pd
 import torch
 from TTS.api import TTS
 
-def remove_dashes(text):
-    return text.replace("-", " ")
 
 def text_to_speech(input_folder, output_folder):
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -21,7 +19,8 @@ def text_to_speech(input_folder, output_folder):
             os.makedirs(csv_output_folder, exist_ok=True)
             df = pd.read_csv(os.path.join(input_folder, file_name))
             
-            df["translated_text"] = df["translated_text"].apply(lambda x: remove_dashes(str(x)) if pd.notna(x) else x)
+            # Remove dashes
+            df["translated_text"] = df["translated_text"].apply(lambda x: str(x).replace("-", " ") if pd.notna(x) else x)
             
             for index, row in df.iterrows():
                 # Check if the column is not empty
@@ -31,7 +30,6 @@ def text_to_speech(input_folder, output_folder):
                     # Convert text to speech and save to the WAV file
                     tts.tts_to_file(text=row["translated_text"], file_path=wav_file_path)
 
-# Example usage
 input_folder = "data/target/translated"
 output_folder = "data/target/speech"
 text_to_speech(input_folder, output_folder)
