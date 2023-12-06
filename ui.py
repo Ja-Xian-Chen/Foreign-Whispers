@@ -1,6 +1,9 @@
 import pandas as pd
 import tkinter as tk
 from tkinter import ttk
+
+# Download Xming for the UI to work
+# export DISPLAY=localhost:0.0 
 class CaptionViewer:
     def __init__(self, root, df):
         self.root = root
@@ -51,11 +54,8 @@ class CaptionViewer:
             self.current_page += 1
             self.load_page()
 
-def main():
-    df = pd.read_csv('data/target/translated/Badiucao:_The_60_Minutes_Interview.csv')
-    root = tk.Tk()
-    viewer = CaptionViewer(root, df)
-    root.mainloop()
 
-if __name__ == '__main__':
-    main()
+df = pd.read_csv('data/target/translated/Badiucao:_The_60_Minutes_Interview.csv')
+root = tk.Tk()
+viewer = CaptionViewer(root, df)
+root.mainloop()
