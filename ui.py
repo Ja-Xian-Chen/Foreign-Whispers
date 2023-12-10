@@ -55,7 +55,7 @@ class CaptionViewer:
             self.load_page()
 
 
-df = pd.read_csv('data/target/translated/Badiucao:_The_60_Minutes_Interview.csv')
+df = pd.read_csv('data/target/translated/Facebook_Whistleblower_Frances_Haugen:_The_60_Minutes_Interview.csv')
 root = tk.Tk()
 viewer = CaptionViewer(root, df)
 root.mainloop()
