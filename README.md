@@ -12,3 +12,6 @@ Files:
 - video.py - python code that downloads videos and captions
 - videos - contains downloaded videos
 - captions - contains downloaded captions
+
+## Milestone 2
+Write a Python API that will separate the audio from the video and convert it to text. For this you will use libraries such as openai/whisper

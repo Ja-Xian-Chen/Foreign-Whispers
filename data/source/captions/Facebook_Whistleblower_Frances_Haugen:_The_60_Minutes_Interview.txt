@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="1680" d="5360" w="1"><s ac="255">her</s><s t="240" ac="255"> name</s><s t="959" ac="255"> is</s><s t="1199" ac="255"> francis</s><s t="2080" ac="255"> haugen</s></p>
+<p t="4789" d="2251" w="1" a="1">
+</p>
+<p t="4799" d="5121" w="1"><s ac="255">that</s><s t="321" ac="255"> is</s><s t="401" ac="255"> a</s><s t="560" ac="255"> fact</s><s t="881" ac="255"> that</s><s t="1121" ac="255"> facebook</s><s t="1761" ac="255"> has</s><s t="2000" ac="255"> been</s></p>
+<p t="7030" d="2890" w="1" a="1">
+</p>
+<p t="7040" d="5200" w="1"><s ac="255">anxious</s><s t="400" ac="255"> to</s><s t="560" ac="255"> know</s><s t="879" ac="255"> since</s><s t="1200" ac="255"> last</s><s t="1519" ac="255"> month</s><s t="2320" ac="255"> when</s><s t="2639" ac="255"> an</s></p>
+<p t="9910" d="2330" w="1" a="1">
+</p>
+<p t="9920" d="5280" w="1"><s ac="255">anonymous</s><s t="639" ac="255"> former</s><s t="1120" ac="255"> employee</s><s t="1920" ac="255"> filed</s></p>
+<p t="12230" d="2970" w="1" a="1">
+</p>
+<p t="12240" d="4799" w="1"><s ac="255">complaints</s><s t="640" ac="255"> with</s><s t="880" ac="255"> federal</s><s t="1439" ac="255"> law</s><s t="1680" ac="255"> enforcement</s></p>
+<p t="15190" d="1849" w="1" a="1">
+</p>
+<p t="15200" d="4960" w="1"><s ac="255">the</s><s t="160" ac="255"> complaints</s><s t="639" ac="255"> say</s><s t="880" ac="255"> facebook&#39;s</s><s t="1600" ac="255"> own</s></p>
+<p t="17029" d="3131" w="1" a="1">
+</p>
+<p t="17039" d="6080" w="1"><s ac="255">research</s><s t="881" ac="255"> shows</s><s t="1281" ac="255"> that</s><s t="1441" ac="255"> it</s><s t="1681" ac="255"> amplifies</s><s t="2481" ac="255"> hate</s></p>
+<p t="20150" d="2969" w="1" a="1">
+</p>
+<p t="20160" d="5600" w="1"><s ac="255">misinformation</s><s t="1119" ac="255"> and</s><s t="1279" ac="255"> political</s><s t="1920" ac="255"> unrest</s></p>
+<p t="23109" d="2651" w="1" a="1">
+</p>
+<p t="23119" d="4881" w="1"><s ac="255">but</s><s t="240" ac="255"> the</s><s t="320" ac="255"> company</s><s t="801" ac="255"> hides</s><s t="1201" ac="255"> what</s><s t="1361" ac="255"> it</s><s t="1521" ac="255"> knows</s></p>
+<p t="25750" d="2250" w="1" a="1">
+</p>
+<p t="25760" d="5439" w="1"><s ac="255">one</s><s t="240" ac="255"> complaint</s><s t="720" ac="255"> alleges</s><s t="1200" ac="255"> that</s><s t="1439" ac="255"> facebook&#39;s</s></p>
+<p t="27990" d="3209" w="1" a="1">
+</p>
+<p t="28000" d="5120" w="1"><s ac="255">instagram</s><s t="960" ac="255"> harms</s><s t="1439" ac="255"> teenage</s><s t="2000" ac="255"> girls</s></p>
+<p t="31189" d="1931" w="1" a="1">
+</p>
+<p t="31199" d="5040" w="1"><s ac="255">what</s><s t="320" ac="255"> makes</s><s t="721" ac="255"> haugen&#39;s</s><s t="1281" ac="255"> complaints</s></p>
+<p t="33110" d="3129" w="1" a="1">
+</p>
+<p t="33120" d="5840" w="1"><s ac="255">unprecedented</s><s t="1200" ac="255"> is</s><s t="1360" ac="255"> the</s><s t="1599" ac="255"> trove</s><s t="2320" ac="255"> of</s><s t="2560" ac="255"> private</s></p>
+<p t="36229" d="2731" w="1" a="1">
+</p>
+<p t="36239" d="3840" w="1"><s ac="255">facebook</s><s t="561" ac="255"> research</s><s t="1201" ac="255"> she</s><s t="1521" ac="255"> took</s><s t="2000" ac="255"> when</s><s t="2160" ac="255"> she</s><s t="2480" ac="255"> quit</s></p>
+<p t="38950" d="1129" w="1" a="1">
+</p>
+<p t="38960" d="3360" w="1"><s ac="255">in</s><s t="160" ac="255"> may</s></p>
+<p t="40069" d="2251" w="1" a="1">
+</p>
+<p t="40079" d="5041" w="1"><s ac="255">the</s><s t="160" ac="255"> documents</s><s t="721" ac="255"> appeared</s><s t="1201" ac="255"> first</s><s t="1601" ac="255"> last</s><s t="1921" ac="255"> month</s></p>
+<p t="42310" d="2810" w="1" a="1">
+</p>
+<p t="42320" d="5919" w="1"><s ac="255">in</s><s t="79" ac="255"> the</s><s t="239" ac="255"> wall</s><s t="480" ac="255"> street</s><s t="800" ac="255"> journal</s><s t="1840" ac="255"> but</s><s t="2079" ac="255"> tonight</s></p>
+<p t="45110" d="3129" w="1" a="1">
+</p>
+<p t="45120" d="6160" w="1"><s ac="255">frances</s><s t="480" ac="255"> haugen</s><s t="1040" ac="255"> is</s><s t="1279" ac="255"> revealing</s><s t="1919" ac="255"> her</s><s t="2240" ac="255"> identity</s></p>
+<p t="48229" d="3051" w="1" a="1">
+</p>
+<p t="48239" d="5521" w="1"><s ac="255">to</s><s t="241" ac="255"> explain</s><s t="881" ac="255"> why</s><s t="1201" ac="255"> she</s><s t="1441" ac="255"> became</s><s t="2401" ac="255"> the</s><s t="2561" ac="255"> facebook</s></p>
+<p t="51270" d="2490" w="1" a="1">
+</p>
+<p t="51280" d="7240" w="1"><s ac="255">whistleblower</s></p>
+<p t="53750" d="4770" w="1" a="1">
+</p>
+<p t="53760" d="4760" w="1"><s ac="255">the</s><s t="240" ac="255"> story</s><s t="799" ac="255"> will</s><s t="1040" ac="255"> continue</s><s t="1520" ac="255"> in</s><s t="1680" ac="255"> a</s><s t="1760" ac="255"> moment</s></p>
+<p t="59270" w="1" a="1">
+</p>
+<p t="59280" d="3439" w="1"><s ac="255">the</s><s t="160" ac="255"> thing</s><s t="400" ac="255"> i</s><s t="480" ac="255"> saw</s><s t="640" ac="255"> at</s><s t="720" ac="255"> facebook</s><s t="1119" ac="255"> over</s><s t="1279" ac="255"> and</s></p>
+<p t="60630" d="2089" w="1" a="1">
+</p>
+<p t="60640" d="3040" w="1"><s ac="255">over</s><s t="160" ac="255"> again</s><s t="480" ac="255"> was</s><s t="1040" ac="255"> there</s><s t="1200" ac="255"> were</s><s t="1439" ac="255"> conflicts</s><s t="1919" ac="255"> of</s></p>
+<p t="62709" d="971" w="1" a="1">
+</p>
+<p t="62719" d="3921" w="1"><s ac="255">interest</s></p>
+<p t="63670" d="2970" w="1" a="1">
+</p>
+<p t="63680" d="5040" w="1"><s ac="255">between</s><s t="640" ac="255"> what</s><s t="879" ac="255"> was</s><s t="1360" ac="255"> good</s><s t="1519" ac="255"> for</s><s t="1680" ac="255"> the</s><s t="1759" ac="255"> public</s></p>
+<p t="66630" d="2090" w="1" a="1">
+</p>
+<p t="66640" d="3680" w="1"><s ac="255">and</s><s t="159" ac="255"> what</s><s t="320" ac="255"> was</s><s t="479" ac="255"> good</s><s t="640" ac="255"> for</s><s t="799" ac="255"> facebook</s></p>
+<p t="68710" d="1610" w="1" a="1">
+</p>
+<p t="68720" d="3439" w="1"><s ac="255">and</s><s t="160" ac="255"> facebook</s><s t="560" ac="255"> over</s><s t="800" ac="255"> and</s><s t="880" ac="255"> over</s><s t="1040" ac="255"> again</s><s t="1360" ac="255"> chose</s></p>
+<p t="70310" d="1849" w="1" a="1">
+</p>
+<p t="70320" d="3360" w="1"><s ac="255">to</s><s t="159" ac="255"> optimize</s><s t="720" ac="255"> for</s><s t="880" ac="255"> its</s><s t="1040" ac="255"> own</s><s t="1200" ac="255"> interests</s><s t="1680" ac="255"> like</s></p>
+<p t="72149" d="1531" w="1" a="1">
+</p>
+<p t="72159" d="4481" w="1"><s ac="255">making</s><s t="320" ac="255"> more</s><s t="561" ac="255"> money</s></p>
+<p t="73670" d="2970" w="1" a="1">
+</p>
+<p t="73680" d="5600" w="1"><s ac="255">francis</s><s t="479" ac="255"> haugen</s><s t="880" ac="255"> is</s><s t="1040" ac="255"> 37</s><s t="1920" ac="255"> a</s><s t="2079" ac="255"> data</s><s t="2400" ac="255"> scientist</s></p>
+<p t="76630" d="2650" w="1" a="1">
+</p>
+<p t="76640" d="5119" w="1"><s ac="255">from</s><s t="320" ac="255"> iowa</s><s t="1119" ac="255"> with</s><s t="1360" ac="255"> a</s><s t="1440" ac="255"> degree</s><s t="1920" ac="255"> in</s><s t="2080" ac="255"> computer</s></p>
+<p t="79270" d="2489" w="1" a="1">
+</p>
+<p t="79280" d="4320" w="1"><s ac="255">engineering</s><s t="1040" ac="255"> and</s><s t="1360" ac="255"> a</s><s t="1519" ac="255"> harvard</s><s t="2000" ac="255"> master&#39;s</s></p>
+<p t="81749" d="1851" w="1" a="1">
+</p>
+<p t="81759" d="4400" w="1"><s ac="255">degree</s><s t="400" ac="255"> in</s><s t="561" ac="255"> business</s></p>
+<p t="83590" d="2569" w="1" a="1">
+</p>
+<p t="83600" d="5199" w="1"><s ac="255">for</s><s t="240" ac="255"> 15</s><s t="800" ac="255"> years</s><s t="1199" ac="255"> she&#39;s</s><s t="1519" ac="255"> worked</s><s t="1839" ac="255"> for</s><s t="2000" ac="255"> companies</s></p>
+<p t="86149" d="2650" w="1" a="1">
+</p>
+<p t="86159" d="4801" w="1"><s ac="255">including</s><s t="481" ac="255"> google</s><s t="1201" ac="255"> and</s><s t="1441" ac="255"> pinterest</s></p>
+<p t="88789" d="2171" w="1" a="1">
+</p>
+<p t="88799" d="3601" w="1"><s ac="255">i&#39;ve</s><s t="241" ac="255"> seen</s><s t="561" ac="255"> a</s><s t="640" ac="255"> bunch</s><s t="881" ac="255"> of</s><s t="1041" ac="255"> social</s><s t="1360" ac="255"> networks</s><s t="2000" ac="255"> and</s></p>
+<p t="90950" d="1450" w="1" a="1">
+</p>
+<p t="90960" d="3040" w="1"><s ac="255">it</s><s t="80" ac="255"> was</s><s t="240" ac="255"> substantially</s><s t="799" ac="255"> worse</s><s t="1040" ac="255"> at</s><s t="1119" ac="255"> facebook</s></p>
+<p t="92390" d="1610" w="1" a="1">
+</p>
+<p t="92400" d="3200" w="1"><s ac="255">than</s><s t="160" ac="255"> anything</s><s t="399" ac="255"> i&#39;d</s><s t="560" ac="255"> seen</s><s t="800" ac="255"> before</s><s t="1359" ac="255"> you</s><s t="1440" ac="255"> know</s></p>
+<p t="93990" d="1610" w="1" a="1">
+</p>
+<p t="94000" d="4479" w="1"><s ac="255">someone</s><s t="400" ac="255"> else</s><s t="720" ac="255"> might</s><s t="960" ac="255"> have</s><s t="1040" ac="255"> just</s><s t="1280" ac="255"> quit</s><s t="1520" ac="255"> and</s></p>
+<p t="95590" d="2889" w="1" a="1">
+</p>
+<p t="95600" d="5839" w="1"><s ac="255">moved</s><s t="320" ac="255"> on</s><s t="879" ac="255"> and</s><s t="1120" ac="255"> i</s><s t="1440" ac="255"> wonder</s><s t="1920" ac="255"> why</s><s t="2159" ac="255"> you</s><s t="2400" ac="255"> take</s><s t="2640" ac="255"> this</s></p>
+<p t="98469" d="2970" w="1" a="1">
+</p>
+<p t="98479" d="4481" w="1"><s ac="255">stand</s><s t="721" ac="255"> imagine</s><s t="1600" ac="255"> you</s><s t="1841" ac="255"> know</s><s t="2320" ac="255"> what&#39;s</s><s t="2640" ac="255"> going</s><s t="2801" ac="255"> on</s></p>
+<p t="101429" d="1531" w="1" a="1">
+</p>
+<p t="101439" d="2960" w="1"><s ac="255">inside</s><s t="320" ac="255"> facebook</s><s t="640" ac="255"> and</s><s t="801" ac="255"> you</s><s t="881" ac="255"> know</s><s t="1040" ac="255"> no</s><s t="1201" ac="255"> one</s><s t="1441" ac="255"> on</s></p>
+<p t="102950" d="1449" w="1" a="1">
+</p>
+<p t="102960" d="3280" w="1"><s ac="255">the</s><s t="159" ac="255"> outside</s><s t="560" ac="255"> knows</s></p>
+<p t="104389" d="1851" w="1" a="1">
+</p>
+<p t="104399" d="3360" w="1"><s ac="255">i</s><s t="161" ac="255"> knew</s><s t="400" ac="255"> what</s><s t="641" ac="255"> my</s><s t="801" ac="255"> future</s><s t="1201" ac="255"> looked</s><s t="1360" ac="255"> like</s><s t="1601" ac="255"> if</s><s t="1760" ac="255"> i</s></p>
+<p t="106230" d="1529" w="1" a="1">
+</p>
+<p t="106240" d="2640" w="1"><s ac="255">continued</s><s t="400" ac="255"> to</s><s t="559" ac="255"> stay</s><s t="720" ac="255"> inside</s><s t="960" ac="255"> of</s><s t="1040" ac="255"> facebook</s></p>
+<p t="107749" d="1131" w="1" a="1">
+</p>
+<p t="107759" d="3281" w="1"><s ac="255">which</s><s t="241" ac="255"> is</s></p>
+<p t="108870" d="2170" w="1" a="1">
+</p>
+<p t="108880" d="4480" w="1"><s ac="255">person</s><s t="400" ac="255"> after</s><s t="640" ac="255"> person</s><s t="960" ac="255"> after</s><s t="1199" ac="255"> person</s><s t="1840" ac="255"> has</s></p>
+<p t="111030" d="2330" w="1" a="1">
+</p>
+<p t="111040" d="4560" w="1"><s ac="255">tackled</s><s t="480" ac="255"> this</s><s t="800" ac="255"> inside</s><s t="1119" ac="255"> of</s><s t="1280" ac="255"> facebook</s></p>
+<p t="113350" d="2250" w="1" a="1">
+</p>
+<p t="113360" d="4560" w="1"><s ac="255">and</s><s t="240" ac="255"> ground</s><s t="560" ac="255"> themselves</s><s t="960" ac="255"> to</s><s t="1119" ac="255"> the</s><s t="1200" ac="255"> ground</s><s t="2000" ac="255"> when</s></p>
+<p t="115590" d="2330" w="1" a="1">
+</p>
+<p t="115600" d="4479" w="1"><s ac="255">and</s><s t="159" ac="255"> how</s><s t="320" ac="255"> did</s><s t="559" ac="255"> it</s><s t="720" ac="255"> occur</s><s t="1040" ac="255"> to</s><s t="1199" ac="255"> you</s><s t="1440" ac="255"> to</s><s t="1680" ac="255"> take</s><s t="2080" ac="255"> all</s></p>
+<p t="117910" d="2169" w="1" a="1">
+</p>
+<p t="117920" d="5360" w="1"><s ac="255">of</s><s t="80" ac="255"> these</s><s t="320" ac="255"> documents</s><s t="879" ac="255"> out</s><s t="1040" ac="255"> of</s><s t="1120" ac="255"> the</s><s t="1199" ac="255"> company</s></p>
+<p t="120069" d="3211" w="1" a="1">
+</p>
+<p t="120079" d="4801" w="1"><s ac="255">at</s><s t="161" ac="255"> some</s><s t="400" ac="255"> point</s><s t="801" ac="255"> in</s><s t="1121" ac="255"> 2021</s><s t="2080" ac="255"> i</s><s t="2241" ac="255"> realized</s><s t="2801" ac="255"> okay</s></p>
+<p t="123270" d="1610" w="1" a="1">
+</p>
+<p t="123280" d="3280" w="1"><s ac="255">i&#39;m</s><s t="159" ac="255"> going</s><s t="320" ac="255"> to</s><s t="400" ac="255"> have</s><s t="560" ac="255"> to</s><s t="1040" ac="255"> do</s><s t="1199" ac="255"> this</s><s t="1360" ac="255"> in</s><s t="1519" ac="255"> a</s></p>
+<p t="124870" d="1690" w="1" a="1">
+</p>
+<p t="124880" d="4079" w="1"><s ac="255">systemic</s><s t="480" ac="255"> way</s><s t="879" ac="255"> and</s><s t="1040" ac="255"> i</s><s t="1120" ac="255"> have</s><s t="1279" ac="255"> to</s><s t="1360" ac="255"> get</s><s t="1519" ac="255"> out</s></p>
+<p t="126550" d="2409" w="1" a="1">
+</p>
+<p t="126560" d="4399" w="1"><s ac="255">enough</s><s t="720" ac="255"> that</s><s t="960" ac="255"> no</s><s t="1199" ac="255"> one</s><s t="1440" ac="255"> can</s><s t="1679" ac="255"> question</s><s t="2240" ac="255"> that</s></p>
+<p t="128949" d="2010" w="1" a="1">
+</p>
+<p t="128959" d="5280" w="1"><s ac="255">this</s><s t="241" ac="255"> is</s><s t="401" ac="255"> real</s></p>
+<p t="130949" d="3290" w="1" a="1">
+</p>
+<p t="130959" d="6481" w="1"><s ac="255">she</s><s t="321" ac="255"> secretly</s><s t="1121" ac="255"> copied</s><s t="1761" ac="255"> tens</s><s t="2241" ac="255"> of</s><s t="2481" ac="255"> thousands</s><s t="3121" ac="255"> of</s></p>
+<p t="134229" d="3211" w="1" a="1">
+</p>
+<p t="134239" d="5681" w="1"><s ac="255">pages</s><s t="481" ac="255"> of</s><s t="640" ac="255"> facebook</s><s t="1360" ac="255"> internal</s><s t="2000" ac="255"> research</s></p>
+<p t="137430" d="2490" w="1" a="1">
+</p>
+<p t="137440" d="4960" w="1"><s ac="255">she</s><s t="320" ac="255"> says</s><s t="799" ac="255"> evidence</s><s t="1200" ac="255"> shows</s><s t="1600" ac="255"> that</s><s t="1760" ac="255"> the</s><s t="1920" ac="255"> company</s></p>
+<p t="139910" d="2490" w="1" a="1">
+</p>
+<p t="139920" d="4880" w="1"><s ac="255">is</s><s t="160" ac="255"> lying</s><s t="560" ac="255"> to</s><s t="720" ac="255"> the</s><s t="880" ac="255"> public</s><s t="1679" ac="255"> about</s><s t="2000" ac="255"> making</s></p>
+<p t="142390" d="2410" w="1" a="1">
+</p>
+<p t="142400" d="5040" w="1"><s ac="255">significant</s><s t="720" ac="255"> progress</s><s t="1280" ac="255"> against</s><s t="1760" ac="255"> hate</s></p>
+<p t="144790" d="2650" w="1" a="1">
+</p>
+<p t="144800" d="5280" w="1"><s ac="255">violence</s><s t="640" ac="255"> and</s><s t="799" ac="255"> misinformation</s></p>
+<p t="147430" d="2650" w="1" a="1">
+</p>
+<p t="147440" d="3840" w="1"><s ac="255">one</s><s t="320" ac="255"> study</s><s t="640" ac="255"> she</s><s t="879" ac="255"> found</s><s t="1280" ac="255"> from</s><s t="1519" ac="255"> this</s><s t="1760" ac="255"> year</s></p>
+<p t="150070" d="1210" w="1" a="1">
+</p>
+<p t="150080" d="3840" w="1"><s ac="255">says</s></p>
+<p t="151270" d="2650" w="1" a="1">
+</p>
+<p t="151280" d="5599" w="1"><s ac="255">we</s><s t="239" ac="255"> estimate</s><s t="800" ac="255"> that</s><s t="1039" ac="255"> we</s><s t="1280" ac="255"> may</s><s t="1599" ac="255"> action</s><s t="2080" ac="255"> as</s><s t="2319" ac="255"> little</s></p>
+<p t="153910" d="2969" w="1" a="1">
+</p>
+<p t="153920" d="5599" w="1"><s ac="255">as</s><s t="240" ac="255"> three</s><s t="560" ac="255"> to</s><s t="880" ac="255"> five</s><s t="1280" ac="255"> percent</s><s t="1840" ac="255"> of</s><s t="2080" ac="255"> hate</s></p>
+<p t="156869" d="2650" w="1" a="1">
+</p>
+<p t="156879" d="5360" w="1"><s ac="255">and</s><s t="241" ac="255"> about</s><s t="640" ac="255"> six</s><s t="1041" ac="255"> tenths</s><s t="1440" ac="255"> of</s><s t="1601" ac="255"> one</s><s t="1921" ac="255"> percent</s><s t="2481" ac="255"> of</s></p>
+<p t="159509" d="2730" w="1" a="1">
+</p>
+<p t="159519" d="4881" w="1"><s ac="255">violence</s><s t="561" ac="255"> and</s><s t="800" ac="255"> incitement</s><s t="1360" ac="255"> on</s><s t="1601" ac="255"> facebook</s></p>
+<p t="162229" d="2171" w="1" a="1">
+</p>
+<p t="162239" d="2961" w="1"><s ac="255">despite</s><s t="481" ac="255"> being</s><s t="801" ac="255"> the</s><s t="961" ac="255"> best</s><s t="1280" ac="255"> in</s><s t="1360" ac="255"> the</s><s t="1521" ac="255"> world</s><s t="1921" ac="255"> at</s></p>
+<p t="164390" d="810" w="1" a="1">
+</p>
+<p t="164400" d="2160" w="1"><s ac="255">it</s></p>
+<p t="165190" d="1370" w="1" a="1">
+</p>
+<p t="165200" d="3759" w="1"><s ac="255">to</s><s t="160" ac="255"> quote</s><s t="480" ac="255"> from</s><s t="640" ac="255"> another</s><s t="960" ac="255"> one</s><s t="1200" ac="255"> of</s><s t="1280" ac="255"> the</s></p>
+<p t="166550" d="2409" w="1" a="1">
+</p>
+<p t="166560" d="4800" w="1"><s ac="255">documents</s><s t="560" ac="255"> you</s><s t="800" ac="255"> brought</s><s t="1120" ac="255"> out</s></p>
+<p t="168949" d="2411" w="1" a="1">
+</p>
+<p t="168959" d="5360" w="1"><s ac="255">we</s><s t="241" ac="255"> have</s><s t="560" ac="255"> evidence</s><s t="1201" ac="255"> from</s><s t="1441" ac="255"> a</s><s t="1521" ac="255"> variety</s><s t="2161" ac="255"> of</s></p>
+<p t="171350" d="2969" w="1" a="1">
+</p>
+<p t="171360" d="5599" w="1"><s ac="255">sources</s><s t="959" ac="255"> that</s><s t="1200" ac="255"> hate</s><s t="1519" ac="255"> speech</s><s t="2320" ac="255"> divisive</s></p>
+<p t="174309" d="2650" w="1" a="1">
+</p>
+<p t="174319" d="5280" w="1"><s ac="255">political</s><s t="481" ac="255"> speech</s><s t="1280" ac="255"> and</s><s t="1521" ac="255"> misinformation</s><s t="2401" ac="255"> on</s></p>
+<p t="176949" d="2650" w="1" a="1">
+</p>
+<p t="176959" d="5200" w="1"><s ac="255">facebook</s><s t="721" ac="255"> and</s><s t="801" ac="255"> the</s><s t="1041" ac="255"> family</s><s t="1441" ac="255"> of</s><s t="1681" ac="255"> apps</s></p>
+<p t="179589" d="2570" w="1" a="1">
+</p>
+<p t="179599" d="4081" w="1"><s ac="255">are</s><s t="241" ac="255"> affecting</s><s t="1041" ac="255"> societies</s></p>
+<p t="182149" d="1531" w="1" a="1">
+</p>
+<p t="182159" d="2881" w="1"><s ac="255">around</s><s t="401" ac="255"> the</s><s t="481" ac="255"> world</s></p>
+<p t="183670" d="1370" w="1" a="1">
+</p>
+<p t="183680" d="3919" w="1"><s ac="255">when</s><s t="240" ac="255"> we</s><s t="400" ac="255"> live</s><s t="639" ac="255"> in</s><s t="720" ac="255"> an</s><s t="880" ac="255"> information</s></p>
+<p t="185030" d="2569" w="1" a="1">
+</p>
+<p t="185040" d="5680" w="1"><s ac="255">environment</s><s t="1040" ac="255"> that</s><s t="1279" ac="255"> is</s><s t="1440" ac="255"> full</s><s t="1680" ac="255"> of</s><s t="1839" ac="255"> angry</s></p>
+<p t="187589" d="3131" w="1" a="1">
+</p>
+<p t="187599" d="4481" w="1"><s ac="255">hateful</s><s t="481" ac="255"> polarizing</s><s t="1121" ac="255"> content</s><s t="2000" ac="255"> it</s><s t="2241" ac="255"> erodes</s><s t="2961" ac="255"> our</s></p>
+<p t="190710" d="1370" w="1" a="1">
+</p>
+<p t="190720" d="3360" w="1"><s ac="255">civic</s><s t="400" ac="255"> trust</s></p>
+<p t="192070" d="2010" w="1" a="1">
+</p>
+<p t="192080" d="4640" w="1"><s ac="255">it</s><s t="159" ac="255"> erodes</s><s t="560" ac="255"> our</s><s t="720" ac="255"> faith</s><s t="960" ac="255"> in</s><s t="1120" ac="255"> each</s><s t="1280" ac="255"> other</s><s t="1840" ac="255"> it</s></p>
+<p t="194070" d="2650" w="1" a="1">
+</p>
+<p t="194080" d="4960" w="1"><s ac="255">erodes</s><s t="400" ac="255"> our</s><s t="560" ac="255"> ability</s><s t="1200" ac="255"> to</s><s t="1680" ac="255"> want</s><s t="1920" ac="255"> to</s><s t="2159" ac="255"> care</s><s t="2400" ac="255"> for</s></p>
+<p t="196710" d="2330" w="1" a="1">
+</p>
+<p t="196720" d="4000" w="1"><s ac="255">each</s><s t="159" ac="255"> other</s><s t="1040" ac="255"> the</s><s t="1280" ac="255"> version</s><s t="1680" ac="255"> of</s><s t="1840" ac="255"> facebook</s><s t="2159" ac="255"> that</s></p>
+<p t="199030" d="1690" w="1" a="1">
+</p>
+<p t="199040" d="3279" w="1"><s ac="255">exists</s><s t="400" ac="255"> today</s></p>
+<p t="200710" d="1609" w="1" a="1">
+</p>
+<p t="200720" d="4320" w="1"><s ac="255">is</s><s t="239" ac="255"> tearing</s><s t="640" ac="255"> our</s><s t="720" ac="255"> societies</s><s t="1200" ac="255"> apart</s><s t="1519" ac="255"> and</s></p>
+<p t="202309" d="2731" w="1" a="1">
+</p>
+<p t="202319" d="5200" w="1"><s ac="255">causing</s><s t="401" ac="255"> ethnic</s><s t="721" ac="255"> violence</s><s t="1361" ac="255"> around</s><s t="1681" ac="255"> the</s><s t="1761" ac="255"> world</s></p>
+<p t="205030" d="2489" w="1" a="1">
+</p>
+<p t="205040" d="3839" w="1"><s ac="255">ethnic</s><s t="479" ac="255"> violence</s><s t="1040" ac="255"> including</s><s t="1600" ac="255"> myanmar</s><s t="2320" ac="255"> in</s></p>
+<p t="207509" d="1370" w="1" a="1">
+</p>
+<p t="207519" d="3841" w="1"><s ac="255">2018</s></p>
+<p t="208869" d="2491" w="1" a="1">
+</p>
+<p t="208879" d="4321" w="1"><s ac="255">when</s><s t="241" ac="255"> the</s><s t="321" ac="255"> military</s><s t="1041" ac="255"> used</s><s t="1440" ac="255"> facebook</s><s t="2321" ac="255"> to</s></p>
+<p t="211350" d="1850" w="1" a="1">
+</p>
+<p t="211360" d="4159" w="1"><s ac="255">launch</s><s t="320" ac="255"> a</s><s t="400" ac="255"> genocide</s></p>
+<p t="213190" d="2329" w="1" a="1">
+</p>
+<p t="213200" d="4560" w="1"><s ac="255">the</s><s t="80" ac="255"> first</s><s t="399" ac="255"> quarter</s><s t="800" ac="255"> of</s><s t="1039" ac="255"> 2019.</s><s t="1920" ac="255"> francis</s></p>
+<p t="215509" d="2251" w="1" a="1">
+</p>
+<p t="215519" d="4401" w="1"><s ac="255">haugen</s><s t="481" ac="255"> told</s><s t="800" ac="255"> us</s><s t="1041" ac="255"> she</s><s t="1201" ac="255"> was</s><s t="1521" ac="255"> recruited</s><s t="2080" ac="255"> by</s></p>
+<p t="217750" d="2170" w="1" a="1">
+</p>
+<p t="217760" d="5199" w="1"><s ac="255">facebook</s><s t="559" ac="255"> in</s><s t="720" ac="255"> 2019</s></p>
+<p t="219910" d="3049" w="1" a="1">
+</p>
+<p t="219920" d="4920" w="1"><s ac="255">she</s><s t="239" ac="255"> says</s><s t="560" ac="255"> she</s><s t="800" ac="255"> agreed</s><s t="1200" ac="255"> to</s><s t="1440" ac="255"> take</s><s t="1679" ac="255"> the</s><s t="1840" ac="255"> job</s><s t="2480" ac="255"> only</s></p>
+<p t="222949" d="1891" w="1" a="1">
+</p>
+<p t="222959" d="4321" w="1"><s ac="255">if</s><s t="161" ac="255"> she</s><s t="321" ac="255"> could</s><s t="560" ac="255"> work</s><s t="881" ac="255"> against</s></p>
+<p t="224830" d="2450" w="1" a="1">
+</p>
+<p t="224840" d="5959" w="1"><s ac="255">misinformation</s><s t="1080" ac="255"> because</s><s t="1479" ac="255"> she</s><s t="1720" ac="255"> had</s><s t="1959" ac="255"> lost</s><s t="2280" ac="255"> a</s></p>
+<p t="227270" d="3529" w="1" a="1">
+</p>
+<p t="227280" d="5280" w="1"><s ac="255">friend</s><s t="800" ac="255"> to</s><s t="1120" ac="255"> online</s><s t="1679" ac="255"> conspiracy</s><s t="2480" ac="255"> theories</s></p>
+<p t="230789" d="1771" w="1" a="1">
+</p>
+<p t="230799" d="3041" w="1"><s ac="255">i</s><s t="241" ac="255"> never</s><s t="481" ac="255"> wanted</s><s t="800" ac="255"> anyone</s><s t="1121" ac="255"> to</s><s t="1201" ac="255"> feel</s><s t="1360" ac="255"> the</s><s t="1520" ac="255"> pain</s></p>
+<p t="232550" d="1290" w="1" a="1">
+</p>
+<p t="232560" d="3679" w="1"><s ac="255">that</s><s t="80" ac="255"> i</s><s t="239" ac="255"> had</s><s t="399" ac="255"> felt</s></p>
+<p t="233830" d="2409" w="1" a="1">
+</p>
+<p t="233840" d="4160" w="1"><s ac="255">and</s><s t="160" ac="255"> i</s><s t="319" ac="255"> had</s><s t="560" ac="255"> seen</s><s t="1119" ac="255"> how</s></p>
+<p t="236229" d="1771" w="1" a="1">
+</p>
+<p t="236239" d="3200" w="1"><s ac="255">high</s><s t="241" ac="255"> the</s><s t="321" ac="255"> stakes</s><s t="720" ac="255"> were</s><s t="961" ac="255"> in</s><s t="1041" ac="255"> terms</s><s t="1360" ac="255"> of</s><s t="1521" ac="255"> making</s></p>
+<p t="237990" d="1449" w="1" a="1">
+</p>
+<p t="238000" d="2560" w="1"><s ac="255">sure</s><s t="159" ac="255"> there</s><s t="319" ac="255"> was</s><s t="480" ac="255"> high</s><s t="720" ac="255"> quality</s><s t="959" ac="255"> information</s></p>
+<p t="239429" d="1131" w="1" a="1">
+</p>
+<p t="239439" d="3281" w="1"><s ac="255">on</s><s t="80" ac="255"> facebook</s></p>
+<p t="240550" d="2170" w="1" a="1">
+</p>
+<p t="240560" d="5200" w="1"><s ac="255">at</s><s t="239" ac="255"> headquarters</s><s t="959" ac="255"> she</s><s t="1120" ac="255"> was</s><s t="1360" ac="255"> assigned</s><s t="1759" ac="255"> to</s></p>
+<p t="242710" d="3050" w="1" a="1">
+</p>
+<p t="242720" d="5519" w="1"><s ac="255">civic</s><s t="560" ac="255"> integrity</s><s t="1439" ac="255"> which</s><s t="1840" ac="255"> worked</s><s t="2159" ac="255"> on</s><s t="2320" ac="255"> risks</s><s t="2799" ac="255"> to</s></p>
+<p t="245750" d="2489" w="1" a="1">
+</p>
+<p t="245760" d="5039" w="1"><s ac="255">elections</s><s t="559" ac="255"> including</s><s t="1039" ac="255"> misinformation</s></p>
+<p t="248229" d="2570" w="1" a="1">
+</p>
+<p t="248239" d="4080" w="1"><s ac="255">but</s><s t="241" ac="255"> after</s><s t="560" ac="255"> this</s><s t="801" ac="255"> past</s><s t="1200" ac="255"> election</s><s t="2080" ac="255"> there</s><s t="2241" ac="255"> was</s><s t="2481" ac="255"> a</s></p>
+<p t="250789" d="1530" w="1" a="1">
+</p>
+<p t="250799" d="2321" w="1"><s ac="255">turning</s><s t="401" ac="255"> point</s></p>
+<p t="252309" d="811" w="1" a="1">
+</p>
+<p t="252319" d="4241" w="1"><s ac="255">they</s></p>
+<p t="253110" d="3450" w="1" a="1">
+</p>
+<p t="253120" d="5040" w="1"><s ac="255">told</s><s t="319" ac="255"> us</s><s t="640" ac="255"> we&#39;re</s><s t="960" ac="255"> dissolving</s><s t="1520" ac="255"> civic</s><s t="1839" ac="255"> integrity</s></p>
+<p t="256550" d="1610" w="1" a="1">
+</p>
+<p t="256560" d="2799" w="1"><s ac="255">like</s><s t="160" ac="255"> they</s><s t="399" ac="255"> basically</s><s t="720" ac="255"> said</s><s t="880" ac="255"> oh</s><s t="1040" ac="255"> good</s><s t="1199" ac="255"> we</s><s t="1440" ac="255"> made</s></p>
+<p t="258150" d="1209" w="1" a="1">
+</p>
+<p t="258160" d="3039" w="1"><s ac="255">it</s><s t="79" ac="255"> through</s><s t="240" ac="255"> the</s><s t="319" ac="255"> election</s><s t="639" ac="255"> there</s><s t="880" ac="255"> wasn&#39;t</s></p>
+<p t="259349" d="1850" w="1" a="1">
+</p>
+<p t="259359" d="2801" w="1"><s ac="255">riots</s><s t="560" ac="255"> we</s><s t="641" ac="255"> can</s><s t="801" ac="255"> get</s><s t="880" ac="255"> rid</s><s t="1041" ac="255"> of</s><s t="1120" ac="255"> civic</s><s t="1361" ac="255"> integrity</s></p>
+<p t="261189" d="971" w="1" a="1">
+</p>
+<p t="261199" d="2321" w="1"><s ac="255">now</s></p>
+<p t="262150" d="1370" w="1" a="1">
+</p>
+<p t="262160" d="2960" w="1"><s ac="255">fast</s><s t="240" ac="255"> forward</s><s t="479" ac="255"> a</s><s t="560" ac="255"> couple</s><s t="800" ac="255"> months</s><s t="960" ac="255"> we</s><s t="1120" ac="255"> got</s><s t="1280" ac="255"> the</s></p>
+<p t="263510" d="1610" w="1" a="1">
+</p>
+<p t="263520" d="2399" w="1"><s ac="255">insurrection</s></p>
+<p t="265110" d="809" w="1" a="1">
+</p>
+<p t="265120" d="3120" w="1"><s ac="255">and</s></p>
+<p t="265909" d="2331" w="1" a="1">
+</p>
+<p t="265919" d="5041" w="1"><s ac="255">when</s><s t="241" ac="255"> they</s><s t="401" ac="255"> got</s><s t="641" ac="255"> rid</s><s t="801" ac="255"> of</s><s t="961" ac="255"> civic</s><s t="1280" ac="255"> integrity</s><s t="2241" ac="255"> it</s></p>
+<p t="268230" d="2730" w="1" a="1">
+</p>
+<p t="268240" d="5280" w="1"><s ac="255">was</s><s t="160" ac="255"> the</s><s t="239" ac="255"> moment</s><s t="560" ac="255"> where</s><s t="720" ac="255"> i</s><s t="880" ac="255"> was</s><s t="1120" ac="255"> like</s></p>
+<p t="270950" d="2570" w="1" a="1">
+</p>
+<p t="270960" d="4160" w="1"><s ac="255">i</s><s t="239" ac="255"> don&#39;t</s><s t="560" ac="255"> trust</s><s t="1440" ac="255"> that</s><s t="1679" ac="255"> they&#39;re</s><s t="2000" ac="255"> willing</s><s t="2400" ac="255"> to</s></p>
+<p t="273510" d="1610" w="1" a="1">
+</p>
+<p t="273520" d="3600" w="1"><s ac="255">actually</s><s t="480" ac="255"> invest</s><s t="959" ac="255"> what</s><s t="1119" ac="255"> needs</s><s t="1360" ac="255"> to</s><s t="1440" ac="255"> be</s></p>
+<p t="275110" d="2010" w="1" a="1">
+</p>
+<p t="275120" d="3280" w="1"><s ac="255">invested</s><s t="560" ac="255"> to</s><s t="720" ac="255"> keep</s><s t="1280" ac="255"> facebook</s><s t="1600" ac="255"> from</s><s t="1760" ac="255"> being</s></p>
+<p t="277110" d="1290" w="1" a="1">
+</p>
+<p t="277120" d="3440" w="1"><s ac="255">dangerous</s></p>
+<p t="278390" d="2170" w="1" a="1">
+</p>
+<p t="278400" d="6400" w="1"><s ac="255">facebook</s><s t="640" ac="255"> says</s><s t="1040" ac="255"> the</s><s t="1200" ac="255"> work</s><s t="1519" ac="255"> of</s><s t="1760" ac="255"> civic</s></p>
+<p t="280550" d="4250" w="1" a="1">
+</p>
+<p t="280560" d="6960" w="1"><s ac="255">integrity</s><s t="720" ac="255"> was</s><s t="1120" ac="255"> distributed</s><s t="1919" ac="255"> to</s><s t="2320" ac="255"> other</s><s t="2720" ac="255"> units</s></p>
+<p t="284790" d="2730" w="1" a="1">
+</p>
+<p t="284800" d="5679" w="1"><s ac="255">haugen</s><s t="399" ac="255"> told</s><s t="800" ac="255"> us</s><s t="1280" ac="255"> the</s><s t="1440" ac="255"> root</s><s t="1839" ac="255"> of</s><s t="2000" ac="255"> facebook&#39;s</s></p>
+<p t="287510" d="2969" w="1" a="1">
+</p>
+<p t="287520" d="6720" w="1"><s ac="255">problem</s><s t="880" ac="255"> is</s><s t="1200" ac="255"> in</s><s t="1360" ac="255"> a</s><s t="1600" ac="255"> change</s><s t="2080" ac="255"> that</s><s t="2320" ac="255"> it</s><s t="2480" ac="255"> made</s><s t="2720" ac="255"> in</s></p>
+<p t="290469" d="3771" w="1" a="1">
+</p>
+<p t="290479" d="5761" w="1"><s ac="255">2018</s><s t="1280" ac="255"> to</s><s t="1521" ac="255"> its</s><s t="1761" ac="255"> algorithms</s><s t="2881" ac="255"> the</s><s t="3121" ac="255"> programming</s></p>
+<p t="294230" d="2010" w="1" a="1">
+</p>
+<p t="294240" d="3760" w="1"><s ac="255">that</s><s t="160" ac="255"> decides</s><s t="720" ac="255"> what</s><s t="959" ac="255"> you</s><s t="1200" ac="255"> see</s><s t="1600" ac="255"> on</s><s t="1760" ac="255"> your</s></p>
+<p t="296230" d="1770" w="1" a="1">
+</p>
+<p t="296240" d="4399" w="1"><s ac="255">facebook</s><s t="640" ac="255"> news</s><s t="959" ac="255"> feed</s></p>
+<p t="297990" d="2649" w="1" a="1">
+</p>
+<p t="298000" d="5440" w="1"><s ac="255">so</s><s t="560" ac="255"> you</s><s t="639" ac="255"> know</s><s t="1280" ac="255"> you</s><s t="1440" ac="255"> have</s><s t="1600" ac="255"> your</s><s t="1759" ac="255"> phone</s><s t="2400" ac="255"> you</s></p>
+<p t="300629" d="2811" w="1" a="1">
+</p>
+<p t="300639" d="4481" w="1"><s ac="255">might</s><s t="321" ac="255"> see</s><s t="881" ac="255"> only</s><s t="1120" ac="255"> 100</s><s t="1521" ac="255"> pieces</s><s t="1840" ac="255"> of</s><s t="1921" ac="255"> content</s><s t="2641" ac="255"> if</s></p>
+<p t="303430" d="1690" w="1" a="1">
+</p>
+<p t="303440" d="2720" w="1"><s ac="255">you</s><s t="80" ac="255"> sit</s><s t="319" ac="255"> and</s><s t="400" ac="255"> scroll</s><s t="800" ac="255"> off</s><s t="960" ac="255"> for</s><s t="1199" ac="255"> you</s><s t="1280" ac="255"> know</s><s t="1440" ac="255"> five</s></p>
+<p t="305110" d="1050" w="1" a="1">
+</p>
+<p t="305120" d="3440" w="1"><s ac="255">minutes</s></p>
+<p t="306150" d="2410" w="1" a="1">
+</p>
+<p t="306160" d="3440" w="1"><s ac="255">but</s><s t="240" ac="255"> facebook</s><s t="720" ac="255"> has</s><s t="1360" ac="255"> thousands</s><s t="1840" ac="255"> of</s><s t="2000" ac="255"> options</s><s t="2319" ac="255"> it</s></p>
+<p t="308550" d="1050" w="1" a="1">
+</p>
+<p t="308560" d="3600" w="1"><s ac="255">could</s><s t="160" ac="255"> show</s><s t="320" ac="255"> you</s></p>
+<p t="309590" d="2570" w="1" a="1">
+</p>
+<p t="309600" d="4879" w="1"><s ac="255">the</s><s t="240" ac="255"> algorithm</s><s t="879" ac="255"> picks</s><s t="1280" ac="255"> from</s><s t="1520" ac="255"> those</s><s t="1920" ac="255"> options</s></p>
+<p t="312150" d="2329" w="1" a="1">
+</p>
+<p t="312160" d="5599" w="1"><s ac="255">based</s><s t="479" ac="255"> on</s><s t="720" ac="255"> the</s><s t="960" ac="255"> kind</s><s t="1280" ac="255"> of</s><s t="1440" ac="255"> content</s><s t="2080" ac="255"> you&#39;ve</s></p>
+<p t="314469" d="3290" w="1" a="1">
+</p>
+<p t="314479" d="5201" w="1"><s ac="255">engaged</s><s t="560" ac="255"> with</s><s t="801" ac="255"> the</s><s t="1041" ac="255"> most</s><s t="1921" ac="255"> in</s><s t="2081" ac="255"> the</s><s t="2241" ac="255"> past</s><s t="3121" ac="255"> and</s></p>
+<p t="317749" d="1931" w="1" a="1">
+</p>
+<p t="317759" d="4160" w="1"><s ac="255">one</s><s t="160" ac="255"> of</s><s t="321" ac="255"> the</s><s t="401" ac="255"> consequences</s><s t="1121" ac="255"> of</s><s t="1201" ac="255"> how</s><s t="1440" ac="255"> facebook</s></p>
+<p t="319670" d="2249" w="1" a="1">
+</p>
+<p t="319680" d="4400" w="1"><s ac="255">is</s><s t="239" ac="255"> picking</s><s t="560" ac="255"> out</s><s t="720" ac="255"> that</s><s t="880" ac="255"> content</s><s t="1359" ac="255"> today</s></p>
+<p t="321909" d="2171" w="1" a="1">
+</p>
+<p t="321919" d="5280" w="1"><s ac="255">is</s><s t="161" ac="255"> it</s><s t="321" ac="255"> is</s><s t="801" ac="255"> optimizing</s><s t="1361" ac="255"> for</s><s t="1521" ac="255"> content</s><s t="1921" ac="255"> that</s></p>
+<p t="324070" d="3129" w="1" a="1">
+</p>
+<p t="324080" d="4800" w="1"><s ac="255">gets</s><s t="480" ac="255"> engagement</s><s t="1280" ac="255"> or</s><s t="1440" ac="255"> reaction</s><s t="2399" ac="255"> but</s><s t="2559" ac="255"> its</s><s t="2880" ac="255"> own</s></p>
+<p t="327189" d="1691" w="1" a="1">
+</p>
+<p t="327199" d="3521" w="1"><s ac="255">research</s><s t="481" ac="255"> is</s><s t="641" ac="255"> showing</s></p>
+<p t="328870" d="1850" w="1" a="1">
+</p>
+<p t="328880" d="4800" w="1"><s ac="255">that</s><s t="319" ac="255"> content</s><s t="720" ac="255"> that</s><s t="879" ac="255"> is</s><s t="1039" ac="255"> hateful</s><s t="1520" ac="255"> that</s><s t="1759" ac="255"> is</s></p>
+<p t="330710" d="2970" w="1" a="1">
+</p>
+<p t="330720" d="5280" w="1"><s ac="255">divisive</s><s t="720" ac="255"> that</s><s t="880" ac="255"> is</s><s t="1039" ac="255"> polarizing</s></p>
+<p t="333670" d="2330" w="1" a="1">
+</p>
+<p t="333680" d="4079" w="1"><s ac="255">it&#39;s</s><s t="320" ac="255"> easier</s><s t="720" ac="255"> to</s><s t="880" ac="255"> inspire</s><s t="1359" ac="255"> people</s><s t="1600" ac="255"> to</s><s t="1760" ac="255"> anger</s></p>
+<p t="335990" d="1769" w="1" a="1">
+</p>
+<p t="336000" d="4560" w="1"><s ac="255">than</s><s t="160" ac="255"> it</s><s t="320" ac="255"> is</s><s t="400" ac="255"> to</s><s t="560" ac="255"> other</s><s t="800" ac="255"> emotions</s></p>
+<p t="337749" d="2811" w="1" a="1">
+</p>
+<p t="337759" d="5440" w="1"><s ac="255">misinformation</s><s t="1201" ac="255"> angry</s><s t="1681" ac="255"> content</s></p>
+<p t="340550" d="2649" w="1" a="1">
+</p>
+<p t="340560" d="6160" w="1"><s ac="255">is</s><s t="560" ac="255"> enticing</s><s t="1120" ac="255"> to</s><s t="1280" ac="255"> people</s><s t="1680" ac="255"> and</s></p>
+<p t="343189" d="3531" w="1" a="1">
+</p>
+<p t="343199" d="5761" w="1"><s ac="255">keeps</s><s t="321" ac="255"> them</s><s t="720" ac="255"> on</s><s t="1361" ac="255"> the</s><s t="1601" ac="255"> platform</s><s t="2241" ac="255"> yes</s><s t="2961" ac="255"> facebook</s></p>
+<p t="346710" d="2250" w="1" a="1">
+</p>
+<p t="346720" d="4720" w="1"><s ac="255">has</s><s t="160" ac="255"> realized</s><s t="880" ac="255"> that</s></p>
+<p t="348950" d="2490" w="1" a="1">
+</p>
+<p t="348960" d="4400" w="1"><s ac="255">if</s><s t="160" ac="255"> they</s><s t="400" ac="255"> change</s><s t="640" ac="255"> the</s><s t="799" ac="255"> algorithm</s><s t="1200" ac="255"> to</s><s t="1360" ac="255"> be</s><s t="1519" ac="255"> safer</s></p>
+<p t="351430" d="1930" w="1" a="1">
+</p>
+<p t="351440" d="3599" w="1"><s ac="255">people</s><s t="240" ac="255"> will</s><s t="400" ac="255"> spend</s><s t="640" ac="255"> less</s><s t="880" ac="255"> time</s><s t="1039" ac="255"> on</s><s t="1199" ac="255"> the</s><s t="1280" ac="255"> site</s></p>
+<p t="353350" d="1689" w="1" a="1">
+</p>
+<p t="353360" d="3040" w="1"><s ac="255">they&#39;ll</s><s t="240" ac="255"> click</s><s t="480" ac="255"> on</s><s t="559" ac="255"> less</s><s t="800" ac="255"> ads</s><s t="1200" ac="255"> they&#39;ll</s><s t="1520" ac="255"> make</s></p>
+<p t="355029" d="1371" w="1" a="1">
+</p>
+<p t="355039" d="3521" w="1"><s ac="255">less</s><s t="241" ac="255"> money</s></p>
+<p t="356390" d="2170" w="1" a="1">
+</p>
+<p t="356400" d="5440" w="1"><s ac="255">haugen</s><s t="480" ac="255"> says</s><s t="799" ac="255"> facebook</s><s t="1440" ac="255"> understood</s><s t="2000" ac="255"> the</s></p>
+<p t="358550" d="3290" w="1" a="1">
+</p>
+<p t="358560" d="7280" w="1"><s ac="255">danger</s><s t="479" ac="255"> to</s><s t="720" ac="255"> the</s><s t="880" ac="255"> 2020</s><s t="1520" ac="255"> election</s><s t="2479" ac="255"> so</s><s t="2720" ac="255"> it</s><s t="2880" ac="255"> turned</s></p>
+<p t="361830" d="4010" w="1" a="1">
+</p>
+<p t="361840" d="6639" w="1"><s ac="255">on</s><s t="320" ac="255"> safety</s><s t="880" ac="255"> systems</s><s t="1359" ac="255"> to</s><s t="1600" ac="255"> reduce</s></p>
+<p t="365830" d="2649" w="1" a="1">
+</p>
+<p t="365840" d="4639" w="1"><s ac="255">but</s><s t="240" ac="255"> many</s><s t="479" ac="255"> of</s><s t="560" ac="255"> those</s><s t="880" ac="255"> changes</s><s t="1359" ac="255"> she</s><s t="1600" ac="255"> says</s><s t="2400" ac="255"> were</s></p>
+<p t="368469" d="2010" w="1" a="1">
+</p>
+<p t="368479" d="3601" w="1"><s ac="255">temporary</s><s t="961" ac="255"> and</s><s t="1121" ac="255"> as</s><s t="1201" ac="255"> soon</s><s t="1361" ac="255"> as</s><s t="1521" ac="255"> the</s><s t="1681" ac="255"> election</s></p>
+<p t="370469" d="1611" w="1" a="1">
+</p>
+<p t="370479" d="2961" w="1"><s ac="255">was</s><s t="160" ac="255"> over</s><s t="321" ac="255"> they</s><s t="481" ac="255"> turned</s><s t="720" ac="255"> them</s><s t="881" ac="255"> back</s><s t="1121" ac="255"> off</s><s t="1440" ac="255"> or</s></p>
+<p t="372070" d="1370" w="1" a="1">
+</p>
+<p t="372080" d="2720" w="1"><s ac="255">they</s><s t="160" ac="255"> changed</s><s t="480" ac="255"> the</s><s t="559" ac="255"> settings</s><s t="959" ac="255"> back</s><s t="1119" ac="255"> to</s><s t="1280" ac="255"> what</s></p>
+<p t="373430" d="1370" w="1" a="1">
+</p>
+<p t="373440" d="3520" w="1"><s ac="255">they</s><s t="80" ac="255"> were</s><s t="319" ac="255"> before</s></p>
+<p t="374790" d="2170" w="1" a="1">
+</p>
+<p t="374800" d="3760" w="1"><s ac="255">to</s><s t="160" ac="255"> prioritize</s><s t="720" ac="255"> growth</s><s t="959" ac="255"> over</s><s t="1200" ac="255"> safety</s><s t="2080" ac="255"> and</s></p>
+<p t="376950" d="1610" w="1" a="1">
+</p>
+<p t="376960" d="3519" w="1"><s ac="255">that</s><s t="320" ac="255"> really</s><s t="560" ac="255"> feels</s><s t="799" ac="255"> like</s><s t="959" ac="255"> a</s><s t="1040" ac="255"> betrayal</s><s t="1519" ac="255"> of</s></p>
+<p t="378550" d="1929" w="1" a="1">
+</p>
+<p t="378560" d="4240" w="1"><s ac="255">democracy</s><s t="560" ac="255"> to</s><s t="639" ac="255"> me</s></p>
+<p t="380469" d="2331" w="1" a="1">
+</p>
+<p t="380479" d="5761" w="1"><s ac="255">facebook</s><s t="560" ac="255"> says</s><s t="881" ac="255"> some</s><s t="1121" ac="255"> of</s><s t="1201" ac="255"> the</s><s t="1361" ac="255"> safety</s><s t="1761" ac="255"> systems</s></p>
+<p t="382790" d="3450" w="1" a="1">
+</p>
+<p t="382800" d="7200" w="1"><s ac="255">remained</s><s t="1040" ac="255"> but</s><s t="1440" ac="255"> after</s><s t="1760" ac="255"> the</s><s t="2000" ac="255"> election</s><s t="2720" ac="255"> facebook</s></p>
+<p t="386230" d="3770" w="1" a="1">
+</p>
+<p t="386240" d="5920" w="1"><s ac="255">was</s><s t="320" ac="255"> used</s><s t="799" ac="255"> by</s><s t="1120" ac="255"> some</s><s t="1840" ac="255"> to</s><s t="2079" ac="255"> organize</s><s t="2799" ac="255"> the</s><s t="3040" ac="255"> january</s></p>
+<p t="389990" d="2170" w="1" a="1">
+</p>
+<p t="390000" d="4479" w="1"><s ac="255">sixth</s><s t="479" ac="255"> insurrection</s></p>
+<p t="392150" d="2329" w="1" a="1">
+</p>
+<p t="392160" d="3440" w="1"><s ac="255">prosecutors</s><s t="800" ac="255"> cite</s><s t="1120" ac="255"> facebook</s><s t="1680" ac="255"> posts</s><s t="2080" ac="255"> as</s></p>
+<p t="394469" d="1131" w="1" a="1">
+</p>
+<p t="394479" d="4000" w="1"><s ac="255">evidence</s></p>
+<p t="395590" d="2889" w="1" a="1">
+</p>
+<p t="395600" d="5920" w="1"><s ac="255">photos</s><s t="480" ac="255"> of</s><s t="640" ac="255"> armed</s><s t="1039" ac="255"> partisans</s><s t="2000" ac="255"> and</s><s t="2240" ac="255"> texts</s></p>
+<p t="398469" d="3051" w="1" a="1">
+</p>
+<p t="398479" d="5921" w="1"><s ac="255">including</s><s t="1041" ac="255"> by</s><s t="1361" ac="255"> bullet</s><s t="1921" ac="255"> or</s><s t="2160" ac="255"> ballot</s></p>
+<p t="401510" d="2890" w="1" a="1">
+</p>
+<p t="401520" d="5679" w="1"><s ac="255">restoration</s><s t="799" ac="255"> of</s><s t="880" ac="255"> the</s><s t="1040" ac="255"> republic</s><s t="1600" ac="255"> is</s><s t="1760" ac="255"> coming</s></p>
+<p t="404390" d="2809" w="1" a="1">
+</p>
+<p t="404400" d="5680" w="1"><s ac="255">extremists</s><s t="720" ac="255"> used</s><s t="1120" ac="255"> many</s><s t="1519" ac="255"> platforms</s><s t="2560" ac="255"> but</s></p>
+<p t="407189" d="2891" w="1" a="1">
+</p>
+<p t="407199" d="5761" w="1"><s ac="255">facebook</s><s t="560" ac="255"> is</s><s t="801" ac="255"> a</s><s t="881" ac="255"> recurring</s><s t="1521" ac="255"> theme</s></p>
+<p t="410070" d="2890" w="1" a="1">
+</p>
+<p t="410080" d="5760" w="1"><s ac="255">after</s><s t="399" ac="255"> the</s><s t="640" ac="255"> attack</s><s t="1360" ac="255"> facebook</s><s t="1920" ac="255"> employees</s></p>
+<p t="412950" d="2890" w="1" a="1">
+</p>
+<p t="412960" d="4799" w="1"><s ac="255">raged</s><s t="639" ac="255"> on</s><s t="959" ac="255"> an</s><s t="1200" ac="255"> internal</s><s t="1679" ac="255"> message</s><s t="2160" ac="255"> board</s></p>
+<p t="415830" d="1929" w="1" a="1">
+</p>
+<p t="415840" d="4079" w="1"><s ac="255">copied</s><s t="479" ac="255"> by</s><s t="720" ac="255"> haugen</s></p>
+<p t="417749" d="2170" w="1" a="1">
+</p>
+<p t="417759" d="4880" w="1"><s ac="255">haven&#39;t</s><s t="321" ac="255"> we</s><s t="481" ac="255"> had</s><s t="720" ac="255"> enough</s><s t="1121" ac="255"> time</s><s t="1440" ac="255"> to</s><s t="1601" ac="255"> figure</s><s t="2000" ac="255"> out</s></p>
+<p t="419909" d="2730" w="1" a="1">
+</p>
+<p t="419919" d="4161" w="1"><s ac="255">how</s><s t="161" ac="255"> to</s><s t="321" ac="255"> manage</s><s t="801" ac="255"> discourse</s><s t="1521" ac="255"> without</s><s t="2161" ac="255"> enabling</s></p>
+<p t="422629" d="1451" w="1" a="1">
+</p>
+<p t="422639" d="3521" w="1"><s ac="255">violence</s></p>
+<p t="424070" d="2090" w="1" a="1">
+</p>
+<p t="424080" d="3600" w="1"><s ac="255">we</s><s t="160" ac="255"> looked</s><s t="399" ac="255"> for</s><s t="720" ac="255"> positive</s><s t="1280" ac="255"> comments</s><s t="1839" ac="255"> and</s></p>
+<p t="426150" d="1530" w="1" a="1">
+</p>
+<p t="426160" d="3599" w="1"><s ac="255">found</s><s t="400" ac="255"> this</s></p>
+<p t="427670" d="2089" w="1" a="1">
+</p>
+<p t="427680" d="5519" w="1"><s ac="255">i</s><s t="239" ac="255"> don&#39;t</s><s t="560" ac="255"> think</s><s t="880" ac="255"> our</s><s t="1120" ac="255"> leadership</s><s t="1760" ac="255"> team</s></p>
+<p t="429749" d="3450" w="1" a="1">
+</p>
+<p t="429759" d="4641" w="1"><s ac="255">ignores</s><s t="560" ac="255"> data</s><s t="1280" ac="255"> ignores</s><s t="1840" ac="255"> dissent</s><s t="2801" ac="255"> ignores</s></p>
+<p t="433189" d="1211" w="1" a="1">
+</p>
+<p t="433199" d="3601" w="1"><s ac="255">truth</s></p>
+<p t="434390" d="2410" w="1" a="1">
+</p>
+<p t="434400" d="5280" w="1"><s ac="255">but</s><s t="239" ac="255"> that</s><s t="480" ac="255"> drew</s><s t="799" ac="255"> this</s><s t="1120" ac="255"> reply</s></p>
+<p t="436790" d="2890" w="1" a="1">
+</p>
+<p t="436800" d="5360" w="1"><s ac="255">welcome</s><s t="560" ac="255"> to</s><s t="799" ac="255"> facebook</s><s t="1920" ac="255"> i</s><s t="2160" ac="255"> see</s><s t="2399" ac="255"> you</s><s t="2560" ac="255"> just</s></p>
+<p t="439670" d="2490" w="1" a="1">
+</p>
+<p t="439680" d="4720" w="1"><s ac="255">joined</s><s t="400" ac="255"> in</s><s t="560" ac="255"> november</s><s t="1200" ac="255"> 2020</s></p>
+<p t="442150" d="2250" w="1" a="1">
+</p>
+<p t="442160" d="4720" w="1"><s ac="255">we</s><s t="240" ac="255"> have</s><s t="400" ac="255"> been</s><s t="640" ac="255"> watching</s><s t="1200" ac="255"> wishy-washy</s></p>
+<p t="444390" d="2490" w="1" a="1">
+</p>
+<p t="444400" d="3440" w="1"><s ac="255">actions</s><s t="480" ac="255"> of</s><s t="639" ac="255"> company</s><s t="1120" ac="255"> leadership</s><s t="1760" ac="255"> for</s><s t="2000" ac="255"> years</s></p>
+<p t="446870" d="970" w="1" a="1">
+</p>
+<p t="446880" d="3759" w="1"><s ac="255">now</s></p>
+<p t="447830" d="2809" w="1" a="1">
+</p>
+<p t="447840" d="4880" w="1"><s ac="255">colleagues</s><s t="560" ac="255"> cannot</s><s t="1120" ac="255"> conscience</s><s t="2079" ac="255"> working</s><s t="2560" ac="255"> for</s></p>
+<p t="450629" d="2091" w="1" a="1">
+</p>
+<p t="450639" d="4481" w="1"><s ac="255">a</s><s t="81" ac="255"> company</s><s t="560" ac="255"> that</s><s t="801" ac="255"> does</s><s t="1041" ac="255"> not</s><s t="1280" ac="255"> do</s><s t="1521" ac="255"> more</s><s t="1840" ac="255"> to</s></p>
+<p t="452710" d="2410" w="1" a="1">
+</p>
+<p t="452720" d="3919" w="1"><s ac="255">mitigate</s><s t="479" ac="255"> the</s><s t="720" ac="255"> negative</s><s t="1199" ac="255"> effects</s><s t="2000" ac="255"> of</s><s t="2160" ac="255"> its</s></p>
+<p t="455110" d="1529" w="1" a="1">
+</p>
+<p t="455120" d="2639" w="1"><s ac="255">platform</s></p>
+<p t="456629" d="1130" w="1" a="1">
+</p>
+<p t="456639" d="3201" w="1"><s ac="255">facebook</s></p>
+<p t="457749" d="2091" w="1" a="1">
+</p>
+<p t="457759" d="3361" w="1"><s ac="255">essentially</s><s t="560" ac="255"> amplifies</s><s t="1201" ac="255"> the</s><s t="1361" ac="255"> worst</s><s t="1681" ac="255"> of</s><s t="1761" ac="255"> human</s></p>
+<p t="459830" d="1290" w="1" a="1">
+</p>
+<p t="459840" d="2639" w="1"><s ac="255">nature</s></p>
+<p t="461110" d="1369" w="1" a="1">
+</p>
+<p t="461120" d="3919" w="1"><s ac="255">it&#39;s</s><s t="240" ac="255"> one</s><s t="400" ac="255"> of</s><s t="560" ac="255"> these</s><s t="799" ac="255"> unfortunate</s></p>
+<p t="462469" d="2570" w="1" a="1">
+</p>
+<p t="462479" d="4560" w="1"><s ac="255">consequences</s><s t="961" ac="255"> right</s><s t="1201" ac="255"> no</s><s t="1361" ac="255"> one</s><s t="1601" ac="255"> at</s><s t="1681" ac="255"> facebook</s><s t="2400" ac="255"> is</s></p>
+<p t="465029" d="2010" w="1" a="1">
+</p>
+<p t="465039" d="3840" w="1"><s ac="255">malevolent</s><s t="880" ac="255"> but</s><s t="1041" ac="255"> the</s><s t="1280" ac="255"> incentives</s><s t="1921" ac="255"> are</s></p>
+<p t="467029" d="1850" w="1" a="1">
+</p>
+<p t="467039" d="3121" w="1"><s ac="255">misaligned</s><s t="641" ac="255"> right</s><s t="880" ac="255"> like</s><s t="1121" ac="255"> facebook</s><s t="1521" ac="255"> makes</s></p>
+<p t="468869" d="1291" w="1" a="1">
+</p>
+<p t="468879" d="3440" w="1"><s ac="255">more</s><s t="241" ac="255"> money</s></p>
+<p t="470150" d="2169" w="1" a="1">
+</p>
+<p t="470160" d="4800" w="1"><s ac="255">when</s><s t="240" ac="255"> you</s><s t="479" ac="255"> consume</s><s t="879" ac="255"> more</s><s t="1120" ac="255"> content</s></p>
+<p t="472309" d="2651" w="1" a="1">
+</p>
+<p t="472319" d="4801" w="1"><s ac="255">people</s><s t="481" ac="255"> enjoy</s><s t="880" ac="255"> engaging</s><s t="1841" ac="255"> with</s><s t="2081" ac="255"> things</s><s t="2320" ac="255"> that</s></p>
+<p t="474950" d="2170" w="1" a="1">
+</p>
+<p t="474960" d="4079" w="1"><s ac="255">elicit</s><s t="400" ac="255"> an</s><s t="480" ac="255"> emotional</s><s t="959" ac="255"> reaction</s></p>
+<p t="477110" d="1929" w="1" a="1">
+</p>
+<p t="477120" d="3359" w="1"><s ac="255">and</s><s t="240" ac="255"> the</s><s t="479" ac="255"> more</s><s t="799" ac="255"> anger</s><s t="1199" ac="255"> that</s><s t="1280" ac="255"> they</s><s t="1440" ac="255"> get</s><s t="1600" ac="255"> exposed</s></p>
+<p t="479029" d="1450" w="1" a="1">
+</p>
+<p t="479039" d="2801" w="1"><s ac="255">to</s><s t="160" ac="255"> the</s><s t="321" ac="255"> more</s><s t="481" ac="255"> they</s><s t="641" ac="255"> interact</s><s t="1041" ac="255"> and</s><s t="1121" ac="255"> more</s><s t="1361" ac="255"> they</s></p>
+<p t="480469" d="1371" w="1" a="1">
+</p>
+<p t="480479" d="4081" w="1"><s ac="255">consume</s></p>
+<p t="481830" d="2730" w="1" a="1">
+</p>
+<p t="481840" d="5199" w="1"><s ac="255">that</s><s t="320" ac="255"> dynamic</s><s t="1280" ac="255"> led</s><s t="1520" ac="255"> to</s><s t="1759" ac="255"> a</s><s t="1919" ac="255"> complaint</s><s t="2479" ac="255"> to</s></p>
+<p t="484550" d="2489" w="1" a="1">
+</p>
+<p t="484560" d="4000" w="1"><s ac="255">facebook</s><s t="639" ac="255"> by</s><s t="880" ac="255"> major</s><s t="1440" ac="255"> political</s><s t="2000" ac="255"> parties</s></p>
+<p t="487029" d="1531" w="1" a="1">
+</p>
+<p t="487039" d="4401" w="1"><s ac="255">across</s><s t="481" ac="255"> europe</s></p>
+<p t="488550" d="2890" w="1" a="1">
+</p>
+<p t="488560" d="3840" w="1"><s ac="255">this</s><s t="479" ac="255"> 2019</s><s t="1359" ac="255"> internal</s><s t="1840" ac="255"> report</s><s t="2240" ac="255"> obtained</s><s t="2639" ac="255"> by</s></p>
+<p t="491430" d="970" w="1" a="1">
+</p>
+<p t="491440" d="2800" w="1"><s ac="255">haugen</s></p>
+<p t="492390" d="1850" w="1" a="1">
+</p>
+<p t="492400" d="4079" w="1"><s ac="255">says</s><s t="320" ac="255"> that</s><s t="560" ac="255"> the</s><s t="720" ac="255"> parties</s></p>
+<p t="494230" d="2249" w="1" a="1">
+</p>
+<p t="494240" d="4639" w="1"><s ac="255">feel</s><s t="399" ac="255"> strongly</s><s t="1040" ac="255"> that</s><s t="1200" ac="255"> the</s><s t="1440" ac="255"> change</s><s t="1920" ac="255"> to</s><s t="2079" ac="255"> the</s></p>
+<p t="496469" d="2410" w="1" a="1">
+</p>
+<p t="496479" d="4720" w="1"><s ac="255">algorithm</s><s t="801" ac="255"> has</s><s t="1120" ac="255"> forced</s><s t="1521" ac="255"> them</s><s t="1761" ac="255"> to</s><s t="1921" ac="255"> skew</s></p>
+<p t="498869" d="2330" w="1" a="1">
+</p>
+<p t="498879" d="5681" w="1"><s ac="255">negative</s><s t="880" ac="255"> in</s><s t="961" ac="255"> their</s><s t="1201" ac="255"> communications</s><s t="2160" ac="255"> on</s></p>
+<p t="501189" d="3371" w="1" a="1">
+</p>
+<p t="501199" d="6241" w="1"><s ac="255">facebook</s><s t="1120" ac="255"> leading</s><s t="1521" ac="255"> them</s><s t="1840" ac="255"> into</s><s t="2161" ac="255"> more</s><s t="2560" ac="255"> extreme</s></p>
+<p t="504550" d="2890" w="1" a="1">
+</p>
+<p t="504560" d="4479" w="1"><s ac="255">policy</s><s t="560" ac="255"> positions</s><s t="1759" ac="255"> the</s><s t="1919" ac="255"> european</s><s t="2400" ac="255"> political</s></p>
+<p t="507430" d="1609" w="1" a="1">
+</p>
+<p t="507440" d="3439" w="1"><s ac="255">parties</s><s t="319" ac="255"> were</s><s t="479" ac="255"> essentially</s><s t="1120" ac="255"> saying</s><s t="1439" ac="255"> to</s></p>
+<p t="509029" d="1850" w="1" a="1">
+</p>
+<p t="509039" d="4560" w="1"><s ac="255">facebook</s><s t="560" ac="255"> the</s><s t="801" ac="255"> way</s><s t="1041" ac="255"> you&#39;ve</s><s t="1280" ac="255"> written</s><s t="1600" ac="255"> your</s></p>
+<p t="510869" d="2730" w="1" a="1">
+</p>
+<p t="510879" d="5761" w="1"><s ac="255">algorithm</s><s t="1121" ac="255"> is</s><s t="1441" ac="255"> changing</s></p>
+<p t="513589" d="3051" w="1" a="1">
+</p>
+<p t="513599" d="4961" w="1"><s ac="255">the</s><s t="161" ac="255"> way</s><s t="481" ac="255"> we</s><s t="800" ac="255"> lead</s><s t="1120" ac="255"> our</s><s t="1360" ac="255"> countries</s><s t="2081" ac="255"> yes</s><s t="2880" ac="255"> you</s></p>
+<p t="516630" d="1930" w="1" a="1">
+</p>
+<p t="516640" d="4000" w="1"><s ac="255">are</s><s t="160" ac="255"> forcing</s><s t="560" ac="255"> us</s><s t="720" ac="255"> to</s><s t="800" ac="255"> take</s><s t="959" ac="255"> positions</s><s t="1519" ac="255"> that</s><s t="1680" ac="255"> we</s></p>
+<p t="518550" d="2090" w="1" a="1">
+</p>
+<p t="518560" d="3279" w="1"><s ac="255">don&#39;t</s><s t="240" ac="255"> like</s><s t="959" ac="255"> that</s><s t="1120" ac="255"> we</s><s t="1279" ac="255"> know</s><s t="1520" ac="255"> are</s><s t="1599" ac="255"> bad</s><s t="1839" ac="255"> for</s></p>
+<p t="520630" d="1209" w="1" a="1">
+</p>
+<p t="520640" d="3759" w="1"><s ac="255">society</s></p>
+<p t="521829" d="2570" w="1" a="1">
+</p>
+<p t="521839" d="5120" w="1"><s ac="255">we</s><s t="161" ac="255"> know</s><s t="401" ac="255"> if</s><s t="560" ac="255"> we</s><s t="721" ac="255"> don&#39;t</s><s t="961" ac="255"> take</s><s t="1120" ac="255"> those</s><s t="1361" ac="255"> positions</s></p>
+<p t="524389" d="2570" w="1" a="1">
+</p>
+<p t="524399" d="4081" w="1"><s ac="255">we</s><s t="321" ac="255"> won&#39;t</s><s t="801" ac="255"> win</s><s t="1521" ac="255"> in</s><s t="1601" ac="255"> the</s><s t="1761" ac="255"> marketplace</s><s t="2481" ac="255"> of</s></p>
+<p t="526949" d="1531" w="1" a="1">
+</p>
+<p t="526959" d="3921" w="1"><s ac="255">social</s><s t="320" ac="255"> media</s></p>
+<p t="528470" d="2410" w="1" a="1">
+</p>
+<p t="528480" d="6000" w="1"><s ac="255">evidence</s><s t="479" ac="255"> of</s><s t="640" ac="255"> harm</s><s t="1120" ac="255"> she</s><s t="1440" ac="255"> says</s></p>
+<p t="530870" d="3610" w="1" a="1">
+</p>
+<p t="530880" d="5600" w="1"><s ac="255">extends</s><s t="639" ac="255"> to</s><s t="880" ac="255"> facebook&#39;s</s><s t="1760" ac="255"> instagram</s><s t="2639" ac="255"> app</s></p>
+<p t="534470" d="2010" w="1" a="1">
+</p>
+<p t="534480" d="4720" w="1"><s ac="255">one</s><s t="240" ac="255"> of</s><s t="320" ac="255"> the</s><s t="479" ac="255"> facebook</s><s t="1039" ac="255"> internal</s><s t="1520" ac="255"> studies</s></p>
+<p t="536470" d="2730" w="1" a="1">
+</p>
+<p t="536480" d="5520" w="1"><s ac="255">that</s><s t="80" ac="255"> you</s><s t="400" ac="255"> found</s><s t="799" ac="255"> talks</s><s t="1200" ac="255"> about</s><s t="1520" ac="255"> how</s><s t="1840" ac="255"> instagram</s></p>
+<p t="539190" d="2810" w="1" a="1">
+</p>
+<p t="539200" d="6000" w="1"><s ac="255">harms</s><s t="560" ac="255"> teenage</s><s t="1120" ac="255"> girls</s><s t="1600" ac="255"> oh</s><s t="1759" ac="255"> yeah</s></p>
+<p t="541990" d="3210" w="1" a="1">
+</p>
+<p t="542000" d="5680" w="1"><s ac="255">one</s><s t="240" ac="255"> study</s><s t="640" ac="255"> says</s><s t="1360" ac="255"> 13</s><s t="2000" ac="255"> and</s><s t="2080" ac="255"> a</s><s t="2240" ac="255"> half</s><s t="2560" ac="255"> percent</s><s t="3040" ac="255"> of</s></p>
+<p t="545190" d="2490" w="1" a="1">
+</p>
+<p t="545200" d="5040" w="1"><s ac="255">teen</s><s t="400" ac="255"> girls</s><s t="880" ac="255"> say</s><s t="1120" ac="255"> instagram</s><s t="1840" ac="255"> makes</s><s t="2160" ac="255"> thoughts</s></p>
+<p t="547670" d="2570" w="1" a="1">
+</p>
+<p t="547680" d="6320" w="1"><s ac="255">of</s><s t="159" ac="255"> suicide</s><s t="1040" ac="255"> worse</s></p>
+<p t="550230" d="3770" w="1" a="1">
+</p>
+<p t="550240" d="7120" w="1"><s ac="255">17</s><s t="1200" ac="255"> of</s><s t="1360" ac="255"> teen</s><s t="1680" ac="255"> girls</s><s t="2400" ac="255"> say</s><s t="2719" ac="255"> instagram</s><s t="3440" ac="255"> makes</s></p>
+<p t="553990" d="3370" w="1" a="1">
+</p>
+<p t="554000" d="6560" w="1"><s ac="255">eating</s><s t="640" ac="255"> disorders</s><s t="1600" ac="255"> worse</s><s t="2399" ac="255"> and</s><s t="2560" ac="255"> what&#39;s</s><s t="2880" ac="255"> super</s></p>
+<p t="557350" d="3210" w="1" a="1">
+</p>
+<p t="557360" d="6240" w="1"><s ac="255">tragic</s><s t="640" ac="255"> is</s><s t="800" ac="255"> facebook&#39;s</s><s t="1440" ac="255"> own</s><s t="1680" ac="255"> research</s><s t="2159" ac="255"> says</s></p>
+<p t="560550" d="3050" w="1" a="1">
+</p>
+<p t="560560" d="4959" w="1"><s ac="255">as</s><s t="320" ac="255"> these</s><s t="560" ac="255"> young</s><s t="800" ac="255"> women</s><s t="1680" ac="255"> begin</s><s t="2160" ac="255"> to</s><s t="2399" ac="255"> consume</s></p>
+<p t="563590" d="1929" w="1" a="1">
+</p>
+<p t="563600" d="3440" w="1"><s ac="255">this</s><s t="239" ac="255"> eating</s><s t="480" ac="255"> disorder</s><s t="960" ac="255"> content</s><s t="1600" ac="255"> they</s><s t="1760" ac="255"> get</s></p>
+<p t="565509" d="1531" w="1" a="1">
+</p>
+<p t="565519" d="3041" w="1"><s ac="255">more</s><s t="161" ac="255"> and</s><s t="241" ac="255"> more</s><s t="401" ac="255"> depressed</s></p>
+<p t="567030" d="1530" w="1" a="1">
+</p>
+<p t="567040" d="3200" w="1"><s ac="255">and</s><s t="80" ac="255"> it</s><s t="239" ac="255"> actually</s><s t="560" ac="255"> makes</s><s t="799" ac="255"> them</s><s t="960" ac="255"> use</s><s t="1120" ac="255"> the</s><s t="1280" ac="255"> app</s></p>
+<p t="568550" d="1690" w="1" a="1">
+</p>
+<p t="568560" d="3200" w="1"><s ac="255">more</s></p>
+<p t="570230" d="1530" w="1" a="1">
+</p>
+<p t="570240" d="3680" w="1"><s ac="255">and</s><s t="159" ac="255"> so</s><s t="320" ac="255"> they</s><s t="480" ac="255"> end</s><s t="719" ac="255"> up</s><s t="800" ac="255"> in</s><s t="960" ac="255"> this</s><s t="1120" ac="255"> feedback</s></p>
+<p t="571750" d="2170" w="1" a="1">
+</p>
+<p t="571760" d="5680" w="1"><s ac="255">cycle</s><s t="560" ac="255"> where</s><s t="1040" ac="255"> they</s><s t="1199" ac="255"> hate</s><s t="1440" ac="255"> their</s><s t="1600" ac="255"> bodies</s><s t="2000" ac="255"> more</s></p>
+<p t="573910" d="3530" w="1" a="1">
+</p>
+<p t="573920" d="5599" w="1"><s ac="255">and</s><s t="160" ac="255"> more</s><s t="880" ac="255"> facebook&#39;s</s><s t="1440" ac="255"> own</s><s t="1599" ac="255"> research</s><s t="2160" ac="255"> says</s></p>
+<p t="577430" d="2089" w="1" a="1">
+</p>
+<p t="577440" d="4079" w="1"><s ac="255">it</s><s t="160" ac="255"> is</s><s t="320" ac="255"> not</s><s t="640" ac="255"> just</s><s t="880" ac="255"> that</s><s t="1040" ac="255"> instagram</s><s t="1839" ac="255"> is</s></p>
+<p t="579509" d="2010" w="1" a="1">
+</p>
+<p t="579519" d="3201" w="1"><s ac="255">dangerous</s><s t="481" ac="255"> for</s><s t="641" ac="255"> teenagers</s><s t="1201" ac="255"> that</s><s t="1361" ac="255"> it</s><s t="1601" ac="255"> harms</s></p>
+<p t="581509" d="1211" w="1" a="1">
+</p>
+<p t="581519" d="3601" w="1"><s ac="255">teenagers</s></p>
+<p t="582710" d="2410" w="1" a="1">
+</p>
+<p t="582720" d="4400" w="1"><s ac="255">it&#39;s</s><s t="160" ac="255"> that</s><s t="320" ac="255"> it</s><s t="480" ac="255"> is</s><s t="640" ac="255"> distinctly</s><s t="1679" ac="255"> worse</s><s t="2160" ac="255"> than</s></p>
+<p t="585110" d="2010" w="1" a="1">
+</p>
+<p t="585120" d="4399" w="1"><s ac="255">other</s><s t="240" ac="255"> forms</s><s t="560" ac="255"> of</s><s t="640" ac="255"> social</s><s t="960" ac="255"> media</s></p>
+<p t="587110" d="2409" w="1" a="1">
+</p>
+<p t="587120" d="4960" w="1"><s ac="255">facebook</s><s t="640" ac="255"> said</s><s t="960" ac="255"> just</s><s t="1200" ac="255"> last</s><s t="1600" ac="255"> week</s></p>
+<p t="589509" d="2571" w="1" a="1">
+</p>
+<p t="589519" d="6081" w="1"><s ac="255">it</s><s t="161" ac="255"> would</s><s t="481" ac="255"> postpone</s><s t="1201" ac="255"> plans</s><s t="1760" ac="255"> to</s><s t="1921" ac="255"> create</s><s t="2320" ac="255"> an</s></p>
+<p t="592070" d="3530" w="1" a="1">
+</p>
+<p t="592080" d="5920" w="1"><s ac="255">instagram</s><s t="1120" ac="255"> for</s><s t="1360" ac="255"> younger</s><s t="1840" ac="255"> children</s></p>
+<p t="595590" d="2410" w="1" a="1">
+</p>
+<p t="595600" d="4160" w="1"><s ac="255">last</s><s t="320" ac="255"> month</s><s t="960" ac="255"> haugen&#39;s</s><s t="1440" ac="255"> lawyers</s><s t="1919" ac="255"> filed</s><s t="2239" ac="255"> at</s></p>
+<p t="597990" d="1770" w="1" a="1">
+</p>
+<p t="598000" d="4000" w="1"><s ac="255">least</s><s t="399" ac="255"> eight</s><s t="800" ac="255"> complaints</s><s t="1440" ac="255"> with</s><s t="1600" ac="255"> the</s></p>
+<p t="599750" d="2250" w="1" a="1">
+</p>
+<p t="599760" d="5360" w="1"><s ac="255">securities</s><s t="639" ac="255"> and</s><s t="800" ac="255"> exchange</s><s t="1280" ac="255"> commission</s><s t="1840" ac="255"> which</s></p>
+<p t="601990" d="3130" w="1" a="1">
+</p>
+<p t="602000" d="5279" w="1"><s ac="255">enforces</s><s t="640" ac="255"> the</s><s t="800" ac="255"> law</s><s t="1200" ac="255"> in</s><s t="1360" ac="255"> financial</s><s t="1920" ac="255"> markets</s></p>
+<p t="605110" d="2169" w="1" a="1">
+</p>
+<p t="605120" d="5600" w="1"><s ac="255">the</s><s t="159" ac="255"> complaints</s><s t="880" ac="255"> compare</s><s t="1440" ac="255"> the</s><s t="1680" ac="255"> internal</s></p>
+<p t="607269" d="3451" w="1" a="1">
+</p>
+<p t="607279" d="6641" w="1"><s ac="255">research</s><s t="961" ac="255"> with</s><s t="1201" ac="255"> the</s><s t="1361" ac="255"> company&#39;s</s><s t="2081" ac="255"> public</s><s t="2560" ac="255"> face</s></p>
+<p t="610710" d="3210" w="1" a="1">
+</p>
+<p t="610720" d="6000" w="1"><s ac="255">often</s><s t="400" ac="255"> that</s><s t="640" ac="255"> of</s><s t="880" ac="255"> ceo</s><s t="1440" ac="255"> mark</s><s t="1760" ac="255"> zuckerberg</s><s t="2640" ac="255"> here</s></p>
+<p t="613910" d="2810" w="1" a="1">
+</p>
+<p t="613920" d="5120" w="1"><s ac="255">testifying</s><s t="800" ac="255"> remotely</s><s t="1440" ac="255"> to</s><s t="1599" ac="255"> congress</s><s t="2400" ac="255"> last</s></p>
+<p t="616710" d="2330" w="1" a="1">
+</p>
+<p t="616720" d="4559" w="1"><s ac="255">march</s><s t="720" ac="255"> we</s><s t="880" ac="255"> removed</s><s t="1200" ac="255"> content</s><s t="1760" ac="255"> that</s><s t="1920" ac="255"> could</s><s t="2160" ac="255"> lead</s></p>
+<p t="619030" d="2249" w="1" a="1">
+</p>
+<p t="619040" d="3840" w="1"><s ac="255">to</s><s t="160" ac="255"> imminent</s><s t="479" ac="255"> real</s><s t="720" ac="255"> world</s><s t="960" ac="255"> harm</s><s t="1760" ac="255"> we&#39;ve</s><s t="2000" ac="255"> built</s></p>
+<p t="621269" d="1611" w="1" a="1">
+</p>
+<p t="621279" d="3281" w="1"><s ac="255">an</s><s t="161" ac="255"> unprecedented</s><s t="1041" ac="255"> third-party</s></p>
+<p t="622870" d="1690" w="1" a="1">
+</p>
+<p t="622880" d="3840" w="1"><s ac="255">fact-checking</s><s t="639" ac="255"> program</s></p>
+<p t="624550" d="2170" w="1" a="1">
+</p>
+<p t="624560" d="4000" w="1"><s ac="255">the</s><s t="160" ac="255"> system</s><s t="480" ac="255"> isn&#39;t</s><s t="719" ac="255"> perfect</s><s t="1600" ac="255"> but</s><s t="1839" ac="255"> it&#39;s</s><s t="2080" ac="255"> the</s></p>
+<p t="626710" d="1850" w="1" a="1">
+</p>
+<p t="626720" d="3840" w="1"><s ac="255">best</s><s t="320" ac="255"> approach</s><s t="640" ac="255"> that</s><s t="799" ac="255"> we&#39;ve</s><s t="1119" ac="255"> found</s><s t="1679" ac="255"> to</s></p>
+<p t="628550" d="2010" w="1" a="1">
+</p>
+<p t="628560" d="4000" w="1"><s ac="255">address</s><s t="399" ac="255"> misinformation</s><s t="1200" ac="255"> in</s><s t="1360" ac="255"> line</s><s t="1680" ac="255"> with</s><s t="1839" ac="255"> our</s></p>
+<p t="630550" d="2010" w="1" a="1">
+</p>
+<p t="630560" d="4640" w="1"><s ac="255">country&#39;s</s><s t="480" ac="255"> values</s></p>
+<p t="632550" d="2650" w="1" a="1">
+</p>
+<p t="632560" d="3519" w="1"><s ac="255">one</s><s t="240" ac="255"> of</s><s t="399" ac="255"> francis</s><s t="880" ac="255"> haugen&#39;s</s><s t="1440" ac="255"> lawyers</s><s t="2000" ac="255"> is</s><s t="2240" ac="255"> john</s></p>
+<p t="635190" d="889" w="1" a="1">
+</p>
+<p t="635200" d="3199" w="1"><s ac="255">tai</s></p>
+<p t="636069" d="2330" w="1" a="1">
+</p>
+<p t="636079" d="5041" w="1"><s ac="255">he&#39;s</s><s t="320" ac="255"> the</s><s t="481" ac="255"> founder</s><s t="961" ac="255"> of</s><s t="1121" ac="255"> a</s><s t="1200" ac="255"> washington</s><s t="1841" ac="255"> legal</s></p>
+<p t="638389" d="2731" w="1" a="1">
+</p>
+<p t="638399" d="6081" w="1"><s ac="255">group</s><s t="401" ac="255"> called</s><s t="801" ac="255"> whistleblower</s><s t="1680" ac="255"> aid</s></p>
+<p t="641110" d="3370" w="1" a="1">
+</p>
+<p t="641120" d="6080" w="1"><s ac="255">what</s><s t="320" ac="255"> is</s><s t="719" ac="255"> the</s><s t="1279" ac="255"> legal</s><s t="1760" ac="255"> theory</s><s t="2560" ac="255"> behind</s><s t="2959" ac="255"> going</s><s t="3200" ac="255"> to</s></p>
+<p t="644470" d="2730" w="1" a="1">
+</p>
+<p t="644480" d="4080" w="1"><s ac="255">the</s><s t="80" ac="255"> sec</s><s t="799" ac="255"> what</s><s t="1120" ac="255"> laws</s><s t="1599" ac="255"> are</s><s t="1760" ac="255"> you</s><s t="2000" ac="255"> alleging</s><s t="2560" ac="255"> have</s></p>
+<p t="647190" d="1370" w="1" a="1">
+</p>
+<p t="647200" d="4079" w="1"><s ac="255">been</s><s t="240" ac="255"> broken</s></p>
+<p t="648550" d="2729" w="1" a="1">
+</p>
+<p t="648560" d="3839" w="1"><s ac="255">as</s><s t="160" ac="255"> a</s><s t="240" ac="255"> publicly</s><s t="719" ac="255"> traded</s><s t="1040" ac="255"> company</s><s t="1920" ac="255"> facebook</s><s t="2560" ac="255"> is</s></p>
+<p t="651269" d="1130" w="1" a="1">
+</p>
+<p t="651279" d="3761" w="1"><s ac="255">required</s></p>
+<p t="652389" d="2651" w="1" a="1">
+</p>
+<p t="652399" d="5921" w="1"><s ac="255">to</s><s t="560" ac="255"> not</s><s t="880" ac="255"> lie</s><s t="1120" ac="255"> to</s><s t="1281" ac="255"> its</s><s t="1521" ac="255"> investors</s></p>
+<p t="655030" d="3290" w="1" a="1">
+</p>
+<p t="655040" d="6239" w="1"><s ac="255">or</s><s t="239" ac="255"> even</s><s t="720" ac="255"> withhold</s><s t="1280" ac="255"> material</s><s t="1919" ac="255"> information</s></p>
+<p t="658310" d="2969" w="1" a="1">
+</p>
+<p t="658320" d="5680" w="1"><s ac="255">so</s><s t="480" ac="255"> the</s><s t="639" ac="255"> sec</s><s t="1120" ac="255"> regularly</s><s t="1759" ac="255"> brings</s><s t="2320" ac="255"> enforcement</s></p>
+<p t="661269" d="2731" w="1" a="1">
+</p>
+<p t="661279" d="5120" w="1"><s ac="255">actions</s><s t="881" ac="255"> alleging</s><s t="1281" ac="255"> that</s><s t="1521" ac="255"> companies</s><s t="2481" ac="255"> like</s></p>
+<p t="663990" d="2409" w="1" a="1">
+</p>
+<p t="664000" d="4320" w="1"><s ac="255">facebook</s><s t="399" ac="255"> and</s><s t="560" ac="255"> others</s><s t="1360" ac="255"> are</s><s t="1519" ac="255"> making</s><s t="1760" ac="255"> material</s></p>
+<p t="666389" d="1931" w="1" a="1">
+</p>
+<p t="666399" d="3921" w="1"><s ac="255">misstatements</s><s t="721" ac="255"> and</s><s t="880" ac="255"> omissions</s></p>
+<p t="668310" d="2010" w="1" a="1">
+</p>
+<p t="668320" d="3920" w="1"><s ac="255">that</s><s t="400" ac="255"> affect</s><s t="800" ac="255"> investors</s></p>
+<p t="670310" d="1930" w="1" a="1">
+</p>
+<p t="670320" d="4400" w="1"><s ac="255">adversely</s><s t="1040" ac="255"> one</s><s t="1199" ac="255"> of</s><s t="1280" ac="255"> the</s><s t="1440" ac="255"> things</s><s t="1680" ac="255"> that</s></p>
+<p t="672230" d="2490" w="1" a="1">
+</p>
+<p t="672240" d="5039" w="1"><s ac="255">facebook</s><s t="480" ac="255"> might</s><s t="719" ac="255"> allege</s><s t="1120" ac="255"> is</s><s t="1200" ac="255"> that</s><s t="1360" ac="255"> she</s><s t="1680" ac="255"> stole</s></p>
+<p t="674710" d="2569" w="1" a="1">
+</p>
+<p t="674720" d="4960" w="1"><s ac="255">company</s><s t="400" ac="255"> documents</s><s t="1359" ac="255"> the</s><s t="1520" ac="255"> dodd-frank</s><s t="2160" ac="255"> act</s></p>
+<p t="677269" d="2411" w="1" a="1">
+</p>
+<p t="677279" d="4881" w="1"><s ac="255">passed</s><s t="721" ac="255"> over</s><s t="961" ac="255"> 10</s><s t="1201" ac="255"> years</s><s t="1361" ac="255"> ago</s><s t="1601" ac="255"> at</s><s t="1680" ac="255"> this</s><s t="1921" ac="255"> point</s></p>
+<p t="679670" d="2490" w="1" a="1">
+</p>
+<p t="679680" d="4960" w="1"><s ac="255">created</s><s t="960" ac="255"> uh</s><s t="1680" ac="255"> an</s><s t="1920" ac="255"> office</s><s t="2240" ac="255"> of</s><s t="2320" ac="255"> the</s></p>
+<p t="682150" d="2490" w="1" a="1">
+</p>
+<p t="682160" d="4239" w="1"><s ac="255">whistleblower</s><s t="720" ac="255"> inside</s><s t="1119" ac="255"> the</s><s t="1280" ac="255"> sec</s></p>
+<p t="684630" d="1769" w="1" a="1">
+</p>
+<p t="684640" d="4400" w="1"><s ac="255">and</s><s t="240" ac="255"> one</s><s t="400" ac="255"> of</s><s t="480" ac="255"> the</s><s t="639" ac="255"> provisions</s><s t="1199" ac="255"> of</s><s t="1280" ac="255"> that</s><s t="1439" ac="255"> law</s></p>
+<p t="686389" d="2651" w="1" a="1">
+</p>
+<p t="686399" d="5201" w="1"><s ac="255">says</s><s t="241" ac="255"> that</s><s t="880" ac="255"> no</s><s t="1281" ac="255"> company</s></p>
+<p t="689030" d="2570" w="1" a="1">
+</p>
+<p t="689040" d="4799" w="1"><s ac="255">can</s><s t="160" ac="255"> prohibit</s><s t="720" ac="255"> its</s><s t="960" ac="255"> employees</s><s t="1760" ac="255"> from</s><s t="2080" ac="255"> from</s></p>
+<p t="691590" d="2249" w="1" a="1">
+</p>
+<p t="691600" d="3840" w="1"><s ac="255">communicating</s><s t="560" ac="255"> with</s><s t="720" ac="255"> the</s><s t="880" ac="255"> sec</s><s t="1520" ac="255"> and</s><s t="1760" ac="255"> sharing</s></p>
+<p t="693829" d="1611" w="1" a="1">
+</p>
+<p t="693839" d="4721" w="1"><s ac="255">internal</s><s t="481" ac="255"> corporate</s><s t="881" ac="255"> documents</s><s t="1361" ac="255"> with</s><s t="1440" ac="255"> the</s></p>
+<p t="695430" d="3130" w="1" a="1">
+</p>
+<p t="695440" d="6000" w="1"><s ac="255">sec</s><s t="800" ac="255"> i</s><s t="1040" ac="255"> have</s><s t="1200" ac="255"> a</s><s t="1280" ac="255"> lot</s><s t="1440" ac="255"> of</s><s t="1600" ac="255"> empathy</s><s t="2000" ac="255"> for</s><s t="2160" ac="255"> mark</s><s t="2880" ac="255"> and</s></p>
+<p t="698550" d="2890" w="1" a="1">
+</p>
+<p t="698560" d="4320" w="1"><s ac="255">mark</s><s t="480" ac="255"> has</s><s t="880" ac="255"> never</s><s t="1279" ac="255"> set</s><s t="1600" ac="255"> out</s><s t="2000" ac="255"> to</s><s t="2160" ac="255"> make</s><s t="2320" ac="255"> a</s><s t="2399" ac="255"> hateful</s></p>
+<p t="701430" d="1450" w="1" a="1">
+</p>
+<p t="701440" d="4480" w="1"><s ac="255">platform</s></p>
+<p t="702870" d="3050" w="1" a="1">
+</p>
+<p t="702880" d="5120" w="1"><s ac="255">but</s><s t="320" ac="255"> he</s><s t="480" ac="255"> has</s><s t="720" ac="255"> allowed</s><s t="1199" ac="255"> choices</s><s t="1680" ac="255"> to</s><s t="1760" ac="255"> be</s><s t="1920" ac="255"> made</s></p>
+<p t="705910" d="2090" w="1" a="1">
+</p>
+<p t="705920" d="4159" w="1"><s ac="255">where</s><s t="240" ac="255"> the</s><s t="400" ac="255"> side</s><s t="640" ac="255"> effects</s><s t="1039" ac="255"> of</s><s t="1200" ac="255"> those</s><s t="1440" ac="255"> choices</s></p>
+<p t="707990" d="2089" w="1" a="1">
+</p>
+<p t="708000" d="4240" w="1"><s ac="255">are</s><s t="399" ac="255"> that</s><s t="640" ac="255"> hateful</s><s t="959" ac="255"> polarizing</s><s t="1519" ac="255"> content</s><s t="1920" ac="255"> gets</s></p>
+<p t="710069" d="2171" w="1" a="1">
+</p>
+<p t="710079" d="4721" w="1"><s ac="255">more</s><s t="241" ac="255"> distribution</s><s t="801" ac="255"> more</s><s t="961" ac="255"> reach</s></p>
+<p t="712230" d="2570" w="1" a="1">
+</p>
+<p t="712240" d="5760" w="1"><s ac="255">facebook</s><s t="480" ac="255"> declined</s><s t="1039" ac="255"> an</s><s t="1279" ac="255"> interview</s><s t="1920" ac="255"> but</s><s t="2320" ac="255"> in</s><s t="2480" ac="255"> a</s></p>
+<p t="714790" d="3210" w="1" a="1">
+</p>
+<p t="714800" d="5440" w="1"><s ac="255">written</s><s t="400" ac="255"> statement</s><s t="880" ac="255"> to</s><s t="1039" ac="255"> 60</s><s t="1440" ac="255"> minutes</s><s t="1839" ac="255"> it</s><s t="2080" ac="255"> said</s></p>
+<p t="717990" d="2250" w="1" a="1">
+</p>
+<p t="718000" d="4000" w="1"><s ac="255">every</s><s t="320" ac="255"> day</s><s t="639" ac="255"> our</s><s t="880" ac="255"> teams</s><s t="1360" ac="255"> have</s><s t="1519" ac="255"> to</s><s t="1680" ac="255"> balance</s></p>
+<p t="720230" d="1770" w="1" a="1">
+</p>
+<p t="720240" d="4800" w="1"><s ac="255">protecting</s><s t="560" ac="255"> the</s><s t="719" ac="255"> right</s><s t="960" ac="255"> of</s><s t="1200" ac="255"> billions</s><s t="1680" ac="255"> of</s></p>
+<p t="721990" d="3050" w="1" a="1">
+</p>
+<p t="722000" d="5360" w="1"><s ac="255">people</s><s t="399" ac="255"> to</s><s t="639" ac="255"> express</s><s t="1120" ac="255"> themselves</s><s t="1760" ac="255"> openly</s><s t="2800" ac="255"> with</s></p>
+<p t="725030" d="2330" w="1" a="1">
+</p>
+<p t="725040" d="4000" w="1"><s ac="255">the</s><s t="160" ac="255"> need</s><s t="400" ac="255"> to</s><s t="560" ac="255"> keep</s><s t="799" ac="255"> our</s><s t="1039" ac="255"> platform</s><s t="1680" ac="255"> a</s><s t="1840" ac="255"> safe</s><s t="2160" ac="255"> and</s></p>
+<p t="727350" d="1690" w="1" a="1">
+</p>
+<p t="727360" d="3360" w="1"><s ac="255">positive</s><s t="560" ac="255"> place</s></p>
+<p t="729030" d="1690" w="1" a="1">
+</p>
+<p t="729040" d="3599" w="1"><s ac="255">we</s><s t="160" ac="255"> continue</s><s t="640" ac="255"> to</s><s t="799" ac="255"> make</s><s t="1039" ac="255"> significant</s></p>
+<p t="730710" d="1929" w="1" a="1">
+</p>
+<p t="730720" d="4720" w="1"><s ac="255">improvements</s><s t="559" ac="255"> to</s><s t="799" ac="255"> tackle</s><s t="1200" ac="255"> the</s><s t="1359" ac="255"> spread</s><s t="1840" ac="255"> of</s></p>
+<p t="732629" d="2811" w="1" a="1">
+</p>
+<p t="732639" d="5681" w="1"><s ac="255">misinformation</s><s t="961" ac="255"> and</s><s t="1121" ac="255"> harmful</s><s t="1601" ac="255"> content</s></p>
+<p t="735430" d="2890" w="1" a="1">
+</p>
+<p t="735440" d="4079" w="1"><s ac="255">to</s><s t="240" ac="255"> suggest</s><s t="800" ac="255"> we</s><s t="1040" ac="255"> encourage</s><s t="1680" ac="255"> bad</s><s t="2079" ac="255"> content</s><s t="2720" ac="255"> and</s></p>
+<p t="738310" d="1209" w="1" a="1">
+</p>
+<p t="738320" d="3280" w="1"><s ac="255">do</s><s t="240" ac="255"> nothing</s></p>
+<p t="739509" d="2091" w="1" a="1">
+</p>
+<p t="739519" d="5201" w="1"><s ac="255">is</s><s t="161" ac="255"> just</s><s t="401" ac="255"> not</s><s t="641" ac="255"> true</s></p>
+<p t="741590" d="3130" w="1" a="1">
+</p>
+<p t="741600" d="6000" w="1"><s ac="255">if</s><s t="239" ac="255"> any</s><s t="560" ac="255"> research</s><s t="1200" ac="255"> had</s><s t="1600" ac="255"> identified</s><s t="2400" ac="255"> an</s><s t="2640" ac="255"> exact</s></p>
+<p t="744710" d="2890" w="1" a="1">
+</p>
+<p t="744720" d="6000" w="1"><s ac="255">solution</s><s t="559" ac="255"> to</s><s t="799" ac="255"> these</s><s t="1040" ac="255"> complex</s><s t="1679" ac="255"> challenges</s><s t="2640" ac="255"> the</s></p>
+<p t="747590" d="3130" w="1" a="1">
+</p>
+<p t="747600" d="6239" w="1"><s ac="255">tech</s><s t="239" ac="255"> industry</s><s t="1120" ac="255"> governments</s><s t="1760" ac="255"> and</s><s t="2000" ac="255"> society</s></p>
+<p t="750710" d="3129" w="1" a="1">
+</p>
+<p t="750720" d="5919" w="1"><s ac="255">would</s><s t="239" ac="255"> have</s><s t="400" ac="255"> solved</s><s t="640" ac="255"> them</s><s t="880" ac="255"> a</s><s t="1040" ac="255"> long</s><s t="1280" ac="255"> time</s><s t="1600" ac="255"> ago</s></p>
+<p t="753829" d="2810" w="1" a="1">
+</p>
+<p t="753839" d="7361" w="1"><s ac="255">facebook</s><s t="721" ac="255"> is</s><s t="961" ac="255"> a</s><s t="1201" ac="255"> one</s><s t="1841" ac="255"> trillion</s><s t="2401" ac="255"> dollar</s></p>
+<p t="756629" d="4571" w="1" a="1">
+</p>
+<p t="756639" d="6161" w="1"><s ac="255">company</s><s t="961" ac="255"> just</s><s t="1281" ac="255"> 17</s><s t="1841" ac="255"> years</s><s t="2161" ac="255"> old</s><s t="2801" ac="255"> it</s><s t="3041" ac="255"> has</s><s t="3361" ac="255"> 2.8</s></p>
+<p t="761190" d="1610" w="1" a="1">
+</p>
+<p t="761200" d="4639" w="1"><s ac="255">billion</s><s t="560" ac="255"> users</s></p>
+<p t="762790" d="3049" w="1" a="1">
+</p>
+<p t="762800" d="5599" w="1"><s ac="255">which</s><s t="240" ac="255"> is</s><s t="479" ac="255"> 60</s><s t="1120" ac="255"> percent</s><s t="1760" ac="255"> of</s><s t="2080" ac="255"> all</s><s t="2479" ac="255"> internet</s></p>
+<p t="765829" d="2570" w="1" a="1">
+</p>
+<p t="765839" d="5361" w="1"><s ac="255">connected</s><s t="560" ac="255"> people</s><s t="1041" ac="255"> on</s><s t="1281" ac="255"> earth</s></p>
+<p t="768389" d="2811" w="1" a="1">
+</p>
+<p t="768399" d="4641" w="1"><s ac="255">francis</s><s t="481" ac="255"> haugen</s><s t="961" ac="255"> plans</s><s t="1361" ac="255"> to</s><s t="1601" ac="255"> testify</s><s t="2321" ac="255"> before</s></p>
+<p t="771190" d="1850" w="1" a="1">
+</p>
+<p t="771200" d="4000" w="1"><s ac="255">congress</s><s t="560" ac="255"> this</s><s t="879" ac="255"> week</s></p>
+<p t="773030" d="2170" w="1" a="1">
+</p>
+<p t="773040" d="4400" w="1"><s ac="255">she</s><s t="239" ac="255"> believes</s><s t="640" ac="255"> the</s><s t="799" ac="255"> federal</s><s t="1280" ac="255"> government</s></p>
+<p t="775190" d="2250" w="1" a="1">
+</p>
+<p t="775200" d="4400" w="1"><s ac="255">should</s><s t="319" ac="255"> impose</s><s t="879" ac="255"> regulations</s></p>
+<p t="777430" d="2170" w="1" a="1">
+</p>
+<p t="777440" d="4399" w="1"><s ac="255">facebook</s><s t="399" ac="255"> has</s><s t="560" ac="255"> demonstrated</s><s t="1440" ac="255"> they</s><s t="1680" ac="255"> cannot</s></p>
+<p t="779590" d="2249" w="1" a="1">
+</p>
+<p t="779600" d="4320" w="1"><s ac="255">act</s><s t="239" ac="255"> independently</s><s t="1280" ac="255"> facebook</s><s t="1760" ac="255"> over</s><s t="2000" ac="255"> and</s><s t="2080" ac="255"> over</s></p>
+<p t="781829" d="2091" w="1" a="1">
+</p>
+<p t="781839" d="4881" w="1"><s ac="255">again</s><s t="240" ac="255"> has</s><s t="401" ac="255"> shown</s><s t="800" ac="255"> it</s><s t="1041" ac="255"> uses</s><s t="1440" ac="255"> profit</s><s t="1841" ac="255"> over</s></p>
+<p t="783910" d="2810" w="1" a="1">
+</p>
+<p t="783920" d="5840" w="1"><s ac="255">safety</s><s t="880" ac="255"> it</s><s t="1039" ac="255"> is</s><s t="1280" ac="255"> subsidizing</s><s t="2000" ac="255"> is</s><s t="2240" ac="255"> paying</s><s t="2560" ac="255"> for</s></p>
+<p t="786710" d="3050" w="1" a="1">
+</p>
+<p t="786720" d="4400" w="1"><s ac="255">its</s><s t="239" ac="255"> profits</s><s t="720" ac="255"> with</s><s t="1040" ac="255"> our</s><s t="1280" ac="255"> safety</s><s t="2160" ac="255"> i&#39;m</s><s t="2400" ac="255"> hoping</s></p>
+<p t="789750" d="1370" w="1" a="1">
+</p>
+<p t="789760" d="2800" w="1"><s ac="255">that</s><s t="160" ac="255"> this</s><s t="319" ac="255"> will</s><s t="480" ac="255"> have</s><s t="639" ac="255"> had</s><s t="800" ac="255"> a</s><s t="879" ac="255"> big</s><s t="1120" ac="255"> enough</s></p>
+<p t="791110" d="1450" w="1" a="1">
+</p>
+<p t="791120" d="3120" w="1"><s ac="255">impact</s><s t="320" ac="255"> on</s><s t="480" ac="255"> the</s><s t="560" ac="255"> world</s></p>
+<p t="792550" d="1690" w="1" a="1">
+</p>
+<p t="792560" d="4000" w="1"><s ac="255">that</s><s t="160" ac="255"> they</s><s t="320" ac="255"> get</s><s t="480" ac="255"> the</s><s t="640" ac="255"> fortitude</s><s t="1440" ac="255"> and</s><s t="1600" ac="255"> the</s></p>
+<p t="794230" d="2330" w="1" a="1">
+</p>
+<p t="794240" d="5279" w="1"><s ac="255">motivation</s><s t="640" ac="255"> to</s><s t="800" ac="255"> actually</s><s t="1200" ac="255"> go</s><s t="1920" ac="255"> put</s><s t="2080" ac="255"> those</s></p>
+<p t="796550" d="2969" w="1" a="1">
+</p>
+<p t="796560" d="5600" w="1"><s ac="255">regulations</s><s t="560" ac="255"> into</s><s t="800" ac="255"> place</s></p>
+<p t="799509" d="2651" w="1" a="1">
+</p>
+<p t="799519" d="2641" w="1"><s ac="255">that&#39;s</s><s t="161" ac="255"> my</s><s t="401" ac="255"> hope</s></p>
+<p t="804949" w="1" a="1">
+</p>
+<p t="804959" d="5041" w="1"><s ac="255">more</s><s t="241" ac="255"> from</s><s t="401" ac="255"> the</s><s t="560" ac="255"> facebook</s><s t="1120" ac="255"> whistleblower</s></p>
+<p t="806949" d="3051" w="1" a="1">
+</p>
+<p t="806959" d="5880" w="1"><s ac="255">publishers</s><s t="1120" ac="255"> know</s><s t="1601" ac="255"> you</s><s t="1761" ac="255"> are</s><s t="1921" ac="255"> more</s><s t="2161" ac="255"> likely</s><s t="2880" ac="255"> to</s></p>
+<p t="809990" d="2849" w="1" a="1">
+</p>
+<p t="810000" d="7480" w="1"><s ac="255">engage</s><s t="320" ac="255"> with</s><s t="399" ac="255"> angry</s><s t="720" ac="255"> content</s><s t="1440" ac="255"> at</s></p>
+<p t="812829" d="4651" w="1" a="1">
+</p>
+<p t="812839" d="4641" w="1"><s ac="255">60minutesovertime.com</s><s t="1481" ac="255"> by</s><s t="1641" ac="255"> colaguard</s></p>
+</body>
+</timedtext>
